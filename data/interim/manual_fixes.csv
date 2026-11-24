@@ -1,0 +1,24 @@
+id,action,new_intent,new_text_ar,reason
+bx00016,edit,,لا أستطيع دفع ثمن الطلب 771088، أريد إلغاءه,source has no explicit cancel request
+bx00126,edit,,لم أعد أستطيع دفع ثمن الطلب 207473، أريد إلغاءه,source has no explicit cancel request
+bx00141,edit,,لم أعد أستطيع تحمل تكلفة الطلب 748564، أريد إلغاءه,source has no explicit cancel request
+bx00166,edit,,لا أستطيع تحمل تكلفة الطلب 476417، أريد إلغاءه,source has no explicit cancel request
+bx00773,relabel,track_refund,,asks when an existing refund arrives (decision rule)
+bx00786,relabel,track_refund,,asks when an existing refund arrives (decision rule)
+bx00787,relabel,track_refund,,asks when an existing refund arrives (decision rule)
+bx00821,relabel,track_refund,,asks when an existing refund arrives (decision rule)
+bx00822,relabel,track_refund,متى سأسترد المبلغ؟,asks when an existing refund arrives (decision rule)
+bx00890,relabel,track_refund,,asks when an existing refund arrives (decision rule)
+bx00968,relabel,track_refund,,asks when an existing refund arrives (decision rule)
+bx00739,edit,,أريد التحدث مع شخص,literal and unclear translation
+bx00620,edit,,يجب أن أتحدث مع أحد,unnatural verb form
+bx00553,edit,,أريد تقديم شكوى ضد مؤسستكم,imperative addressed to the company
+bx00816,edit,,أين يمكنني استرداد أموالي؟,unnatural تعويض عن أموالي
+bx00834,edit,,لا أعرف ماذا أفعل لاسترداد أموالي,unnatural تعويض عن أموالي
+bx00837,edit,,أحتاج إلى مساعدة لطلب استرداد أموالي,unnatural تعويض عن أموالي
+bx00868,edit,,لا أعرف كيف يمكنني استرداد أموالي,unnatural تعويض عن أموالي
+bx00886,edit,,أود استرداد أموالي,unnatural تعويض عن أموالي
+bx00967,edit,,أريد مساعدة لطلب استرداد أموالي,unnatural تعويض عن أموالي
+bx00969,relabel,track_refund,,asks when an existing refund arrives (found in second pass)
+bx00018,edit,,لا أستطيع دفع ثمن الطلب 816751، أريد إلغاءه,source has no explicit cancel request
+bx00169,edit,,لا أستطيع تحمل تكلفة الطلب 988662، أريد إلغاءه,source has no explicit cancel request

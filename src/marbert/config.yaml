@@ -1,0 +1,28 @@
+# Task 4: MARBERTv2 fine-tuning settings.
+# Change values here, not in the code. Every run records the settings it used.
+
+model_name: UBC-NLP/MARBERTv2   # Arabic BERT trained on tweets (dialects + MSA)
+
+# Hyper-parameter search: every learning rate is tried with every epoch count (3 x 2 = 6 runs).
+learning_rates: [2.0e-5, 3.0e-5, 5.0e-5]
+epochs: [3, 4]
+
+# Fixed settings, the same for every run (standard values for BERT fine-tuning).
+batch_size: 16
+max_length: 128        # max tokens per message; customer messages are much shorter
+weight_decay: 0.01
+warmup_ratio: 0.1      # first 10% of steps: learning rate rises from 0, then decreases linearly
+max_grad_norm: 1.0     # gradient clipping, keeps training stable
+seed: 42               # same seed for every run, so runs are comparable and repeatable
+
+# cancel_order has fewer training rows (81 vs 117-140). Team decision pending (ADR 0003).
+class_weights: false
+
+# The best run is chosen by this metric on the VALIDATION set only. Never on the Saudi test set.
+selection_metric: macro_f1
+
+paths:
+  train: data/processed/train.csv
+  validation: data/processed/validation.csv
+  model_dir: models/marbert/best      # not committed to Git (too big); upload to the Hugging Face Hub
+  results_dir: results/marbert         # small files, committed

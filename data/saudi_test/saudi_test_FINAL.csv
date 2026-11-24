@@ -1,0 +1,481 @@
+﻿id,base_request_id,text,intent,style
+SA-001,track_order-01,أريد معرفة مكان طلبي الآن,track_order,MSA
+SA-002,track_order-01,وين وصل طلبي الحين؟,track_order,Saudi Dialect
+SA-003,track_order-01,وينوصل طلبي الحين؟,track_order,Spelling Mistakes
+SA-004,track_order-01,وين وصل طلبي بالـ tracking؟,track_order,Arabic-English Code-switching
+SA-005,track_order-02,هل تم شحن طلبي حتى الآن؟,track_order,MSA
+SA-006,track_order-02,طلبي انشحن ولا للحين؟,track_order,Saudi Dialect
+SA-007,track_order-02,طلبيانشحن ولا للحين؟,track_order,Spelling Mistakes
+SA-008,track_order-02,طلبي صار shipped ولا للحين؟,track_order,Arabic-English Code-switching
+SA-009,track_order-03,متى سيصل الطلب إلى منزلي؟,track_order,MSA
+SA-010,track_order-03,متى يوصل الطلب لبيتي؟,track_order,Saudi Dialect
+SA-011,track_order-03,متىيوصل الطلب لبيتي؟,track_order,Spelling Mistakes
+SA-012,track_order-03,متى الـ delivery يوصل لبيتي؟,track_order,Arabic-English Code-switching
+SA-013,track_order-04,أريد الاطلاع على حالة الشحنة,track_order,MSA
+SA-014,track_order-04,وش صار على شحنتي؟,track_order,Saudi Dialect
+SA-015,track_order-04,وشصار على شحنتي؟,track_order,Spelling Mistakes
+SA-016,track_order-04,وش وضع الـ shipment؟,track_order,Arabic-English Code-switching
+SA-017,track_order-05,هل خرج طلبي للتوصيل اليوم؟,track_order,MSA
+SA-018,track_order-05,طلبي طلع مع المندوب اليوم؟,track_order,Saudi Dialect
+SA-019,track_order-05,طلبيطلع مع المندوب اليوم؟,track_order,Spelling Mistakes
+SA-020,track_order-05,طلبي out for delivery اليوم؟,track_order,Arabic-English Code-switching
+SA-021,track_order-06,لماذا لم يصل طلبي بعد؟,track_order,MSA
+SA-022,track_order-06,ليش طلبي ما وصل للحين؟,track_order,Saudi Dialect
+SA-023,track_order-06,ليشطلبي ما وصل للحين؟,track_order,Spelling Mistakes
+SA-024,track_order-06,ليش الـ order ما وصل للحين؟,track_order,Arabic-English Code-switching
+SA-025,track_order-07,أين أجد رقم تتبع الشحنة؟,track_order,MSA
+SA-026,track_order-07,وين ألقى رقم تتبع الشحنة؟,track_order,Saudi Dialect
+SA-027,track_order-07,وين القى رقم تتبع الشحنه؟,track_order,Spelling Mistakes
+SA-028,track_order-07,وين ألقى tracking number؟,track_order,Arabic-English Code-switching
+SA-029,track_order-08,أريد تحديثًا عن موعد تسليم طلبي,track_order,MSA
+SA-030,track_order-08,عطوني تحديث عن موعد وصول طلبي,track_order,Saudi Dialect
+SA-031,track_order-08,عطونيتحديث عن موعد وصول طلبي,track_order,Spelling Mistakes
+SA-032,track_order-08,أبي update عن موعد delivery,track_order,Arabic-English Code-switching
+SA-033,track_order-09,هل وصلت شحنتي إلى مدينتي؟,track_order,MSA
+SA-034,track_order-09,الشحنة وصلت مدينتي ولا باقي؟,track_order,Saudi Dialect
+SA-035,track_order-09,الشحنه وصلت مدينتي ولا باقي؟,track_order,Spelling Mistakes
+SA-036,track_order-09,الـ shipment وصلت مدينتي؟,track_order,Arabic-English Code-switching
+SA-037,track_order-10,هل هناك تأخير في توصيل الطلب؟,track_order,MSA
+SA-038,track_order-10,فيه تأخير على توصيل طلبي؟,track_order,Saudi Dialect
+SA-039,track_order-10,فيه تاخير على توصيل طلبي؟,track_order,Spelling Mistakes
+SA-040,track_order-10,فيه delay على الـ delivery؟,track_order,Arabic-English Code-switching
+SA-041,track_order-11,هل يمكنني متابعة حركة الشحنة؟,track_order,MSA
+SA-042,track_order-11,أقدر أشوف وين تتحرك شحنتي؟,track_order,Saudi Dialect
+SA-043,track_order-11,اقدر اشوف وين تتحرك شحنتي؟,track_order,Spelling Mistakes
+SA-044,track_order-11,أقدر أتابع shipment tracking؟,track_order,Arabic-English Code-switching
+SA-045,track_order-12,متى سيصل الطلب الذي اشتريته أمس؟,track_order,MSA
+SA-046,track_order-12,الطلب اللي شريته أمس متى يوصل؟,track_order,Saudi Dialect
+SA-047,track_order-12,الطلب اللي شريته امس متى يوصل؟,track_order,Spelling Mistakes
+SA-048,track_order-12,الـ order اللي طلبته أمس متى يوصل؟,track_order,Arabic-English Code-switching
+SA-049,track_order-13,ما الحالة الحالية للطلب رقم 245؟,track_order,MSA
+SA-050,track_order-13,وش وضع الطلب رقم 245؟,track_order,Saudi Dialect
+SA-051,track_order-13,وشوضع الطلب رقم 245؟,track_order,Spelling Mistakes
+SA-052,track_order-13,وش order status لطلب 245؟,track_order,Arabic-English Code-switching
+SA-053,track_order-14,هل غادرت الشحنة المستودع؟,track_order,MSA
+SA-054,track_order-14,شحنتي طلعت من المستودع؟,track_order,Saudi Dialect
+SA-055,track_order-14,شحنتيطلعت من المستودع؟,track_order,Spelling Mistakes
+SA-056,track_order-14,الـ shipment طلعت من warehouse؟,track_order,Arabic-English Code-switching
+SA-057,track_order-15,أريد معرفة الوقت المتوقع لوصول الطلب,track_order,MSA
+SA-058,track_order-15,متى تقريبًا يوصل طلبي؟,track_order,Saudi Dialect
+SA-059,track_order-15,متىتقريبًا يوصل طلبي؟,track_order,Spelling Mistakes
+SA-060,track_order-15,أبي أعرف estimated delivery لطلبي,track_order,Arabic-English Code-switching
+SA-061,cancel_order-01,أريد إلغاء طلبي قبل شحنه,cancel_order,MSA
+SA-062,cancel_order-01,أبي ألغي طلبي قبل ينشحن,cancel_order,Saudi Dialect
+SA-063,cancel_order-01,ابي الغي طلبي قبل ينشحن,cancel_order,Spelling Mistakes
+SA-064,cancel_order-01,أبي cancel للطلب قبل shipping,cancel_order,Arabic-English Code-switching
+SA-065,cancel_order-02,كيف ألغي الطلب الذي قدمته اليوم؟,cancel_order,MSA
+SA-066,cancel_order-02,كيف ألغي الطلب اللي سويته اليوم؟,cancel_order,Saudi Dialect
+SA-067,cancel_order-02,كيف الغي الطلب اللي سويته اليوم؟,cancel_order,Spelling Mistakes
+SA-068,cancel_order-02,كيف أسوي cancel للـ order اليوم؟,cancel_order,Arabic-English Code-switching
+SA-069,cancel_order-03,أرجو إلغاء الطلب رقم 318,cancel_order,MSA
+SA-070,cancel_order-03,ألغوا لي الطلب رقم 318,cancel_order,Saudi Dialect
+SA-071,cancel_order-03,الغوا لي الطلب رقم 318,cancel_order,Spelling Mistakes
+SA-072,cancel_order-03,Please cancel الطلب رقم 318,cancel_order,Arabic-English Code-switching
+SA-073,cancel_order-04,لم أعد أريد المنتج وأود إلغاء الطلب,cancel_order,MSA
+SA-074,cancel_order-04,ما عاد أبي المنتج، أبي ألغي الطلب,cancel_order,Saudi Dialect
+SA-075,cancel_order-04,ما عاد ابي المنتج، ابي الغي الطلب,cancel_order,Spelling Mistakes
+SA-076,cancel_order-04,ما عاد أبي المنتج، cancel my order,cancel_order,Arabic-English Code-switching
+SA-077,cancel_order-05,هل يمكن إلغاء الطلب قبل التجهيز؟,cancel_order,MSA
+SA-078,cancel_order-05,يمديني ألغي الطلب قبل تجهزونه؟,cancel_order,Saudi Dialect
+SA-079,cancel_order-05,يمديني الغي الطلب قبل تجهزونه؟,cancel_order,Spelling Mistakes
+SA-080,cancel_order-05,أقدر cancel قبل processing؟,cancel_order,Arabic-English Code-switching
+SA-081,cancel_order-06,أريد إيقاف الطلب وعدم إرساله,cancel_order,MSA
+SA-082,cancel_order-06,وقفوا طلبي ولا ترسلونه,cancel_order,Saudi Dialect
+SA-083,cancel_order-06,وقفواطلبي ولا ترسلونه,cancel_order,Spelling Mistakes
+SA-084,cancel_order-06,وقفوا الـ order ولا تسوون shipping,cancel_order,Arabic-English Code-switching
+SA-085,cancel_order-07,طلبت بالخطأ وأريد إلغاء العملية,cancel_order,MSA
+SA-086,cancel_order-07,طلبت بالغلط وأبي ألغي الطلب,cancel_order,Saudi Dialect
+SA-087,cancel_order-07,طلبت بالغلط وابي الغي الطلب,cancel_order,Spelling Mistakes
+SA-088,cancel_order-07,طلبت by mistake وأبي cancel,cancel_order,Arabic-English Code-switching
+SA-089,cancel_order-08,ألغوا طلبي المكرر من فضلكم,cancel_order,MSA
+SA-090,cancel_order-08,عندي طلب مكرر، ألغوا واحد,cancel_order,Saudi Dialect
+SA-091,cancel_order-08,عندي طلب مكرر، الغوا واحد,cancel_order,Spelling Mistakes
+SA-092,cancel_order-08,عندي duplicate order، cancel واحد,cancel_order,Arabic-English Code-switching
+SA-093,cancel_order-09,هل ما زال بإمكاني إلغاء الشراء؟,cancel_order,MSA
+SA-094,cancel_order-09,لسه أقدر ألغي الشراء؟,cancel_order,Saudi Dialect
+SA-095,cancel_order-09,لسه اقدر الغي الشراء؟,cancel_order,Spelling Mistakes
+SA-096,cancel_order-09,أقدر cancel purchase للحين؟,cancel_order,Arabic-English Code-switching
+SA-097,cancel_order-10,أريد حذف الطلب من قائمة طلباتي النشطة,cancel_order,MSA
+SA-098,cancel_order-10,أبي ألغي الطلب اللي باقي نشط,cancel_order,Saudi Dialect
+SA-099,cancel_order-10,ابي الغي الطلب اللي باقي نشط,cancel_order,Spelling Mistakes
+SA-100,cancel_order-10,أبي cancel الـ active order,cancel_order,Arabic-English Code-switching
+SA-101,cancel_order-11,ألغوا طلب الحذاء قبل إرساله,cancel_order,MSA
+SA-102,cancel_order-11,ألغوا طلب الجزمة قبل ترسلونها,cancel_order,Saudi Dialect
+SA-103,cancel_order-11,الغوا طلب الجزمه قبل ترسلونها,cancel_order,Spelling Mistakes
+SA-104,cancel_order-11,Cancel طلب الجزمة قبل dispatch,cancel_order,Arabic-English Code-switching
+SA-105,cancel_order-12,قررت عدم الشراء، أرجو إلغاء طلبي,cancel_order,MSA
+SA-106,cancel_order-12,غيرت رأيي وأبي ألغي الطلب,cancel_order,Saudi Dialect
+SA-107,cancel_order-12,غيرت رايي وابي الغي الطلب,cancel_order,Spelling Mistakes
+SA-108,cancel_order-12,غيرت رأيي، cancel the order,cancel_order,Arabic-English Code-switching
+SA-109,cancel_order-13,أريد إلغاء الطلب بالكامل وليس تعديله,cancel_order,MSA
+SA-110,cancel_order-13,أبي ألغي الطلب كله مو أعدله,cancel_order,Saudi Dialect
+SA-111,cancel_order-13,ابي الغي الطلب كله مو اعدله,cancel_order,Spelling Mistakes
+SA-112,cancel_order-13,أبي full cancellation مو edit,cancel_order,Arabic-English Code-switching
+SA-113,cancel_order-14,هل تستطيعون إلغاء طلبي غير المشحون؟,cancel_order,MSA
+SA-114,cancel_order-14,تقدرون تلغون طلبي دام ما انشحن؟,cancel_order,Saudi Dialect
+SA-115,cancel_order-14,تقدرونتلغون طلبي دام ما انشحن؟,cancel_order,Spelling Mistakes
+SA-116,cancel_order-14,تقدرون cancel طالما not shipped؟,cancel_order,Arabic-English Code-switching
+SA-117,cancel_order-15,أرجو تأكيد إلغاء الطلب الحالي,cancel_order,MSA
+SA-118,cancel_order-15,أبيكم تلغون طلبي الحالي وتأكدون لي,cancel_order,Saudi Dialect
+SA-119,cancel_order-15,ابيكم تلغون طلبي الحالي وتاكدون لي,cancel_order,Spelling Mistakes
+SA-120,cancel_order-15,Cancel طلبي الحالي وأرسلوا confirmation,cancel_order,Arabic-English Code-switching
+SA-121,change_order-01,أريد تغيير مقاس المنتج في طلبي,change_order,MSA
+SA-122,change_order-01,أبي أغير مقاس المنتج في طلبي,change_order,Saudi Dialect
+SA-123,change_order-01,ابي اغير مقاس المنتج في طلبي,change_order,Spelling Mistakes
+SA-124,change_order-01,أبي change size في الـ order,change_order,Arabic-English Code-switching
+SA-125,change_order-02,هل يمكن تعديل لون المنتج قبل الشحن؟,change_order,MSA
+SA-126,change_order-02,يمديني أبدل لون المنتج قبل الشحن؟,change_order,Saudi Dialect
+SA-127,change_order-02,يمديني ابدل لون المنتج قبل الشحن؟,change_order,Spelling Mistakes
+SA-128,change_order-02,أقدر change color قبل shipping؟,change_order,Arabic-English Code-switching
+SA-129,change_order-03,أريد زيادة كمية أحد المنتجات في الطلب,change_order,MSA
+SA-130,change_order-03,أبي أزيد كمية منتج في طلبي,change_order,Saudi Dialect
+SA-131,change_order-03,ابي ازيد كميه منتج في طلبي,change_order,Spelling Mistakes
+SA-132,change_order-03,أبي increase quantity في الـ order,change_order,Arabic-English Code-switching
+SA-133,change_order-04,أرجو تعديل عنوان التسليم لطلبي,change_order,MSA
+SA-134,change_order-04,أبي أغير عنوان توصيل الطلب,change_order,Saudi Dialect
+SA-135,change_order-04,ابي اغير عنوان توصيل الطلب,change_order,Spelling Mistakes
+SA-136,change_order-04,أبي update delivery address للطلب,change_order,Arabic-English Code-switching
+SA-137,change_order-05,أريد حذف قطعة واحدة من طلبي دون إلغائه,change_order,MSA
+SA-138,change_order-05,أبي أشيل قطعة من الطلب بس ما ألغيه,change_order,Saudi Dialect
+SA-139,change_order-05,ابي اشيل قطعه من الطلب بس ما الغيه,change_order,Spelling Mistakes
+SA-140,change_order-05,أبي remove item بدون cancel order,change_order,Arabic-English Code-switching
+SA-141,change_order-06,هل يمكن إضافة منتج إلى طلبي الحالي؟,change_order,MSA
+SA-142,change_order-06,أقدر أضيف منتج على طلبي الحالي؟,change_order,Saudi Dialect
+SA-143,change_order-06,اقدر اضيف منتج على طلبي الحالي؟,change_order,Spelling Mistakes
+SA-144,change_order-06,أقدر add item للـ existing order؟,change_order,Arabic-English Code-switching
+SA-145,change_order-07,أريد تغيير موعد تسليم طلبي,change_order,MSA
+SA-146,change_order-07,أبي أعدل موعد توصيل طلبي,change_order,Saudi Dialect
+SA-147,change_order-07,ابي اعدل موعد توصيل طلبي,change_order,Spelling Mistakes
+SA-148,change_order-07,أبي reschedule delivery للطلب,change_order,Arabic-English Code-switching
+SA-149,change_order-08,أريد استبدال المقاس الصغير بالكبير قبل الإرسال,change_order,MSA
+SA-150,change_order-08,بدلوا المقاس الصغير بكبير قبل ترسلونه,change_order,Saudi Dialect
+SA-151,change_order-08,بدلواالمقاس الصغير بكبير قبل ترسلونه,change_order,Spelling Mistakes
+SA-152,change_order-08,Change size من small إلى large قبل shipping,change_order,Arabic-English Code-switching
+SA-153,change_order-09,أرجو تعديل رقم الهاتف المرتبط بالطلب,change_order,MSA
+SA-154,change_order-09,غيروا رقم الجوال المسجل على الطلب,change_order,Saudi Dialect
+SA-155,change_order-09,غيروارقم الجوال المسجل على الطلب,change_order,Spelling Mistakes
+SA-156,change_order-09,Update phone number في الـ order,change_order,Arabic-English Code-switching
+SA-157,change_order-10,أريد تغيير اسم المستلم في الطلب,change_order,MSA
+SA-158,change_order-10,أبي أغير اسم اللي بيستلم الطلب,change_order,Saudi Dialect
+SA-159,change_order-10,ابي اغير اسم اللي بيستلم الطلب,change_order,Spelling Mistakes
+SA-160,change_order-10,أبي change recipient name,change_order,Arabic-English Code-switching
+SA-161,change_order-11,هل أستطيع تعديل طريقة التوصيل؟,change_order,MSA
+SA-162,change_order-11,يمديني أغير طريقة التوصيل؟,change_order,Saudi Dialect
+SA-163,change_order-11,يمديني اغير طريقه التوصيل؟,change_order,Spelling Mistakes
+SA-164,change_order-11,أقدر change delivery method؟,change_order,Arabic-English Code-switching
+SA-165,change_order-12,أريد استبدال المنتج المحدد بمنتج آخر في الطلب,change_order,MSA
+SA-166,change_order-12,أبي أبدل المنتج اللي اخترته بغيره,change_order,Saudi Dialect
+SA-167,change_order-12,ابي ابدل المنتج اللي اخترته بغيره,change_order,Spelling Mistakes
+SA-168,change_order-12,أبي swap item داخل الـ order,change_order,Arabic-English Code-switching
+SA-169,change_order-13,أرجو تغيير العدد من قطعتين إلى ثلاث,change_order,MSA
+SA-170,change_order-13,خلوا الكمية ثلاث بدل قطعتين,change_order,Saudi Dialect
+SA-171,change_order-13,خلوا الكميه ثلاث بدل قطعتين,change_order,Spelling Mistakes
+SA-172,change_order-13,Change quantity من 2 إلى 3,change_order,Arabic-English Code-switching
+SA-173,change_order-14,أريد تعديل الملاحظات المرفقة بالطلب,change_order,MSA
+SA-174,change_order-14,أبي أغير ملاحظات الطلب,change_order,Saudi Dialect
+SA-175,change_order-14,ابي اغير ملاحظات الطلب,change_order,Spelling Mistakes
+SA-176,change_order-14,أبي edit order notes,change_order,Arabic-English Code-switching
+SA-177,change_order-15,هل يمكن تغيير فرع الاستلام لطلبي؟,change_order,MSA
+SA-178,change_order-15,أقدر أغير فرع استلام الطلب؟,change_order,Saudi Dialect
+SA-179,change_order-15,اقدر اغير فرع استلام الطلب؟,change_order,Spelling Mistakes
+SA-180,change_order-15,أقدر change pickup branch للـ order؟,change_order,Arabic-English Code-switching
+SA-181,get_refund-01,أريد استرداد المبلغ الذي دفعته,get_refund,MSA
+SA-182,get_refund-01,أبي أسترجع فلوسي اللي دفعتها,get_refund,Saudi Dialect
+SA-183,get_refund-01,ابي استرجع فلوسي اللي دفعتها,get_refund,Spelling Mistakes
+SA-184,get_refund-01,أبي refund للمبلغ اللي دفعته,get_refund,Arabic-English Code-switching
+SA-185,get_refund-02,كيف أقدم طلب استرجاع المبلغ؟,get_refund,MSA
+SA-186,get_refund-02,كيف أطلب ترجيع فلوسي؟,get_refund,Saudi Dialect
+SA-187,get_refund-02,كيف اطلب ترجيع فلوسي؟,get_refund,Spelling Mistakes
+SA-188,get_refund-02,كيف أقدم refund request؟,get_refund,Arabic-English Code-switching
+SA-189,get_refund-03,أريد استرداد قيمة المنتج الذي أعدته,get_refund,MSA
+SA-190,get_refund-03,رجعت المنتج وأبي فلوسي,get_refund,Saudi Dialect
+SA-191,get_refund-03,رجعت المنتج وابي فلوسي,get_refund,Spelling Mistakes
+SA-192,get_refund-03,رجعت الـ item وأبي refund,get_refund,Arabic-English Code-switching
+SA-193,get_refund-04,أرجو إعادة المبلغ إلى بطاقتي البنكية,get_refund,MSA
+SA-194,get_refund-04,رجعوا المبلغ على بطاقتي,get_refund,Saudi Dialect
+SA-195,get_refund-04,رجعواالمبلغ على بطاقتي,get_refund,Spelling Mistakes
+SA-196,get_refund-04,أبي refund على الـ card,get_refund,Arabic-English Code-switching
+SA-197,get_refund-05,المنتج تالف وأريد استرجاع قيمته,get_refund,MSA
+SA-198,get_refund-05,المنتج خربان وأبي أسترد قيمته,get_refund,Saudi Dialect
+SA-199,get_refund-05,المنتج خربان وابي استرد قيمته,get_refund,Spelling Mistakes
+SA-200,get_refund-05,المنتج damaged وأبي refund,get_refund,Arabic-English Code-switching
+SA-201,get_refund-06,أريد استرداد المبلغ بسبب وصول منتج خاطئ,get_refund,MSA
+SA-202,get_refund-06,وصلني منتج غلط وأبي فلوسي,get_refund,Saudi Dialect
+SA-203,get_refund-06,وصلني منتج غلط وابي فلوسي,get_refund,Spelling Mistakes
+SA-204,get_refund-06,وصل wrong item وأبي refund,get_refund,Arabic-English Code-switching
+SA-205,get_refund-07,هل يمكنني طلب استرداد كامل المبلغ؟,get_refund,MSA
+SA-206,get_refund-07,أقدر أطلب ترجيع المبلغ كامل؟,get_refund,Saudi Dialect
+SA-207,get_refund-07,اقدر اطلب ترجيع المبلغ كامل؟,get_refund,Spelling Mistakes
+SA-208,get_refund-07,أقدر أطلب full refund؟,get_refund,Arabic-English Code-switching
+SA-209,get_refund-08,أرجو استرداد رسوم الطلب الملغى,get_refund,MSA
+SA-210,get_refund-08,أبي أسترجع قيمة الطلب الملغي,get_refund,Saudi Dialect
+SA-211,get_refund-08,ابي استرجع قيمه الطلب الملغي,get_refund,Spelling Mistakes
+SA-212,get_refund-08,أبي refund للـ cancelled order,get_refund,Arabic-English Code-switching
+SA-213,get_refund-09,لم أستفد من الخدمة وأريد استرداد قيمتها,get_refund,MSA
+SA-214,get_refund-09,الخدمة ما نفعتني وأبي أرجع فلوسي,get_refund,Saudi Dialect
+SA-215,get_refund-09,الخدمه ما نفعتني وابي ارجع فلوسي,get_refund,Spelling Mistakes
+SA-216,get_refund-09,الخدمة ما نفعتني وأبي refund,get_refund,Arabic-English Code-switching
+SA-217,get_refund-10,أريد إعادة المبلغ المدفوع لمنتج ناقص,get_refund,MSA
+SA-218,get_refund-10,فيه منتج ناقص وأبي قيمته ترجع,get_refund,Saudi Dialect
+SA-219,get_refund-10,فيه منتج ناقص وابي قيمته ترجع,get_refund,Spelling Mistakes
+SA-220,get_refund-10,Missing item وأبي refund لقيمته,get_refund,Arabic-English Code-switching
+SA-221,get_refund-11,كيف أسترجع مبلغ الطلب غير المستلم؟,get_refund,MSA
+SA-222,get_refund-11,ما استلمت الطلب وأبي فلوسي ترجع,get_refund,Saudi Dialect
+SA-223,get_refund-11,ما استلمت الطلب وابي فلوسي ترجع,get_refund,Spelling Mistakes
+SA-224,get_refund-11,Order not received وأبي refund,get_refund,Arabic-English Code-switching
+SA-225,get_refund-12,أريد استرداد قيمة الاشتراك الذي اشتريته,get_refund,MSA
+SA-226,get_refund-12,أبي أسترجع مبلغ الاشتراك,get_refund,Saudi Dialect
+SA-227,get_refund-12,ابي استرجع مبلغ الاشتراك,get_refund,Spelling Mistakes
+SA-228,get_refund-12,أبي refund للـ subscription,get_refund,Arabic-English Code-switching
+SA-229,get_refund-13,أريد استرداد المبلغ الذي خُصم مني مرتين,get_refund,MSA
+SA-230,get_refund-13,انخصم المبلغ مني مرتين وأبي ترجعون لي المبلغ الزايد,get_refund,Saudi Dialect
+SA-231,get_refund-13,انخصم المبلغ مني مرتين وابي ترجعون لي المبلغ الزايد,get_refund,Spelling Mistakes
+SA-232,get_refund-13,انخصم المبلغ مرتين وأبي refund للزيادة,get_refund,Arabic-English Code-switching
+SA-233,get_refund-14,أريد استرجاع مبلغ المنتج غير المطابق للوصف,get_refund,MSA
+SA-234,get_refund-14,المنتج غير الوصف وأبي أسترجع قيمته,get_refund,Saudi Dialect
+SA-235,get_refund-14,المنتج غير الوصف وابي استرجع قيمته,get_refund,Spelling Mistakes
+SA-236,get_refund-14,Item not as described وأبي refund,get_refund,Arabic-English Code-switching
+SA-237,get_refund-15,أريد فتح طلب جديد لاسترداد أموالي,get_refund,MSA
+SA-238,get_refund-15,أبي أفتح طلب جديد عشان ترجع فلوسي,get_refund,Saudi Dialect
+SA-239,get_refund-15,ابي افتح طلب جديد عشان ترجع فلوسي,get_refund,Spelling Mistakes
+SA-240,get_refund-15,أبي open refund request جديد,get_refund,Arabic-English Code-switching
+SA-241,track_refund-01,ما حالة طلب استرداد المبلغ الذي قدمته؟,track_refund,MSA
+SA-242,track_refund-01,وش صار على طلب استرجاع فلوسي؟,track_refund,Saudi Dialect
+SA-243,track_refund-01,وشصار على طلب استرجاع فلوسي؟,track_refund,Spelling Mistakes
+SA-244,track_refund-01,وش refund status لطلبي؟,track_refund,Arabic-English Code-switching
+SA-245,track_refund-02,متى سيصل المبلغ المسترد إلى حسابي؟,track_refund,MSA
+SA-246,track_refund-02,متى تنزل فلوس الاسترجاع بحسابي؟,track_refund,Saudi Dialect
+SA-247,track_refund-02,متىتنزل فلوس الاسترجاع بحسابي؟,track_refund,Spelling Mistakes
+SA-248,track_refund-02,متى الـ refund يوصل لحسابي؟,track_refund,Arabic-English Code-switching
+SA-249,track_refund-03,هل تمت الموافقة على طلب الاسترداد؟,track_refund,MSA
+SA-250,track_refund-03,وافقتم على طلب ترجيع المبلغ؟,track_refund,Saudi Dialect
+SA-251,track_refund-03,وافقتمعلى طلب ترجيع المبلغ؟,track_refund,Spelling Mistakes
+SA-252,track_refund-03,هل refund approved؟,track_refund,Arabic-English Code-switching
+SA-253,track_refund-04,أريد تتبع عملية استرداد المبلغ الحالية,track_refund,MSA
+SA-254,track_refund-04,أبي أتابع وين وصل الاسترجاع,track_refund,Saudi Dialect
+SA-255,track_refund-04,ابي اتابع وين وصل الاسترجاع,track_refund,Spelling Mistakes
+SA-256,track_refund-04,أبي track refund الحالي,track_refund,Arabic-English Code-switching
+SA-257,track_refund-05,قدمت طلب استرداد الأسبوع الماضي، أين وصل؟,track_refund,MSA
+SA-258,track_refund-05,طلبت ترجيع فلوسي الأسبوع اللي فات، وش صار؟,track_refund,Saudi Dialect
+SA-259,track_refund-05,طلبت ترجيع فلوسي الاسبوع اللي فات، وش صار؟,track_refund,Spelling Mistakes
+SA-260,track_refund-05,قدمت refund الأسبوع الماضي، أي update؟,track_refund,Arabic-English Code-switching
+SA-261,track_refund-06,هل تم تحويل مبلغ الاسترداد إلى البنك؟,track_refund,MSA
+SA-262,track_refund-06,حولتوا مبلغ الاسترجاع للبنك؟,track_refund,Saudi Dialect
+SA-263,track_refund-06,حولتوامبلغ الاسترجاع للبنك؟,track_refund,Spelling Mistakes
+SA-264,track_refund-06,هل refund transferred to bank؟,track_refund,Arabic-English Code-switching
+SA-265,track_refund-07,لماذا تأخر وصول المبلغ المسترد؟,track_refund,MSA
+SA-266,track_refund-07,ليش فلوس الاسترجاع تأخرت؟,track_refund,Saudi Dialect
+SA-267,track_refund-07,ليش فلوس الاسترجاع تاخرت؟,track_refund,Spelling Mistakes
+SA-268,track_refund-07,ليش الـ refund متأخر؟,track_refund,Arabic-English Code-switching
+SA-269,track_refund-08,أريد معرفة موعد اكتمال الاسترداد,track_refund,MSA
+SA-270,track_refund-08,متى يكتمل استرجاع المبلغ؟,track_refund,Saudi Dialect
+SA-271,track_refund-08,متىيكتمل استرجاع المبلغ؟,track_refund,Spelling Mistakes
+SA-272,track_refund-08,متى refund completed؟,track_refund,Arabic-English Code-switching
+SA-273,track_refund-09,هل ما زال طلب استرداد المبلغ قيد المعالجة؟,track_refund,MSA
+SA-274,track_refund-09,الاسترجاع للحين تحت الإجراء؟,track_refund,Saudi Dialect
+SA-275,track_refund-09,الاسترجاع للحين تحت الاجراء؟,track_refund,Spelling Mistakes
+SA-276,track_refund-09,الـ refund للحين processing؟,track_refund,Arabic-English Code-switching
+SA-277,track_refund-10,أين وصل استرداد الطلب رقم 402؟,track_refund,MSA
+SA-278,track_refund-10,وش وضع استرجاع الطلب رقم 402؟,track_refund,Saudi Dialect
+SA-279,track_refund-10,وشوضع استرجاع الطلب رقم 402؟,track_refund,Spelling Mistakes
+SA-280,track_refund-10,وش refund status للـ order 402؟,track_refund,Arabic-English Code-switching
+SA-281,track_refund-11,وصلتني رسالة موافقة، متى يعاد المبلغ؟,track_refund,MSA
+SA-282,track_refund-11,جتني موافقة الاسترجاع، متى تنزل الفلوس؟,track_refund,Saudi Dialect
+SA-283,track_refund-11,جتني موافقه الاسترجاع، متى تنزل الفلوس؟,track_refund,Spelling Mistakes
+SA-284,track_refund-11,وصلني refund approval، متى الفلوس؟,track_refund,Arabic-English Code-switching
+SA-285,track_refund-12,هل اكتملت إعادة المبلغ إلى بطاقتي؟,track_refund,MSA
+SA-286,track_refund-12,خلص استرجاع المبلغ لبطاقتي؟,track_refund,Saudi Dialect
+SA-287,track_refund-12,خلصاسترجاع المبلغ لبطاقتي؟,track_refund,Spelling Mistakes
+SA-288,track_refund-12,هل refund to card completed؟,track_refund,Arabic-English Code-switching
+SA-289,track_refund-13,أريد تحديثًا بشأن استرداد المبلغ المعلق,track_refund,MSA
+SA-290,track_refund-13,أبي تحديث عن مبلغ الاسترجاع المعلق,track_refund,Saudi Dialect
+SA-291,track_refund-13,ابي تحديث عن مبلغ الاسترجاع المعلق,track_refund,Spelling Mistakes
+SA-292,track_refund-13,أبي update عن pending refund,track_refund,Arabic-English Code-switching
+SA-293,track_refund-14,هل تم إرسال مبلغ الاسترداد أم لا؟,track_refund,MSA
+SA-294,track_refund-14,أرسلتوا فلوس الاسترجاع ولا باقي؟,track_refund,Saudi Dialect
+SA-295,track_refund-14,ارسلتوا فلوس الاسترجاع ولا باقي؟,track_refund,Spelling Mistakes
+SA-296,track_refund-14,الـ refund sent ولا pending؟,track_refund,Arabic-English Code-switching
+SA-297,track_refund-15,ما سبب توقف معالجة طلب الاسترداد؟,track_refund,MSA
+SA-298,track_refund-15,ليش طلب استرجاع فلوسي واقف؟,track_refund,Saudi Dialect
+SA-299,track_refund-15,ليشطلب استرجاع فلوسي واقف؟,track_refund,Spelling Mistakes
+SA-300,track_refund-15,ليش refund processing متوقف؟,track_refund,Arabic-English Code-switching
+SA-301,payment_issue-01,تعذر إتمام الدفع باستخدام بطاقتي,payment_issue,MSA
+SA-302,payment_issue-01,بطاقتي ما قبلت الدفع,payment_issue,Saudi Dialect
+SA-303,payment_issue-01,بطاقتيما قبلت الدفع,payment_issue,Spelling Mistakes
+SA-304,payment_issue-01,الـ card رفضت payment,payment_issue,Arabic-English Code-switching
+SA-305,payment_issue-02,تم خصم المبلغ لكن الطلب لم يكتمل,payment_issue,MSA
+SA-306,payment_issue-02,انخصم المبلغ بس الطلب ما اكتمل,payment_issue,Saudi Dialect
+SA-307,payment_issue-02,انخصمالمبلغ بس الطلب ما اكتمل,payment_issue,Spelling Mistakes
+SA-308,payment_issue-02,Payment deducted بس order ما اكتمل,payment_issue,Arabic-English Code-switching
+SA-309,payment_issue-03,تظهر رسالة خطأ عند الدفع,payment_issue,MSA
+SA-310,payment_issue-03,تطلع لي رسالة خطأ إذا جيت أدفع,payment_issue,Saudi Dialect
+SA-311,payment_issue-03,تطلع لي رساله خطا اذا جيت ادفع,payment_issue,Spelling Mistakes
+SA-312,payment_issue-03,يطلع payment error عند الدفع,payment_issue,Arabic-English Code-switching
+SA-313,payment_issue-04,لماذا ترفض المنصة بطاقتي البنكية؟,payment_issue,MSA
+SA-314,payment_issue-04,ليش الموقع يرفض بطاقتي؟,payment_issue,Saudi Dialect
+SA-315,payment_issue-04,ليشالموقع يرفض بطاقتي؟,payment_issue,Spelling Mistakes
+SA-316,payment_issue-04,ليش checkout يرفض الـ card؟,payment_issue,Arabic-English Code-switching
+SA-317,payment_issue-05,لا أستطيع الدفع عبر المحفظة الرقمية,payment_issue,MSA
+SA-318,payment_issue-05,ما يضبط الدفع بالمحفظة الرقمية,payment_issue,Saudi Dialect
+SA-319,payment_issue-05,ما يضبط الدفع بالمحفظه الرقميه,payment_issue,Spelling Mistakes
+SA-320,payment_issue-05,Digital wallet payment مو راضي يشتغل,payment_issue,Arabic-English Code-switching
+SA-321,payment_issue-06,تعطلت صفحة الدفع قبل إتمام العملية,payment_issue,MSA
+SA-322,payment_issue-06,صفحة الدفع علقت قبل أخلص,payment_issue,Saudi Dialect
+SA-323,payment_issue-06,صفحه الدفع علقت قبل اخلص,payment_issue,Spelling Mistakes
+SA-324,payment_issue-06,Checkout page علقت قبل payment,payment_issue,Arabic-English Code-switching
+SA-325,payment_issue-07,خصمتم قيمة الطلب مرتين بالخطأ,payment_issue,MSA
+SA-326,payment_issue-07,سحبتوا مبلغ الطلب مرتين,payment_issue,Saudi Dialect
+SA-327,payment_issue-07,سحبتوامبلغ الطلب مرتين,payment_issue,Spelling Mistakes
+SA-328,payment_issue-07,صار double charge للـ order,payment_issue,Arabic-English Code-switching
+SA-329,payment_issue-08,لا يصلني رمز التحقق لإتمام الدفع,payment_issue,MSA
+SA-330,payment_issue-08,رمز تأكيد الدفع ما يوصلني,payment_issue,Saudi Dialect
+SA-331,payment_issue-08,رمز تاكيد الدفع ما يوصلني,payment_issue,Spelling Mistakes
+SA-332,payment_issue-08,Payment OTP ما يوصلني,payment_issue,Arabic-English Code-switching
+SA-333,payment_issue-09,تظهر عملية الدفع معلقة رغم خصم المبلغ,payment_issue,MSA
+SA-334,payment_issue-09,الدفع معلق مع إن المبلغ انخصم,payment_issue,Saudi Dialect
+SA-335,payment_issue-09,الدفع معلق مع ان المبلغ انخصم,payment_issue,Spelling Mistakes
+SA-336,payment_issue-09,Payment pending رغم إنه deducted,payment_issue,Arabic-English Code-switching
+SA-337,payment_issue-10,أواجه مشكلة عند الدفع بمدى,payment_issue,MSA
+SA-338,payment_issue-10,الدفع بمدى مو راضي يضبط,payment_issue,Saudi Dialect
+SA-339,payment_issue-10,الدفعبمدى مو راضي يضبط,payment_issue,Spelling Mistakes
+SA-340,payment_issue-10,Mada payment مو شغال,payment_issue,Arabic-English Code-switching
+SA-341,payment_issue-11,لم ينجح الدفع عبر أبل باي,payment_issue,MSA
+SA-342,payment_issue-11,أبل باي ما كمل الدفع,payment_issue,Saudi Dialect
+SA-343,payment_issue-11,ابل باي ما كمل الدفع,payment_issue,Spelling Mistakes
+SA-344,payment_issue-11,Apple Pay transaction failed,payment_issue,Arabic-English Code-switching
+SA-345,payment_issue-12,لا أستطيع اختيار طريقة الدفع المطلوبة,payment_issue,MSA
+SA-346,payment_issue-12,ما يخليني أختار طريقة الدفع,payment_issue,Saudi Dialect
+SA-347,payment_issue-12,ما يخليني اختار طريقه الدفع,payment_issue,Spelling Mistakes
+SA-348,payment_issue-12,ما أقدر select payment method,payment_issue,Arabic-English Code-switching
+SA-349,payment_issue-13,يتم إلغاء عملية الدفع تلقائيًا,payment_issue,MSA
+SA-350,payment_issue-13,كل ما أدفع العملية تلغي نفسها,payment_issue,Saudi Dialect
+SA-351,payment_issue-13,كل ما ادفع العمليه تلغي نفسها,payment_issue,Spelling Mistakes
+SA-352,payment_issue-13,Payment transaction تصير cancelled تلقائي,payment_issue,Arabic-English Code-switching
+SA-353,payment_issue-14,يظهر أن المبلغ غير صحيح في صفحة الدفع,payment_issue,MSA
+SA-354,payment_issue-14,مبلغ الدفع الظاهر عندي غلط,payment_issue,Saudi Dialect
+SA-355,payment_issue-14,مبلغالدفع الظاهر عندي غلط,payment_issue,Spelling Mistakes
+SA-356,payment_issue-14,Checkout amount طالع غلط,payment_issue,Arabic-English Code-switching
+SA-357,payment_issue-15,توقف الدفع عند خطوة التأكيد الأخيرة,payment_issue,MSA
+SA-358,payment_issue-15,الدفع يعلق عند آخر خطوة تأكيد,payment_issue,Saudi Dialect
+SA-359,payment_issue-15,الدفع يعلق عند اخر خطوه تاكيد,payment_issue,Spelling Mistakes
+SA-360,payment_issue-15,Payment stuck عند confirmation,payment_issue,Arabic-English Code-switching
+SA-361,complaint-01,أريد تقديم شكوى بسبب سوء الخدمة,complaint,MSA
+SA-362,complaint-01,أبي أقدم شكوى على سوء الخدمة,complaint,Saudi Dialect
+SA-363,complaint-01,ابي اقدم شكوى على سوء الخدمه,complaint,Spelling Mistakes
+SA-364,complaint-01,أبي submit complaint عن service,complaint,Arabic-English Code-switching
+SA-365,complaint-02,أنا مستاء من تعامل موظف التوصيل,complaint,MSA
+SA-366,complaint-02,تعامل المندوب سيئ وأبي أشتكي,complaint,Saudi Dialect
+SA-367,complaint-02,تعامل المندوب سيي وابي اشتكي,complaint,Spelling Mistakes
+SA-368,complaint-02,Delivery driver سيئ وأبي complaint,complaint,Arabic-English Code-switching
+SA-369,complaint-03,وصلني المنتج بحالة سيئة وأريد تقديم شكوى,complaint,MSA
+SA-370,complaint-03,وصلني المنتج بحالة شينة وأبي أشتكي,complaint,Saudi Dialect
+SA-371,complaint-03,وصلني المنتج بحاله شينه وابي اشتكي,complaint,Spelling Mistakes
+SA-372,complaint-03,وصل item بحالة سيئة وأبي complaint,complaint,Arabic-English Code-switching
+SA-373,complaint-04,أريد تسجيل شكوى بشأن تأخر الردود,complaint,MSA
+SA-374,complaint-04,أبي أشتكي من تأخير ردودكم,complaint,Saudi Dialect
+SA-375,complaint-04,ابي اشتكي من تاخير ردودكم,complaint,Spelling Mistakes
+SA-376,complaint-04,أبي complaint عن slow responses,complaint,Arabic-English Code-switching
+SA-377,complaint-05,الخدمة المقدمة لم تكن بالمستوى المطلوب,complaint,MSA
+SA-378,complaint-05,خدمتكم ما كانت بالمستوى وأبي أشتكي,complaint,Saudi Dialect
+SA-379,complaint-05,خدمتكم ما كانت بالمستوى وابي اشتكي,complaint,Spelling Mistakes
+SA-380,complaint-05,Service quality سيئة وأبي أشتكي,complaint,Arabic-English Code-switching
+SA-381,complaint-06,أريد تقديم بلاغ عن سوء التغليف,complaint,MSA
+SA-382,complaint-06,أبي أرفع شكوى على التغليف السيئ,complaint,Saudi Dialect
+SA-383,complaint-06,ابي ارفع شكوى على التغليف السيي,complaint,Spelling Mistakes
+SA-384,complaint-06,أبي file complaint عن packaging,complaint,Arabic-English Code-switching
+SA-385,complaint-07,أشعر بعدم الرضا عن تجربة الشراء,complaint,MSA
+SA-386,complaint-07,تجربة الشراء عندكم سيئة وأبي أشتكي,complaint,Saudi Dialect
+SA-387,complaint-07,تجربه الشراء عندكم سييه وابي اشتكي,complaint,Spelling Mistakes
+SA-388,complaint-07,Shopping experience سيئة وأبي complaint,complaint,Arabic-English Code-switching
+SA-389,complaint-08,أريد الشكوى من عدم الالتزام بالموعد,complaint,MSA
+SA-390,complaint-08,أبي أشتكي لأنكم ما التزمتوا بالموعد,complaint,Saudi Dialect
+SA-391,complaint-08,ابي اشتكي لانكم ما التزمتوا بالموعد,complaint,Spelling Mistakes
+SA-392,complaint-08,أبي complaint عن missed deadline,complaint,Arabic-English Code-switching
+SA-393,complaint-09,أرغب في تصعيد شكواي بشأن الخدمة,complaint,MSA
+SA-394,complaint-09,أبي أصعّد شكواي على الخدمة,complaint,Saudi Dialect
+SA-395,complaint-09,ابي اصعّد شكواي على الخدمه,complaint,Spelling Mistakes
+SA-396,complaint-09,أبي escalate complaint عن service,complaint,Arabic-English Code-switching
+SA-397,complaint-10,أريد الإبلاغ عن تصرف غير مهني من الموظف,complaint,MSA
+SA-398,complaint-10,أبي أشتكي من تصرف الموظف,complaint,Saudi Dialect
+SA-399,complaint-10,ابي اشتكي من تصرف الموظف,complaint,Spelling Mistakes
+SA-400,complaint-10,أبي report unprofessional staff,complaint,Arabic-English Code-switching
+SA-401,complaint-11,لدي شكوى بخصوص جودة المنتج,complaint,MSA
+SA-402,complaint-11,عندي شكوى على جودة المنتج,complaint,Saudi Dialect
+SA-403,complaint-11,عندي شكوى على جوده المنتج,complaint,Spelling Mistakes
+SA-404,complaint-11,عندي complaint عن product quality,complaint,Arabic-English Code-switching
+SA-405,complaint-12,أريد تقديم شكوى رسمية على المتجر,complaint,MSA
+SA-406,complaint-12,أبي أرفع شكوى رسمية على المتجر,complaint,Saudi Dialect
+SA-407,complaint-12,ابي ارفع شكوى رسميه على المتجر,complaint,Spelling Mistakes
+SA-408,complaint-12,أبي submit formal complaint على المتجر,complaint,Arabic-English Code-switching
+SA-409,complaint-13,لم يعجبني أسلوب خدمة العملاء وأريد الشكوى,complaint,MSA
+SA-410,complaint-13,أسلوب خدمة العملاء ما عجبني وأبي أشتكي,complaint,Saudi Dialect
+SA-411,complaint-13,اسلوب خدمه العملاء ما عجبني وابي اشتكي,complaint,Spelling Mistakes
+SA-412,complaint-13,Customer service attitude سيئ وأبي complaint,complaint,Arabic-English Code-switching
+SA-413,complaint-14,أريد تسجيل اعتراض على طريقة معالجة مشكلتي,complaint,MSA
+SA-414,complaint-14,أبي أشتكي من طريقة تعاملكم مع مشكلتي,complaint,Saudi Dialect
+SA-415,complaint-14,ابي اشتكي من طريقه تعاملكم مع مشكلتي,complaint,Spelling Mistakes
+SA-416,complaint-14,أبي complaint عن issue handling,complaint,Arabic-English Code-switching
+SA-417,complaint-15,أرغب في تقديم شكوى بشأن معلومات مضللة,complaint,MSA
+SA-418,complaint-15,أبي أشتكي لأن المعلومات اللي عطيتوني غلط,complaint,Saudi Dialect
+SA-419,complaint-15,ابي اشتكي لان المعلومات اللي عطيتوني غلط,complaint,Spelling Mistakes
+SA-420,complaint-15,أبي file complaint عن misleading info,complaint,Arabic-English Code-switching
+SA-421,contact_human_agent-01,أريد التحدث مع موظف خدمة العملاء,contact_human_agent,MSA
+SA-422,contact_human_agent-01,أبي أكلم موظف خدمة العملاء,contact_human_agent,Saudi Dialect
+SA-423,contact_human_agent-01,ابي اكلم موظف خدمه العملاء,contact_human_agent,Spelling Mistakes
+SA-424,contact_human_agent-01,أبي أكلم human agent,contact_human_agent,Arabic-English Code-switching
+SA-425,contact_human_agent-02,هل يمكن تحويلي إلى ممثل خدمة العملاء؟,contact_human_agent,MSA
+SA-426,contact_human_agent-02,تقدرون تحولوني لموظف؟,contact_human_agent,Saudi Dialect
+SA-427,contact_human_agent-02,تقدرونتحولوني لموظف؟,contact_human_agent,Spelling Mistakes
+SA-428,contact_human_agent-02,حولوني لـ live agent,contact_human_agent,Arabic-English Code-switching
+SA-429,contact_human_agent-03,أحتاج إلى التواصل مع شخص حقيقي,contact_human_agent,MSA
+SA-430,contact_human_agent-03,أبي أتواصل مع شخص حقيقي,contact_human_agent,Saudi Dialect
+SA-431,contact_human_agent-03,ابي اتواصل مع شخص حقيقي,contact_human_agent,Spelling Mistakes
+SA-432,contact_human_agent-03,أبي real person مو bot,contact_human_agent,Arabic-English Code-switching
+SA-433,contact_human_agent-04,أريد التحدث إلى موظف عبر المحادثة,contact_human_agent,MSA
+SA-434,contact_human_agent-04,أبي موظف يكلمني بالشات,contact_human_agent,Saudi Dialect
+SA-435,contact_human_agent-04,ابي موظف يكلمني بالشات,contact_human_agent,Spelling Mistakes
+SA-436,contact_human_agent-04,أبي live chat مع agent,contact_human_agent,Arabic-English Code-switching
+SA-437,contact_human_agent-05,هل يوجد موظف متاح لمساعدتي الآن؟,contact_human_agent,MSA
+SA-438,contact_human_agent-05,فيه موظف يقدر يساعدني الحين؟,contact_human_agent,Saudi Dialect
+SA-439,contact_human_agent-05,فيهموظف يقدر يساعدني الحين؟,contact_human_agent,Spelling Mistakes
+SA-440,contact_human_agent-05,فيه available agent الحين؟,contact_human_agent,Arabic-English Code-switching
+SA-441,contact_human_agent-06,أرجو توصيلي بالدعم البشري,contact_human_agent,MSA
+SA-442,contact_human_agent-06,وصلوني بالدعم البشري,contact_human_agent,Saudi Dialect
+SA-443,contact_human_agent-06,وصلونيبالدعم البشري,contact_human_agent,Spelling Mistakes
+SA-444,contact_human_agent-06,Connect me to human support,contact_human_agent,Arabic-English Code-switching
+SA-445,contact_human_agent-07,لا أريد الرد الآلي، أريد موظفًا,contact_human_agent,MSA
+SA-446,contact_human_agent-07,ما أبي روبوت، أبي موظف,contact_human_agent,Saudi Dialect
+SA-447,contact_human_agent-07,ما ابي روبوت، ابي موظف,contact_human_agent,Spelling Mistakes
+SA-448,contact_human_agent-07,ما أبي chatbot أبي agent,contact_human_agent,Arabic-English Code-switching
+SA-449,contact_human_agent-08,كيف أتواصل مباشرة مع ممثل الشركة؟,contact_human_agent,MSA
+SA-450,contact_human_agent-08,كيف أكلم أحد من الشركة مباشرة؟,contact_human_agent,Saudi Dialect
+SA-451,contact_human_agent-08,كيف اكلم احد من الشركه مباشره؟,contact_human_agent,Spelling Mistakes
+SA-452,contact_human_agent-08,كيف أتواصل مع company representative؟,contact_human_agent,Arabic-English Code-switching
+SA-453,contact_human_agent-09,أريد مكالمة مع أحد موظفي الدعم,contact_human_agent,MSA
+SA-454,contact_human_agent-09,أبي اتصال من موظف الدعم,contact_human_agent,Saudi Dialect
+SA-455,contact_human_agent-09,ابي اتصال من موظف الدعم,contact_human_agent,Spelling Mistakes
+SA-456,contact_human_agent-09,أبي call من support agent,contact_human_agent,Arabic-English Code-switching
+SA-457,contact_human_agent-10,هل تستطيعون نقلي إلى موظف مختص؟,contact_human_agent,MSA
+SA-458,contact_human_agent-10,حولوني لموظف مختص لو سمحتوا,contact_human_agent,Saudi Dialect
+SA-459,contact_human_agent-10,حولونيلموظف مختص لو سمحتوا,contact_human_agent,Spelling Mistakes
+SA-460,contact_human_agent-10,Transfer me to specialist agent,contact_human_agent,Arabic-English Code-switching
+SA-461,contact_human_agent-11,أحتاج مساعدة من إنسان وليس مساعدًا آليًا,contact_human_agent,MSA
+SA-462,contact_human_agent-11,أبي إنسان يساعدني مو مساعد آلي,contact_human_agent,Saudi Dialect
+SA-463,contact_human_agent-11,ابي انسان يساعدني مو مساعد الي,contact_human_agent,Spelling Mistakes
+SA-464,contact_human_agent-11,أبي human help مو AI assistant,contact_human_agent,Arabic-English Code-switching
+SA-465,contact_human_agent-12,أريد التحدث مع المشرف مباشرة,contact_human_agent,MSA
+SA-466,contact_human_agent-12,أبي أكلم المشرف بنفسه,contact_human_agent,Saudi Dialect
+SA-467,contact_human_agent-12,ابي اكلم المشرف بنفسه,contact_human_agent,Spelling Mistakes
+SA-468,contact_human_agent-12,أبي speak to supervisor,contact_human_agent,Arabic-English Code-switching
+SA-469,contact_human_agent-13,أرجو أن يتواصل معي أحد ممثلي الخدمة,contact_human_agent,MSA
+SA-470,contact_human_agent-13,خلوا أحد الموظفين يتواصل معي,contact_human_agent,Saudi Dialect
+SA-471,contact_human_agent-13,خلوا احد الموظفين يتواصل معي,contact_human_agent,Spelling Mistakes
+SA-472,contact_human_agent-13,أبي callback من customer agent,contact_human_agent,Arabic-English Code-switching
+SA-473,contact_human_agent-14,أريد الخروج من المحادثة الآلية والتحدث لموظف,contact_human_agent,MSA
+SA-474,contact_human_agent-14,طلعوني من الرد الآلي وخلوني أكلم موظف,contact_human_agent,Saudi Dialect
+SA-475,contact_human_agent-14,طلعوني من الرد الالي وخلوني اكلم موظف,contact_human_agent,Spelling Mistakes
+SA-476,contact_human_agent-14,أبي exit bot وأكلم live agent,contact_human_agent,Arabic-English Code-switching
+SA-477,contact_human_agent-15,هل يمكن أن يرد علي موظف بدل النظام؟,contact_human_agent,MSA
+SA-478,contact_human_agent-15,ممكن يرد علي موظف بدل النظام؟,contact_human_agent,Saudi Dialect
+SA-479,contact_human_agent-15,ممكنيرد علي موظف بدل النظام؟,contact_human_agent,Spelling Mistakes
+SA-480,contact_human_agent-15,ممكن human agent يرد بدل system؟,contact_human_agent,Arabic-English Code-switching

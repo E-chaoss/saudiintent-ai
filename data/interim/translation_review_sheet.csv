@@ -1,0 +1,401 @@
+﻿id,intent,text_en,text_ar,meaning_ok,intent_ok,corrected_text,reviewer
+bx00045,cancel_order,"I bought some bloody articles, cancel order 377746",اشتريت بعض المنتجات، ألغ الطلب 377746,Y,Y,,Bushra Abdulrahman
+bx00031,cancel_order,"I bought some items, I need help to cancel purchase 575435",اشتريت بعض المنتجات، وأحتاج مساعدة لإلغاء الطلب 575435,Y,Y,,Bushra Abdulrahman
+bx00120,cancel_order,question about canceling a bloody purchase,سؤال عن إلغاء طلب,Y,Y,,Bushra Abdulrahman
+bx00151,cancel_order,"I can't afford order 460663, help me cancelling it",لا أستطيع تحمل تكلفة الطلب رقم 460663، ساعدني في إلغائه,Y,Y,,Bushra Abdulrahman
+bx00065,cancel_order,how to cancel the purchase i made,كيف ألغي الطلب الذي قمت به,Y,Y,,Bushra Abdulrahman
+bx00016,cancel_order,i cant pay for order 771088,لا أستطيع دفع ثمن الطلب رقم 771088، أريد إلغاءه,Y,Y,,Bushra Abdulrahman
+bx00149,cancel_order,"I do not want the item I purchased, can I cancel the order?",لا أريد المنتج الذي اشتريته، هل يمكنني إلغاء الطلب؟,Y,Y,,Bushra Abdulrahman
+bx00108,cancel_order,question about canceling purchase 793384,سؤال عن إلغاء الطلب 793384,Y,Y,,Bushra Abdulrahman
+bx00131,cancel_order,i purchased something how to cancel order 145561,اشتريت شيئا، كيف ألغي الطلب رقم 145561,Y,Y,,Bushra Abdulrahman
+bx00025,cancel_order,"I ordered some items, need help cancelling the last purchase",طلبت بعض المنتجات، وأحتاج مساعدة في إلغاء آخر طلب,Y,Y,,Bushra Abdulrahman
+bx00013,cancel_order,i need assistance with canceling order 584714,أحتاج مساعدة في إلغاء الطلب 584714,Y,Y,,Bushra Abdulrahman
+bx00049,cancel_order,"I do not want my last bloody item, cancel order 881177",لا أريد آخر منتج اشتريته، ألغ الطلب رقم 881177,Y,Y,,Bushra Abdulrahman
+bx00070,cancel_order,"I can't afford this item, I try to cancel order 961722",لا أستطيع تحمل تكلفة هذا المنتج، أحاول إلغاء الطلب 961722,Y,Y,,Bushra Abdulrahman
+bx00012,cancel_order,assistance canceling the last order,أريد مساعدة في إلغاء آخر طلب,Y,Y,,Bushra Abdulrahman
+bx00137,cancel_order,"I doln't want order 678856, can you cancel it?",لا أريد الطلب 678856، هل يمكنك إلغاؤه؟,Y,Y,,Bushra Abdulrahman
+bx00061,cancel_order,i have a question about cancelling oorder 581141,لدي سؤال عن إلغاء الطلب رقم 581141,Y,Y,,Bushra Abdulrahman
+bx00011,cancel_order,"I cannot afford order 271339, I need help canceling it",لا أستطيع تحمل تكلفة الطلب 271339، أحتاج مساعدة في إلغائه,Y,Y,,Bushra Abdulrahman
+bx00098,cancel_order,"I have got to cancel purchase 539898, how do I do it?",يجب أن ألغي الطلب 539898، كيف أفعل ذلك؟,Y,Y,,Bushra Abdulrahman
+bx00023,cancel_order,I need helpto cancel order 183667,أحتاج مساعدة لإلغاء الطلب رقم 183667,Y,Y,,Bushra Abdulrahman
+bx00020,cancel_order,"I have to cancel purchase 379946, can I get some help?",يجب أن ألغي الطلب رقم 379946، هل يمكنني الحصول على مساعدة؟,Y,Y,,Bushra Abdulrahman
+bx00066,cancel_order,i cannot pay for my last item cancel order 983794,لا أستطيع دفع ثمن آخر منتج، ألغ الطلب 983794,Y,Y,,Bushra Abdulrahman
+bx00002,cancel_order,cance order 174870,إلغاء الطلب رقم 174870,Y,Y,,Bushra Abdulrahman
+bx00019,cancel_order,I need to cancel purchase 835911,أحتاج إلى إلغاء الطلب 835911,Y,Y,,Bushra Abdulrahman
+bx00129,cancel_order,i don want order 267414 I'd like to cancel it,لا أريد الطلب 267414، وأود إلغاءه,Y,Y,,Bushra Abdulrahman
+bx00005,cancel_order,could you help me cancelling order 279451 ?,هل يمكنك مساعدتي في إلغاء الطلب 279451؟,Y,Y,,Bushra Abdulrahman
+bx00157,cancel_order,can uhelp me cancelliung order 263032,هل يمكنك مساعدتي في إلغاء الطلب 263032,Y,Y,,Bushra Abdulrahman
+bx00068,cancel_order,I don't want purchase 913694,لا أريد الطلب رقم 913694,Y,Y,,Bushra Abdulrahman
+bx00036,cancel_order,cancel order,إلغاء الطلب,Y,Y,,Bushra Abdulrahman
+bx00114,cancel_order,"I cannot afford this article, cancel order 334053",لا أستطيع تحمل تكلفة هذا المنتج، ألغ الطلب 334053,Y,Y,,Bushra Abdulrahman
+bx00155,cancel_order,how could icancel purchase 456778,كيف يمكنني إلغاء الطلب 456778,Y,Y,,Bushra Abdulrahman
+bx00096,cancel_order,"I no longer want order 835392, I would like to cancel it",لم أعد أريد الطلب رقم 835392، وأود إلغاءه,Y,Y,,Bushra Abdulrahman
+bx00072,cancel_order,would it be possible to cancel purchase 944151,هل من الممكن إلغاء الطلب 944151,Y,Y,,Bushra Abdulrahman
+bx00032,cancel_order,can you help me camceling the purchase I made?,هل يمكنك مساعدتي في إلغاء الطلب الذي قمت به؟,Y,Y,,Bushra Abdulrahman
+bx00082,cancel_order,i dont want this order cancel purchase 787277,لا أريد هذا الطلب، ألغ الطلب رقم 787277,Y,Y,,Bushra Abdulrahman
+bx00041,cancel_order,"I ordered some item, cancel purchase 910620",طلبت منتجا، ألغ الطلب رقم 910620,Y,Y,,Bushra Abdulrahman
+bx00058,cancel_order,what do I have to do to cancel purchase 479580?,ماذا يجب أن أفعل لإلغاء الطلب 479580؟,Y,Y,,Bushra Abdulrahman
+bx00044,cancel_order,I want assistance to cancel purchase 249811,أريد مساعدة لإلغاء الطلب 249811,Y,Y,,Bushra Abdulrahman
+bx00024,cancel_order,"I no longer want order 996865, how do I cancel it?",لم أعد أريد الطلب 996865، كيف ألغيه؟,Y,Y,,Bushra Abdulrahman
+bx00039,cancel_order,i want help cancelling purchase 319684,أريد مساعدة في إلغاء الطلب 319684,Y,Y,,Bushra Abdulrahman
+bx00107,cancel_order,"I can't pay for purchase 133326, how can I cancel it?",لا أستطيع دفع ثمن الطلب رقم 133326، كيف يمكنني إلغاؤه؟,Y,Y,,Bushra Abdulrahman
+bx00090,cancel_order,"I don't want this item, help me cancel purchase 127824",لا أريد هذا المنتج، ساعدني في إلغاء الطلب 127824,Y,Y,,Bushra Abdulrahman
+bx00166,cancel_order,I cannot afford order 476417,لا أستطيع تحمل تكلفة الطلب رقم 476417، أريد إلغاءه,Y,Y,,Bushra Abdulrahman
+bx00112,cancel_order,"I bought something, help me cancel purchasae 388389",اشتريت شيئا، ساعدني في إلغاء الطلب رقم 388389,Y,Y,,Bushra Abdulrahman
+bx00083,cancel_order,help me to cancel purchase 520651,ساعدني في إلغاء الطلب رقم 520651,Y,Y,,Bushra Abdulrahman
+bx00052,cancel_order,is it possible to cancel order 375504?,هل من الممكن إلغاء الطلب 375504؟,Y,Y,,Bushra Abdulrahman
+bx00010,cancel_order,i cannot pay for these product how do i cancel the order,لا أستطيع دفع ثمن هذه المنتجات، كيف ألغي الطلب؟,Y,Y,,Bushra Abdulrahman
+bx00118,cancel_order,"I bought the same item twice, cancel order 809570",اشتريت المنتج نفسه مرتين، ألغ الطلب رقم 809570,Y,Y,,Bushra Abdulrahman
+bx00154,cancel_order,"I cannot afford this order, cancel purchase 733052",لا أستطيع تحمل تكلفة هذا الطلب، ألغ الطلب 733052,Y,Y,,Bushra Abdulrahman
+bx00033,cancel_order,how can I cancel order 974628?,كيف يمكنني إلغاء الطلب 974628؟,Y,Y,,Bushra Abdulrahman
+bx00123,cancel_order,"I purchased some item, help canceling one of the orders",اشتريت منتجا، ساعدني في إلغاء أحد الطلبات,Y,Y,,Bushra Abdulrahman
+bx00238,change_order,how to add a product to purchase 347861?,كيف أضيف منتجا إلى الطلب 347861؟,Y,Y,,Bushra Abdulrahman
+bx00301,change_order,i have to change something of oirder 892495 i need help,يجب أن أغير شيئا في الطلب 892495، أحتاج مساعدة,Y,Y,,Bushra Abdulrahman
+bx00319,change_order,how can I switch an item of order 930555?,كيف يمكنني استبدال منتج في الطلب رقم 930555؟,Y,Y,,Bushra Abdulrahman
+bx00204,change_order,help with deleting an item from order 359947,أريد مساعدة في حذف منتج من الطلب 359947,Y,Y,,Bushra Abdulrahman
+bx00241,change_order,want assistance to remove some items from order 847581,أريد مساعدة لحذف بعض المنتجات من الطلب رقم 847581,Y,Y,,Bushra Abdulrahman
+bx00263,change_order,I have got to delete a damn product from purchase 939482,يجب أن أحذف منتجا من الطلب رقم 939482,Y,Y,,Bushra Abdulrahman
+bx00247,change_order,can I update order 790993?,هل يمكنني تحديث الطلب 790993؟,Y,Y,,Bushra Abdulrahman
+bx00356,change_order,i have got to add something to oprder 665579,يجب أن أضيف شيئا إلى الطلب 665579,Y,Y,,Bushra Abdulrahman
+bx00345,change_order,can you helo me switch something of order 791798?,هل يمكنك مساعدتي في استبدال شيء في الطلب رقم 791798؟,Y,Y,,Bushra Abdulrahman
+bx00282,change_order,adding article to order 265840,إضافة منتج إلى الطلب رقم 265840,Y,Y,,Bushra Abdulrahman
+bx00368,change_order,acn you help me changing something of purchase 422451?,هل يمكنك مساعدتي في تغيير شيء في الطلب 422451؟,Y,Y,,Bushra Abdulrahman
+bx00333,change_order,modifying order 694916,تعديل الطلب رقم 694916,Y,Y,,Bushra Abdulrahman
+bx00317,change_order,can I modify purchase 654816?,هل يمكنني تعديل الطلب 654816؟,Y,Y,,Bushra Abdulrahman
+bx00210,change_order,I can't delete several products from purchase 680828,لا أستطيع حذف عدة منتجات من الطلب 680828,Y,Y,,Bushra Abdulrahman
+bx00335,change_order,how do I change some products of order 598369?,كيف أغير بعض المنتجات في الطلب 598369؟,Y,Y,,Bushra Abdulrahman
+bx00316,change_order,remove a product from purchase 590785,احذف منتجا من الطلب 590785,Y,Y,,Bushra Abdulrahman
+bx00183,change_order,"I have to modify purchase 698782, I need assistance",يجب أن أعدل الطلب 698782، أحتاج مساعدة,Y,Y,,Bushra Abdulrahman
+bx00277,change_order,i cant switch several aritcles of purchase 772097,لا أستطيع استبدال عدة منتجات في الطلب رقم 772097,Y,Y,,Bushra Abdulrahman
+bx00310,change_order,change a damn item of purchase 542666,غير منتجا في الطلب رقم 542666,Y,Y,,Bushra Abdulrahman
+bx00296,change_order,I try to remove some articles from order 680099,أحاول حذف بعض المنتجات من الطلب رقم 680099,Y,Y,,Bushra Abdulrahman
+bx00256,change_order,how do i delet some items from order 299659,كيف أحذف بعض المنتجات من الطلب رقم 299659,Y,Y,,Bushra Abdulrahman
+bx00220,change_order,wanna remoev a bloody article from order 198907,أريد حذف منتج من الطلب رقم 198907,Y,Y,,Bushra Abdulrahman
+bx00283,change_order,wanna modify purchase 575763,أريد تعديل الطلب رقم 575763,Y,Y,,Bushra Abdulrahman
+bx00324,change_order,wanna add some articles to order 189814,أريد إضافة بعض المنتجات إلى الطلب رقم 189814,Y,Y,,Bushra Abdulrahman
+bx00195,change_order,help with changing purchase 426858,أريد مساعدة في تعديل الطلب 426858,Y,Y,,Bushra Abdulrahman
+bx00286,change_order,how colud I delete something from order 854639?,كيف يمكنني حذف شيء من الطلب 854639؟,Y,Y,,Bushra Abdulrahman
+bx00181,change_order,help me adding several articles to purchase 238739,ساعدني في إضافة عدة منتجات إلى الطلب 238739,Y,Y,,Bushra Abdulrahman
+bx00294,change_order,can uhelp me swap some articles of purchase 813328,هل يمكنك مساعدتي في استبدال بعض المنتجات في الطلب رقم 813328,Y,Y,,Bushra Abdulrahman
+bx00257,change_order,I want to switch an article of purchase 785197,أريد استبدال منتج في الطلب رقم 785197,Y,Y,,Bushra Abdulrahman
+bx00258,change_order,how do I add some items to order 203198?,كيف أضيف بعض المنتجات إلى الطلب 203198؟,Y,Y,,Bushra Abdulrahman
+bx00254,change_order,problems with deleting some productsfrom order 156802,مشكلات في حذف بعض المنتجات من الطلب رقم 156802,Y,Y,,Bushra Abdulrahman
+bx00313,change_order,want assistance deleting some items from order 503457,أريد مساعدة في حذف بعض المنتجات من الطلب رقم 503457,Y,Y,,Bushra Abdulrahman
+bx00311,change_order,is it possible to update order 725380?,هل من الممكن تحديث الطلب رقم 725380؟,Y,Y,,Bushra Abdulrahman
+bx00349,change_order,help me remove something from order 160738,ساعدني في حذف شيء من الطلب 160738,Y,Y,,Bushra Abdulrahman
+bx00200,change_order,help me swapping an item of order 559381,ساعدني في استبدال منتج في الطلب رقم 559381,Y,Y,,Bushra Abdulrahman
+bx00234,change_order,i need help switching several items of order 115474,أحتاج مساعدة في استبدال عدة منتجات في الطلب رقم 115474,Y,Y,,Bushra Abdulrahman
+bx00306,change_order,wanna swap some items of order 757924,أريد استبدال بعض المنتجات في الطلب رقم 757924,Y,Y,,Bushra Abdulrahman
+bx00240,change_order,I need help to add several articles to order 526156,أحتاج مساعدة لإضافة عدة منتجات إلى الطلب رقم 526156,Y,Y,,Bushra Abdulrahman
+bx00288,change_order,can ya help me to switch an item oforder 624902,هل يمكنك مساعدتي في استبدال منتج في الطلب رقم 624902,Y,Y,,Bushra Abdulrahman
+bx00314,change_order,I want help to switch something of order 500156,أريد مساعدة لاستبدال شيء في الطلب 500156,Y,Y,,Bushra Abdulrahman
+bx00223,change_order,can uhelp me to add a bloody item topurchase 585100,هل يمكنك مساعدتي في إضافة منتج إلى الطلب رقم 585100,Y,Y,,Bushra Abdulrahman
+bx00219,change_order,i have got to change purchase 976638,يجب أن أعدل الطلب 976638,Y,Y,,Bushra Abdulrahman
+bx00214,change_order,assistance adding some items to purchase 107540,أريد مساعدة في إضافة بعض المنتجات إلى الطلب رقم 107540,Y,Y,,Bushra Abdulrahman
+bx00237,change_order,can you help me correcting purchase 989921?,هل يمكنك مساعدتي في تصحيح الطلب رقم 989921؟,Y,Y,,Bushra Abdulrahman
+bx00366,change_order,how can I change some articles of order 945964?,كيف يمكنني تغيير بعض المنتجات في الطلب رقم 945964؟,Y,Y,,Bushra Abdulrahman
+bx00334,change_order,help me change something of order 234628,ساعدني في تغيير شيء في الطلب 234628,Y,Y,,Bushra Abdulrahman
+bx00192,change_order,"I want to add a product to my order, could I get some help?",أريد إضافة منتج إلى طلبي، هل يمكنني الحصول على مساعدة؟,Y,Y,,Bushra Abdulrahman
+bx00348,change_order,i try to switch several items of order 351083,أحاول استبدال عدة منتجات في الطلب 351083,Y,Y,,Bushra Abdulrahman
+bx00197,change_order,"I want to switch an item of order 518373, how can I do it?",أريد استبدال منتج في الطلب 518373، كيف يمكنني ذلك؟,Y,Y,,Bushra Abdulrahman
+bx00264,change_order,assistance to edit order 214576,أريد مساعدة لتعديل الطلب 214576,Y,Y,,Bushra Abdulrahman
+bx00479,complaint,how could I file a complaont?,كيف يمكنني تقديم شكوى؟,Y,Y,,Bushra Abdulrahman
+bx00526,complaint,"I ain't happy with your service, I want help filing a claim",لست راضيا عن خدمتكم، وأريد مساعدة في تقديم شكوى,Y,Y,,Bushra Abdulrahman
+bx00418,complaint,the experience with ur brand was bad file a claim,كانت تجربتي مع علامتكم التجارية سيئة، أريد تقديم شكوى,Y,Y,,Bushra Abdulrahman
+bx00381,complaint,I want help filing an customer claim,أريد مساعدة في تقديم شكوى عميل,Y,Y,,Bushra Abdulrahman
+bx00427,complaint,how can i file a complaint against ur organization,كيف يمكنني تقديم شكوى ضد مؤسستكم,Y,Y,,Bushra Abdulrahman
+bx00548,complaint,need help to lodge a complaint against your organization,أحتاج مساعدة لتقديم شكوى ضد مؤسستكم,Y,Y,,Bushra Abdulrahman
+bx00509,complaint,I am trying to file a reclamation against your company,أحاول تقديم شكوى ضد شركتكم,Y,Y,,Bushra Abdulrahman
+bx00446,complaint,need to make a consumer reclamation against ur organization,أحتاج إلى تقديم شكوى مستهلك ضد مؤسستكم,Y,Y,,Bushra Abdulrahman
+bx00409,complaint,could i file an customer claim,هل يمكنني تقديم شكوى عميل,Y,Y,,Bushra Abdulrahman
+bx00563,complaint,is it possible to lodge a customer claim,هل من الممكن تقديم شكوى عميل,Y,Y,,Bushra Abdulrahman
+bx00547,complaint,were do i lodge a consumer complaint against ur company,أين أقدم شكوى مستهلك ضد شركتكم,Y,Y,,Bushra Abdulrahman
+bx00414,complaint,can uhelp me file a complaint against ur organization,هل يمكنك مساعدتي في تقديم شكوى ضد مؤسستكم,Y,Y,,Bushra Abdulrahman
+bx00482,complaint,can uhelp me filing a consumer claim against ur organization,هل يمكنك مساعدتي في تقديم شكوى مستهلك ضد مؤسستكم,Y,Y,,Bushra Abdulrahman
+bx00438,complaint,want help filing a consumer cliam against your company,أريد مساعدة في تقديم شكوى مستهلك ضد شركتكم,Y,Y,,Bushra Abdulrahman
+bx00394,complaint,I have got to lodge a reclamation against your business,يجب أن أقدم شكوى ضد شركتكم,Y,Y,,Bushra Abdulrahman
+bx00473,complaint,I'm dissatisfied with ur work help me making a complaint,لست راضيا عن عملكم، ساعدني في تقديم شكوى,Y,Y,,Bushra Abdulrahman
+bx00472,complaint,where can I lodge a fucking reclamation?,أين يمكنني تقديم شكوى؟,Y,Y,,Bushra Abdulrahman
+bx00475,complaint,could I make a goddamn reclamation?,هل يمكنني تقديم شكوى؟,Y,Y,,Bushra Abdulrahman
+bx00556,complaint,where do I lodge a complaint against your business?,أين أقدم شكوى ضد شركتكم؟,Y,Y,,Bushra Abdulrahman
+bx00531,complaint,I'm extremely unsatisfied with ur wor i wanna lodge a claim,لست راضيا إطلاقا عن عملكم، وأريد تقديم شكوى,Y,Y,,Bushra Abdulrahman
+bx00445,complaint,can you help me make a customer claim against your company?,هل يمكنك مساعدتي في تقديم شكوى عميل ضد شركتكم؟,Y,Y,,Bushra Abdulrahman
+bx00535,complaint,lodge reclamation,تقديم شكوى,Y,Y,,Bushra Abdulrahman
+bx00568,complaint,where do I lodge a consumer reclamation?,أين أقدم شكوى مستهلك؟,Y,Y,,Bushra Abdulrahman
+bx00398,complaint,complaint against ur company,شكوى ضد شركتكم,Y,Y,,Bushra Abdulrahman
+bx00403,complaint,I need to lodge a consumer claim,أحتاج إلى تقديم شكوى مستهلك,Y,Y,,Bushra Abdulrahman
+bx00413,complaint,"I want to file a damn reclamation, how can I do it?",أريد تقديم شكوى، كيف يمكنني ذلك؟,Y,Y,,Bushra Abdulrahman
+bx00451,complaint,I don't know how I can make a customer reclamation,لا أعرف كيف يمكنني تقديم شكوى عميل,Y,Y,,Bushra Abdulrahman
+bx00502,complaint,I call to lodge a consumer reclamation against your company,أتصل لتقديم شكوى مستهلك ضد شركتكم,Y,Y,,Bushra Abdulrahman
+bx00499,complaint,I try to make a complaint,أحاول تقديم شكوى,Y,Y,,Bushra Abdulrahman
+bx00561,complaint,where can i lodge a claim against ur company,أين يمكنني تقديم شكوى ضد شركتكم,Y,Y,,Bushra Abdulrahman
+bx00511,complaint,would it be possible to file a damn customer reclamation?,هل من الممكن تقديم شكوى عميل؟,Y,Y,,Bushra Abdulrahman
+bx00419,complaint,i do not know how to file a claim against ur business,لا أعرف كيف أقدم شكوى ضد شركتكم,Y,Y,,Bushra Abdulrahman
+bx00504,complaint,is it possible to make an complaint against ur company,هل من الممكن تقديم شكوى ضد شركتكم,Y,Y,,Bushra Abdulrahman
+bx00424,complaint,can uhelp me making a reclamation against ur business,هل يمكنك مساعدتي في تقديم شكوى ضد شركتكم,Y,Y,,Bushra Abdulrahman
+bx00392,complaint,wanna lodge a consumer reclamation against ur company,أريد تقديم شكوى مستهلك ضد شركتكم,Y,Y,,Bushra Abdulrahman
+bx00546,complaint,I'm trying ot lodge a consumer complaint against ur company,أحاول تقديم شكوى مستهلك ضد شركتكم,Y,Y,,Bushra Abdulrahman
+bx00496,complaint,"my experience with your company was awful, file a complaint",كانت تجربتي مع شركتكم سيئة جدا، أريد تقديم شكوى,Y,Y,,Bushra Abdulrahman
+bx00519,complaint,I need to file a customer claim against your organizaion,أحتاج إلى تقديم شكوى عميل ضد مؤسستكم,Y,Y,,Bushra Abdulrahman
+bx00408,complaint,filing consumer claim against ur organizzation,تقديم شكوى مستهلك ضد مؤسستكم,Y,Y,,Bushra Abdulrahman
+bx00375,complaint,wanna file a consumer complaint aganst ur organization,أريد تقديم شكوى مستهلك ضد مؤسستكم,Y,Y,,Bushra Abdulrahman
+bx00387,complaint,help me to lodgea complaint against ur business,ساعدني في تقديم شكوى ضد شركتكم,Y,Y,,Bushra Abdulrahman
+bx00495,complaint,I have to make a claim,يجب أن أقدم شكوى,Y,Y,,Bushra Abdulrahman
+bx00516,complaint,I am calling to lodge a customer claim,أتصل لتقديم شكوى عميل,Y,Y,,Bushra Abdulrahman
+bx00466,complaint,help me filing a customer complaint against your business,ساعدني في تقديم شكوى عميل ضد شركتكم,Y,Y,,Bushra Abdulrahman
+bx00543,complaint,where to make a customer claim?,أين أقدم شكوى عميل؟,Y,Y,,Bushra Abdulrahman
+bx00525,complaint,can I file a complaint against your businhess?,هل يمكنني تقديم شكوى ضد شركتكم؟,Y,Y,,Bushra Abdulrahman
+bx00440,complaint,can you help me to make a consumner complaint?,هل يمكنك مساعدتي في تقديم شكوى مستهلك؟,Y,Y,,Bushra Abdulrahman
+bx00426,complaint,could you help me file a reclamation ?,هل يمكنك مساعدتي في تقديم شكوى؟,Y,Y,,Bushra Abdulrahman
+bx00550,complaint,need to make an customer claim against ur business,أحتاج إلى تقديم شكوى عميل ضد شركتكم,Y,Y,,Bushra Abdulrahman
+bx00512,complaint,i dont know what i have to do to lodge as consumer claim,لا أعرف ما الذي علي فعله لتقديم شكوى مستهلك,Y,Y,,Bushra Abdulrahman
+bx00750,contact_human_agent,I do not kinow how to contact a person,لا أعرف كيف أتواصل مع شخص,Y,Y,,Bushra Abdulrahman
+bx00690,contact_human_agent,what do i have to do to chat with an agent,ما الذي يجب أن أفعله للدردشة مع موظف؟,Y,Y,,Bushra Abdulrahman
+bx00699,contact_human_agent,contact person,التواصل مع شخص,Y,Y,,Bushra Abdulrahman
+bx00671,contact_human_agent,assistance to speak with a human agent,أحتاج مساعدة للتحدث مع موظف,Y,Y,,Bushra Abdulrahman
+bx00602,contact_human_agent,assistance to talk to an agent,أريد مساعدة للتحدث إلى موظف,Y,Y,,Bushra Abdulrahman
+bx00653,contact_human_agent,can yaa help me talking with a live agent,هل يمكنك مساعدتي في التحدث مع موظف خدمة العملاء,Y,Y,,Bushra Abdulrahman
+bx00758,contact_human_agent,"I don't understand you, I need help talking to a person",لا أفهمك، أحتاج مساعدة للتحدث مع شخص,Y,Y,,Bushra Abdulrahman
+bx00710,contact_human_agent,I need to speak with a person,أحتاج إلى التحدث مع شخص,Y,Y,,Bushra Abdulrahman
+bx00702,contact_human_agent,need assistance to speak with somebody,أحتاج مساعدة للتحدث مع شخص ما,Y,Y,,Bushra Abdulrahman
+bx00592,contact_human_agent,want assistance talking to an operator,أريد مساعدة في التحدث إلى موظف,Y,Y,,Bushra Abdulrahman
+bx00659,contact_human_agent,I'm trying to speak with an assistant,أحاول التحدث مع موظف دعم,Y,Y,,Bushra Abdulrahman
+bx00623,contact_human_agent,I want help to contact an assistant,أريد مساعدة للتواصل مع موظف دعم,Y,Y,,Bushra Abdulrahman
+bx00744,contact_human_agent,contact agent,التواصل مع موظف,Y,Y,,Bushra Abdulrahman
+bx00677,contact_human_agent,assistance to talk to somebody,أريد مساعدة للتحدث مع شخص ما,Y,Y,,Bushra Abdulrahman
+bx00693,contact_human_agent,I don't know how to chat with an operator,لا أعرف كيف أدردش مع موظف,Y,Y,,Bushra Abdulrahman
+bx00684,contact_human_agent,help to contact a person,أريد مساعدة للتواصل مع شخص,Y,Y,,Bushra Abdulrahman
+bx00719,contact_human_agent,I am trying to speak to somebody,أحاول التحدث مع شخص ما,Y,Y,,Bushra Abdulrahman
+bx00661,contact_human_agent,I want help speaking to a live agent,أريد مساعدة في التحدث إلى موظف خدمة العملاء,Y,Y,,Bushra Abdulrahman
+bx00606,contact_human_agent,help me to chat with an agent,ساعدني في المحادثة مع موظف,Y,Y,,Bushra Abdulrahman
+bx00755,contact_human_agent,i dont know how to speak to an agent,لا أعرف كيف أتحدث مع موظف,Y,Y,,Bushra Abdulrahman
+bx00711,contact_human_agent,can I speak with a person?,هل يمكنني التحدث مع شخص؟,Y,Y,,Bushra Abdulrahman
+bx00753,contact_human_agent,I cannot talk to somebody,لا أستطيع التحدث مع شخص ما,Y,Y,,Bushra Abdulrahman
+bx00583,contact_human_agent,help to talk with a fucking live agent,ساعدني في التحدث مع موظف خدمة العملاء,Y,Y,,Bushra Abdulrahman
+bx00742,contact_human_agent,want assistance speaking with a person,أريد مساعدة للتحدث مع شخص,Y,Y,,Bushra Abdulrahman
+bx00663,contact_human_agent,I don't know how I could chat with a goddamn human agent,لا أعرف كيف يمكنني المحادثة مع موظف بشري,Y,Y,,Bushra Abdulrahman
+bx00765,contact_human_agent,I don't know how I can talk to a live ahent,لا أعرف كيف يمكنني التحدث مع موظف خدمة العملاء,Y,Y,,Bushra Abdulrahman
+bx00660,contact_human_agent,how do I talk to a human agent?,كيف أتحدث إلى موظف بشري؟,Y,Y,,Bushra Abdulrahman
+bx00674,contact_human_agent,how do I talk to an operator?,كيف يمكنني التحدث مع موظف؟,Y,Y,,Bushra Abdulrahman
+bx00746,contact_human_agent,how acn I chat with somebody?,كيف يمكنني الدردشة مع شخص ما؟,Y,Y,,Bushra Abdulrahman
+bx00594,contact_human_agent,I need help to speak to a bloody human agent,أحتاج مساعدة للتحدث إلى موظف بشري,Y,Y,,Bushra Abdulrahman
+bx00616,contact_human_agent,i need assistance to chat with somebody,أحتاج مساعدة للمحادثة مع أحد,Y,Y,,Bushra Abdulrahman
+bx00698,contact_human_agent,i cannot understand ui want assistance to chat with an agent,لا أفهمك، أريد مساعدة للدردشة مع موظف,Y,Y,,Bushra Abdulrahman
+bx00701,contact_human_agent,speak with agent,التحدث مع موظف,Y,Y,,Bushra Abdulrahman
+bx00712,contact_human_agent,"you are not helpful at all, can you direct to me a person?",أنت لا تساعدني أبدا، هل يمكنك تحويلي إلى شخص؟,Y,Y,,Bushra Abdulrahman
+bx00685,contact_human_agent,"you aren't helpful at all, help me speaking to a person",أنت لا تساعدني أبدا، ساعدني في التحدث مع شخص,Y,Y,,Bushra Abdulrahman
+bx00703,contact_human_agent,what do I have to do to talk to somebody?,ما الذي يجب أن أفعله للتحدث مع شخص ما؟,Y,Y,,Bushra Abdulrahman
+bx00636,contact_human_agent,"I do not understand you, help me chatting with someone",لا أفهمك، ساعدني في المحادثة مع أحد,Y,Y,,Bushra Abdulrahman
+bx00581,contact_human_agent,can you help me speaking with a human agent?,هل يمكنك مساعدتي في التحدث مع موظف بشري؟,Y,Y,,Bushra Abdulrahman
+bx00670,contact_human_agent,i do not know what i have to do to chat with somebody,لا أعرف ما الذي يجب أن أفعله للدردشة مع شخص ما,Y,Y,,Bushra Abdulrahman
+bx00597,contact_human_agent,I want assistance contacting someone,أريد مساعدة في التواصل مع أحد,Y,Y,,Bushra Abdulrahman
+bx00669,contact_human_agent,"you are not being helpful, speak to an assistant",أنت لا تساعدني، أريد التحدث إلى موظف دعم,Y,Y,,Bushra Abdulrahman
+bx00647,contact_human_agent,can I talk with a bloody agent?,هل يمكنني التحدث مع موظف؟,Y,Y,,Bushra Abdulrahman
+bx00726,contact_human_agent,I try to speak with an operator,أحاول التحدث مع موظف,Y,Y,,Bushra Abdulrahman
+bx00680,contact_human_agent,want help to speak to someone,أريد مساعدة للتحدث مع أحد,Y,Y,,Bushra Abdulrahman
+bx00607,contact_human_agent,can you help me speaking with someone?,هل يمكنك مساعدتي في التحدث مع أحد؟,Y,Y,,Bushra Abdulrahman
+bx00598,contact_human_agent,"I have got to talk to someone, can you help me?",يجب أن أتحدث إلى أحد، هل يمكنك مساعدتي؟,Y,Y,,Bushra Abdulrahman
+bx00638,contact_human_agent,hopw to contact an agent?,كيف أتواصل مع موظف؟,Y,Y,,Bushra Abdulrahman
+bx00716,contact_human_agent,I do not know how to speak to somebody,لا أعرف كيف أتحدث مع شخص ما,Y,Y,,Bushra Abdulrahman
+bx00639,contact_human_agent,direct to me an assisrant,حولني إلى موظف دعم,Y,Y,,Bushra Abdulrahman
+bx00729,contact_human_agent,i have to chat with a huamn agent,يجب أن أدردش مع موظف بشري,Y,Y,,Bushra Abdulrahman
+bx00783,get_refund,need assistance receiving rebates of my money,أحتاج إلى مساعدة في استرداد أموالي,Y,Y,,Bushra Abdulrahman
+bx00932,get_refund,I want herlp to obtain reimbursements of money,أريد مساعدة لاسترداد الأموال,Y,Y,,Bushra Abdulrahman
+bx00812,get_refund,can you help me requesting a reimbursement?,هل يمكنك مساعدتي في طلب استرداد المبلغ؟,Y,Y,,Bushra Abdulrahman
+bx00807,get_refund,i paidx SAR 875 for an article want help to obtain a refund,دفعت 875 ريال مقابل منتج وأريد مساعدة لاسترداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx00898,get_refund,want help obtaining reimbursements ofmy money,أريد مساعدة في استرداد أموالي,Y,Y,,Bushra Abdulrahman
+bx00908,get_refund,i have paid SAR 1600 for this purchase help receiving a rebate,دفعت 1600 ريال مقابل هذه المشتريات، ساعدني في استرداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx00943,get_refund,I do not know how to obtain a restitution of my money,لا أعرف كيف أسترد أموالي,Y,Y,,Bushra Abdulrahman
+bx00923,get_refund,is it possible to request reimbursements of money?,هل من الممكن طلب استرداد الأموال؟,Y,Y,,Bushra Abdulrahman
+bx00855,get_refund,can ya help me demand a rebate of money,هل يمكنك مساعدتي في المطالبة باسترداد الأموال؟,Y,Y,,Bushra Abdulrahman
+bx00866,get_refund,need assistance receiving a bloody rebate of money,أحتاج إلى مساعدة في استرداد الأموال,Y,Y,,Bushra Abdulrahman
+bx00966,get_refund,I do not know what I need to do to obtain a reimbursement,لا أعرف ما الذي يجب أن أفعله لاسترداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx00946,get_refund,is it possible to request a refund of my money?,هل من الممكن طلب استرداد أموالي؟,Y,Y,,Bushra Abdulrahman
+bx00816,get_refund,where could I get a compensation of my money?,أين يمكنني استرداد أموالي؟,Y,Y,,Bushra Abdulrahman
+bx00907,get_refund,I'd like to obtain an reimbursement of money,أود استرداد الأموال,Y,Y,,Bushra Abdulrahman
+bx00904,get_refund,I want help to demand a compensation,أريد مساعدة للمطالبة باسترداد,Y,Y,,Bushra Abdulrahman
+bx00910,get_refund,can you help me receive goddamn compensations of money?,هل يمكنك مساعدتي في الحصول على استرداد المبلغ؟,Y,Y,,Bushra Abdulrahman
+bx00945,get_refund,help to ask for refunds of money,مساعدة لطلب استرداد الأموال,Y,Y,,Bushra Abdulrahman
+bx00827,get_refund,help me demanding a rebate,ساعدني في المطالبة باسترداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx00829,get_refund,is it possible to request rteimbursements,هل من الممكن طلب استرداد المبلغ؟,Y,Y,,Bushra Abdulrahman
+bx00874,get_refund,I don't know how to request a refund of money,لا أعرف كيف أطلب استرداد الأموال,Y,Y,,Bushra Abdulrahman
+bx00811,get_refund,"I paid SAR 950 for these products, how to receive a refund?",دفعت 950 ريال مقابل هذه المنتجات، كيف أسترد المبلغ؟,Y,Y,,Bushra Abdulrahman
+bx00850,get_refund,"I paid SAR 225 for this item, help obtaining a reimbursement",دفعت 225 ريال مقابل هذا المنتج، ساعدني في استرداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx00851,get_refund,I need to get a rebate,أحتاج إلى استرداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx00894,get_refund,"I paid SAR 1250 for this item, I try to receive a rebate",دفعت 1250 ريال مقابل هذا المنتج، وأحاول استرداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx00918,get_refund,i try to get a rebate of money,أحاول استرداد الأموال,Y,Y,,Bushra Abdulrahman
+bx00951,get_refund,wanna reeive restitutions of my money,أريد استرداد أموالي,Y,Y,,Bushra Abdulrahman
+bx00815,get_refund,i have paid SAR 1400 for an item help receiving a reimbursement,دفعت 1400 ريال مقابل منتج، ساعدني في استرداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx00823,get_refund,i have to demand a compensation,يجب أن أطالب باسترداد,Y,Y,,Bushra Abdulrahman
+bx00868,get_refund,i do not know how i can obtain compensations of my money,لا أعرف كيف يمكنني استرداد أموالي,Y,Y,,Bushra Abdulrahman
+bx00796,get_refund,could you help me asking for a refund of my money?,هل يمكنك مساعدتي في طلب استرداد أموالي؟,Y,Y,,Bushra Abdulrahman
+bx00873,get_refund,help me request a compensation of money,ساعدني في طلب استرداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx00803,get_refund,need assistance t ask for refunds of money,أحتاج إلى مساعدة لطلب استرداد الأموال,Y,Y,,Bushra Abdulrahman
+bx00944,get_refund,help to demand a goddamn compensation,مساعدة للمطالبة باسترداد,Y,Y,,Bushra Abdulrahman
+bx00929,get_refund,i dont know how to request a refund,لا أعرف كيف أطلب استرداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx00900,get_refund,i dont know what i have to do to obtain a compensation,لا أعرف ما الذي يجب أن أفعله للحصول على استرداد,Y,Y,,Bushra Abdulrahman
+bx00776,get_refund,I do not know what to do to get a compensation,لا أعرف ماذا أفعل للحصول على استرداد,Y,Y,,Bushra Abdulrahman
+bx00791,get_refund,i dont know what to do to obtain my money back,لا أعرف ماذا أفعل لاسترداد أموالي,Y,Y,,Bushra Abdulrahman
+bx00887,get_refund,I do not know how to demand a reimbursement,لا أعرف كيف أطالب باسترداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx00877,get_refund,i paid 225 dollars for an article how can i obtain a rebate,دفعت 225 دولار مقابل منتج، كيف يمكنني استرداد المبلغ؟,Y,Y,,Bushra Abdulrahman
+bx00863,get_refund,"I paid SAR 225 for this purchase, I want my rebate",دفعت 225 ريال مقابل هذه المشتريات، وأريد استرداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx00941,get_refund,I'm trying to demand fucking refunds of money,أحاول المطالبة باسترداد الأموال,Y,Y,,Bushra Abdulrahman
+bx00917,get_refund,"I paid SAR 1325 for this order, could you help me get a rebate?",دفعت 1325 ريال مقابل هذا الطلب، هل يمكنك مساعدتي في استرداد المبلغ؟,Y,Y,,Bushra Abdulrahman
+bx00922,get_refund,where do i ask for a refund,أين أطلب استرداد المبلغ؟,Y,Y,,Bushra Abdulrahman
+bx00831,get_refund,how can i obtain a rebate of money,كيف يمكنني استرداد الأموال؟,Y,Y,,Bushra Abdulrahman
+bx00847,get_refund,i paid SAR 975 for this purchase want help receiving a refund,دفعت 975 ريال مقابل هذه المشتريات، وأريد مساعدة في استرداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx00824,get_refund,need to demand revates of my money,أحتاج إلى المطالبة باسترداد أموالي,Y,Y,,Bushra Abdulrahman
+bx00934,get_refund,I want help to get refunds,أريد مساعدة لاسترداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx00804,get_refund,can ya help me to demand an refund,هل يمكنك مساعدتي في المطالبة باسترداد المبلغ؟,Y,Y,,Bushra Abdulrahman
+bx00774,get_refund,I donot know what to do to demand a refund,لا أعرف ماذا أفعل لطلب استرداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx00814,get_refund,how can i demand refunds,كيف يمكنني المطالبة باسترداد المبلغ؟,Y,Y,,Bushra Abdulrahman
+bx01168,payment_issue,can you help me to notify of issues with online payment?,هل يمكنك مساعدتي في الإبلاغ عن مشاكل في الدفع الإلكتروني؟,Y,Y,,Bushra Abdulrahman
+bx01070,payment_issue,"I want to notify of errors with payment, how to do it?",أريد الإبلاغ عن أخطاء في الدفع، كيف أفعل ذلك؟,Y,Y,,Bushra Abdulrahman
+bx01013,payment_issue,what do I need to do to notify of a payment error?,ماذا يجب أن أفعل للإبلاغ عن خطأ في الدفع؟,Y,Y,,Bushra Abdulrahman
+bx01047,payment_issue,how can I report payment errors?,كيف يمكنني الإبلاغ عن أخطاء في الدفع؟,Y,Y,,Bushra Abdulrahman
+bx01105,payment_issue,wanna report a trouble with payment i need assistance,أريد الإبلاغ عن مشكلة في الدفع، أحتاج إلى مساعدة,Y,Y,,Bushra Abdulrahman
+bx01014,payment_issue,"I cannot make a payment, I need help notifying of errors",لا أستطيع إتمام الدفع، أحتاج إلى مساعدة في الإبلاغ عن الأخطاء,Y,Y,,Bushra Abdulrahman
+bx01028,payment_issue,payment issues,مشاكل في الدفع,Y,Y,,Bushra Abdulrahman
+bx01085,payment_issue,i need help to solve problems with online payment,أحتاج إلى مساعدة لحل مشاكل في الدفع الإلكتروني,Y,Y,,Bushra Abdulrahman
+bx00981,payment_issue,need help reporting errors with online payments,أحتاج إلى مساعدة في الإبلاغ عن أخطاء في الدفع الإلكتروني,Y,Y,,Bushra Abdulrahman
+bx01027,payment_issue,i neee help solving problems with payments,أحتاج إلى مساعدة في حل مشاكل في الدفع,Y,Y,,Bushra Abdulrahman
+bx01062,payment_issue,where could i inform of problems with online payments,أين يمكنني الإبلاغ عن مشاكل في الدفع الإلكتروني؟,Y,Y,,Bushra Abdulrahman
+bx01071,payment_issue,help informing of a fucking payment problem,مساعدة في الإبلاغ عن مشكلة في الدفع,Y,Y,,Bushra Abdulrahman
+bx01005,payment_issue,can you help me to inform of an error with online payment?,هل يمكنك مساعدتي في الإبلاغ عن خطأ في الدفع الإلكتروني؟,Y,Y,,Bushra Abdulrahman
+bx01108,payment_issue,where do i inform of payment problems,أين أبلغ عن مشاكل في الدفع؟,Y,Y,,Bushra Abdulrahman
+bx01001,payment_issue,i cant makr a transfer help me report a payment error,لا أستطيع إجراء تحويل، ساعدني في الإبلاغ عن خطأ في الدفع,Y,Y,,Bushra Abdulrahman
+bx01052,payment_issue,"I can't pay, notify of a trouble with online payment",لا أستطيع الدفع، أريد الإبلاغ عن مشكلة في الدفع الإلكتروني,Y,Y,,Bushra Abdulrahman
+bx01107,payment_issue,i cant make a payment i wanna repotr a problem,لا أستطيع إتمام الدفع، أريد الإبلاغ عن مشكلة,Y,Y,,Bushra Abdulrahman
+bx01135,payment_issue,how can I inform of issues with online payment?,كيف يمكنني الإبلاغ عن مشاكل في الدفع الإلكتروني؟,Y,Y,,Bushra Abdulrahman
+bx01021,payment_issue,i cant pay i need help reporting problems with payments,لا أستطيع الدفع، أحتاج إلى مساعدة في الإبلاغ عن مشاكل في الدفع,Y,Y,,Bushra Abdulrahman
+bx01010,payment_issue,want help to notify of troubles with payment,أريد مساعدة للإبلاغ عن مشاكل في الدفع,Y,Y,,Bushra Abdulrahman
+bx01067,payment_issue,where do i notify of a trouble with payments,أين أبلغ عن مشكلة في الدفع؟,Y,Y,,Bushra Abdulrahman
+bx01127,payment_issue,help solving a payment problem,مساعدة في حل مشكلة في الدفع,Y,Y,,Bushra Abdulrahman
+bx01044,payment_issue,help me notify of errors with online payment,ساعدني في الإبلاغ عن أخطاء في الدفع الإلكتروني,Y,Y,,Bushra Abdulrahman
+bx01125,payment_issue,wanna inform of errors with online payment can uhelp me,أريد الإبلاغ عن أخطاء في الدفع الإلكتروني، هل يمكنك مساعدتي؟,Y,Y,,Bushra Abdulrahman
+bx01137,payment_issue,i cannot make a payment help me inform of fucking issues,لا أستطيع إتمام الدفع، ساعدني في الإبلاغ عن المشاكل,Y,Y,,Bushra Abdulrahman
+bx01148,payment_issue,"my card was declined, inform of an error with payments",تم رفض بطاقتي، أريد الإبلاغ عن خطأ في الدفع,Y,Y,,Bushra Abdulrahman
+bx01090,payment_issue,is it possible to inform of an error with online payments?,هل من الممكن الإبلاغ عن خطأ في الدفع الإلكتروني؟,Y,Y,,Bushra Abdulrahman
+bx01065,payment_issue,i have to notify of errors with online payment,يجب أن أبلغ عن أخطاء في الدفع الإلكتروني,Y,Y,,Bushra Abdulrahman
+bx01096,payment_issue,I need to report payment issues,أحتاج إلى الإبلاغ عن مشاكل في الدفع,Y,Y,,Bushra Abdulrahman
+bx01153,payment_issue,"I can't pay, is it possible to report troubles with payment?",لا أستطيع الدفع، هل من الممكن الإبلاغ عن مشاكل في الدفع؟,Y,Y,,Bushra Abdulrahman
+bx01134,payment_issue,"I can't make a transfer, I need to inform of payment issues",لا أستطيع إجراء تحويل، أحتاج إلى الإبلاغ عن مشاكل في الدفع,Y,Y,,Bushra Abdulrahman
+bx01064,payment_issue,"I want to report problems with payments, I need assistance",أريد الإبلاغ عن مشاكل في الدفع، أحتاج إلى مساعدة,Y,Y,,Bushra Abdulrahman
+bx00995,payment_issue,"I have to report an issue with online payments, help me",يجب أن أبلغ عن مشكلة في الدفع الإلكتروني، ساعدني,Y,Y,,Bushra Abdulrahman
+bx01144,payment_issue,help with payment,مساعدة في الدفع,Y,Y,,Bushra Abdulrahman
+bx01057,payment_issue,could ya help me solving an error with payments,هل يمكنك مساعدتي في حل خطأ في الدفع؟,Y,Y,,Bushra Abdulrahman
+bx01020,payment_issue,assistance with payment,أحتاج إلى مساعدة في الدفع,Y,Y,,Bushra Abdulrahman
+bx01009,payment_issue,i dont know how to report issues with online payments,لا أعرف كيف أبلغ عن مشاكل في الدفع الإلكتروني,Y,Y,,Bushra Abdulrahman
+bx00975,payment_issue,where can I notify of problems with payent?,أين يمكنني الإبلاغ عن مشاكل في الدفع؟,Y,Y,,Bushra Abdulrahman
+bx00988,payment_issue,I would like to report fucking errors with payment,أود الإبلاغ عن أخطاء في الدفع,Y,Y,,Bushra Abdulrahman
+bx01098,payment_issue,help me to inform of troubles with online payments,ساعدني في الإبلاغ عن مشاكل في الدفع الإلكتروني,Y,Y,,Bushra Abdulrahman
+bx01131,payment_issue,support regarding online pamyent,دعم بخصوص الدفع الإلكتروني,Y,Y,,Bushra Abdulrahman
+bx01060,payment_issue,how do I report issues with online payment?,كيف أبلغ عن مشاكل في الدفع الإلكتروني؟,Y,Y,,Bushra Abdulrahman
+bx01140,payment_issue,help me to notify of an reror with payments,ساعدني في الإبلاغ عن خطأ في الدفع,Y,Y,,Bushra Abdulrahman
+bx01120,payment_issue,I try to notify of an error with online payments,أحاول الإبلاغ عن خطأ في الدفع الإلكتروني,Y,Y,,Bushra Abdulrahman
+bx01087,payment_issue,help solving a problem with online payment,مساعدة في حل مشكلة في الدفع الإلكتروني,Y,Y,,Bushra Abdulrahman
+bx01024,payment_issue,i dont know how to inform of a payment error,لا أعرف كيف أبلغ عن خطأ في الدفع,Y,Y,,Bushra Abdulrahman
+bx01046,payment_issue,solve problems with apyment,حل مشاكل في الدفع,Y,Y,,Bushra Abdulrahman
+bx01043,payment_issue,i need assistance reporting payment problems,أحتاج إلى مساعدة في الإبلاغ عن مشاكل في الدفع,Y,Y,,Bushra Abdulrahman
+bx01112,payment_issue,help regarding payment,مساعدة بخصوص الدفع,Y,Y,,Bushra Abdulrahman
+bx01002,payment_issue,notify of troubles with payment,الإبلاغ عن مشاكل في الدفع,Y,Y,,Bushra Abdulrahman
+bx01366,track_order,wanna see order 398830 damn current status help me,أريد معرفة الحالة الحالية للطلب 398830، ساعدني,Y,Y,,Bushra Abdulrahman
+bx01272,track_order,see purchase 141672 status,عرض حالة الطلب رقم 141672,Y,Y,,Bushra Abdulrahman
+bx01213,track_order,where to see the current status of order 374680?,أين يمكنني رؤية الحالة الحالية للطلب رقم 374680؟,Y,Y,,Bushra Abdulrahman
+bx01247,track_order,can you help me see purchase 470858 status?,هل يمكنك مساعدتي في معرفة حالة الطلب رقم 470858؟,Y,Y,,Bushra Abdulrahman
+bx01300,track_order,checking purchase 599948 status,التحقق من حالة الطلب رقم 599948,Y,Y,,Bushra Abdulrahman
+bx01214,track_order,i have to see the status of order 269430 help me,يجب أن أعرف حالة الطلب 269430، ساعدني,Y,Y,,Bushra Abdulrahman
+bx01230,track_order,need assistance checking order 956253 status,أحتاج إلى مساعدة في التحقق من حالة الطلب رقم 956253,Y,Y,,Bushra Abdulrahman
+bx01284,track_order,I need assistance locating order 850981,أحتاج إلى مساعدة في معرفة مكان الطلب رقم 850981,Y,Y,,Bushra Abdulrahman
+bx01181,track_order,how to locate order 320281?,كيف أحدد موقع الطلب رقم 320281؟,Y,Y,,Bushra Abdulrahman
+bx01229,track_order,want asistance checking the eta of the order 309267,أريد مساعدة في التحقق من موعد الوصول المتوقع للطلب 309267,Y,Y,,Bushra Abdulrahman
+bx01264,track_order,how could I check the current status of order 920391?,كيف يمكنني التحقق من الحالة الحالية للطلب رقم 920391؟,Y,Y,,Bushra Abdulrahman
+bx01273,track_order,what is purchase 749468 current status?,ما الحالة الحالية للطلب رقم 749468؟,Y,Y,,Bushra Abdulrahman
+bx01204,track_order,how do i see the eta of order 544151,كيف أعرف موعد الوصول المتوقع للطلب رقم 544151؟,Y,Y,,Bushra Abdulrahman
+bx01307,track_order,I want assistance to check the ETA of purchase 632496,أريد مساعدة للتحقق من موعد الوصول المتوقع للطلب 632496,Y,Y,,Bushra Abdulrahman
+bx01199,track_order,assiustance tracking purchase 363319,مساعدة في تتبع الطلب 363319,Y,Y,,Bushra Abdulrahman
+bx01255,track_order,i want assistance to track order 270395,أريد مساعدة لتتبع الطلب 270395,Y,Y,,Bushra Abdulrahman
+bx01306,track_order,"I want to see the ETA of my order, could you help me?",أريد معرفة موعد الوصول المتوقع لطلبي، هل يمكنك مساعدتي؟,Y,Y,,Bushra Abdulrahman
+bx01336,track_order,"I have got to locate purchase 262998, I need help",يجب أن أحدد موقع الطلب رقم 262998، أحتاج إلى مساعدة,Y,Y,,Bushra Abdulrahman
+bx01221,track_order,could uhelp me checkingb the eta of the purchase 266931,هل يمكنك مساعدتي في التحقق من موعد الوصول المتوقع للطلب 266931؟,Y,Y,,Bushra Abdulrahman
+bx01209,track_order,checking status of order,التحقق من حالة الطلب,Y,Y,,Bushra Abdulrahman
+bx01270,track_order,need to see the damn eta of the purchase 176066 help me,أحتاج إلى معرفة موعد الوصول المتوقع للطلب رقم 176066، ساعدني,Y,Y,,Bushra Abdulrahman
+bx01325,track_order,wana check the ETA of order 800305 will ya help me,أريد التحقق من موعد الوصول المتوقع للطلب 800305، هل ستساعدني؟,Y,Y,,Bushra Abdulrahman
+bx01243,track_order,check purchase 360222 current status,التحقق من الحالة الحالية للطلب 360222,Y,Y,,Bushra Abdulrahman
+bx01324,track_order,can ya help me check order 108203 current status,هل يمكنك مساعدتي في التحقق من الحالة الحالية للطلب 108203؟,Y,Y,,Bushra Abdulrahman
+bx01338,track_order,I do not know how to see the ETA of purchase 395442,لا أعرف كيف أعرف موعد الوصول المتوقع للطلب 395442,Y,Y,,Bushra Abdulrahman
+bx01352,track_order,"I have got to check order 176819 status, can you help me?",يجب أن أتحقق من حالة الطلب 176819، هل يمكنك مساعدتي؟,Y,Y,,Bushra Abdulrahman
+bx01288,track_order,help locating purchase 378517,مساعدة في معرفة مكان الطلب 378517,Y,Y,,Bushra Abdulrahman
+bx01268,track_order,wanna chedk order 950155 status help me,أريد التحقق من حالة الطلب 950155، ساعدني,Y,Y,,Bushra Abdulrahman
+bx01293,track_order,how can I see order 723398 current status?,كيف يمكنني معرفة الحالة الحالية للطلب رقم 723398؟,Y,Y,,Bushra Abdulrahman
+bx01354,track_order,can you help me to check order 323508 status?,هل يمكنك مساعدتي في التحقق من حالة الطلب رقم 323508؟,Y,Y,,Bushra Abdulrahman
+bx01335,track_order,I'd like to track purchase 680097 i need assistance,أود تتبع الطلب رقم 680097، أحتاج إلى مساعدة,Y,Y,,Bushra Abdulrahman
+bx01267,track_order,I don't know how I can locate purchase 802448,لا أعرف كيف يمكنني معرفة مكان الطلب رقم 802448,Y,Y,,Bushra Abdulrahman
+bx01193,track_order,I awnt assistance to locate order 548462,أريد مساعدة لمعرفة مكان الطلب 548462,Y,Y,,Bushra Abdulrahman
+bx01349,track_order,needx help to check the ETA of purchase 751332,أحتاج إلى مساعدة للتحقق من موعد الوصول المتوقع للطلب رقم 751332,Y,Y,,Bushra Abdulrahman
+bx01260,track_order,need to check the etga of order 125990 help me,أحتاج إلى التحقق من موعد الوصول المتوقع للطلب 125990، ساعدني,Y,Y,,Bushra Abdulrahman
+bx01220,track_order,wanna check order 799330 status,أريد التحقق من حالة الطلب 799330,Y,Y,,Bushra Abdulrahman
+bx01208,track_order,how can i tfack purchase 449759,كيف يمكنني تتبع الطلب 449759؟,Y,Y,,Bushra Abdulrahman
+bx01175,track_order,were could i locate purchase 824586,أين يمكنني معرفة مكان الطلب رقم 824586؟,Y,Y,,Bushra Abdulrahman
+bx01187,track_order,I am trying to locate order 482364,أحاول معرفة مكان الطلب 482364,Y,Y,,Bushra Abdulrahman
+bx01295,track_order,I need help to see the current status of order 707040,أحتاج إلى مساعدة لمعرفة الحالة الحالية للطلب 707040,Y,Y,,Bushra Abdulrahman
+bx01331,track_order,how do I track purchase 377312?,كيف أتتبع الطلب 377312؟,Y,Y,,Bushra Abdulrahman
+bx01263,track_order,how to see the status of order 448321,كيف أعرف حالة الطلب 448321؟,Y,Y,,Bushra Abdulrahman
+bx01344,track_order,I try to check purcbase 741390 status,أحاول التحقق من حالة الطلب 741390,Y,Y,,Bushra Abdulrahman
+bx01318,track_order,is it possible to track purchase 358175?,هل من الممكن تتبع الطلب 358175؟,Y,Y,,Bushra Abdulrahman
+bx01285,track_order,i have to check the ETA of order732201349959 i need help,يجب أن أتحقق من موعد الوصول المتوقع للطلب رقم 732201349959، أحتاج إلى مساعدة,Y,Y,,Bushra Abdulrahman
+bx01226,track_order,can uhelp me to locate order 140605,هل يمكنك مساعدتي في معرفة مكان الطلب رقم 140605؟,Y,Y,,Bushra Abdulrahman
+bx01246,track_order,help me to check the current status of order 207786,ساعدني في التحقق من الحالة الحالية للطلب رقم 207786,Y,Y,,Bushra Abdulrahman
+bx01242,track_order,what do i have to do to locate purchase 379766,ماذا يجب أن أفعل لمعرفة مكان الطلب 379766؟,Y,Y,,Bushra Abdulrahman
+bx01310,track_order,wann locate order 294851,أريد معرفة مكان الطلب 294851,Y,Y,,Bushra Abdulrahman
+bx01200,track_order,I have to check purchase 987204 current status,يجب أن أتحقق من الحالة الحالية للطلب 987204,Y,Y,,Bushra Abdulrahman
+bx01471,track_refund,I want help to check if there is anything new on my rebate,أريد مساعدة للتحقق من وجود أي جديد بخصوص الاسترداد الخاص بي,Y,Y,,Bushra Abdulrahman
+bx01547,track_refund,what is my rebate status?,ما هي حالة الاسترداد الخاص بي؟,Y,Y,,Bushra Abdulrahman
+bx01450,track_refund,where can I check the current status of my rebate?,أين يمكنني التحقق من الحالة الحالية للاسترداد الخاص بي؟,Y,Y,,Bushra Abdulrahman
+bx01568,track_refund,"I want to see my refund current status, help me",أريد معرفة الحالة الحالية لاسترداد أموالي، ساعدني,Y,Y,,Bushra Abdulrahman
+bx01453,track_refund,can you help me to see the restitution status?,هل يمكنك مساعدتي في معرفة حالة الاسترداد؟,Y,Y,,Bushra Abdulrahman
+bx01564,track_refund,see the status of the reimbursement,معرفة حالة استرداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx01493,track_refund,can you show me the rebate current status?,هل يمكنك أن تعرض لي الحالة الحالية للاسترداد؟,Y,Y,,Bushra Abdulrahman
+bx01516,track_refund,i dont know how i could track the rebate,لا أعرف كيف يمكنني تتبع الاسترداد,Y,Y,,Bushra Abdulrahman
+bx01461,track_refund,show status of refund,اعرض حالة الاسترداد,Y,Y,,Bushra Abdulrahman
+bx01467,track_refund,assistance checking my reimbursement current status,أحتاج مساعدة في التحقق من الحالة الحالية لاسترداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx01557,track_refund,need assistance checking my compensation current status,أحتاج مساعدة في التحقق من الحالة الحالية للاسترداد الخاص بي,Y,Y,,Bushra Abdulrahman
+bx01428,track_refund,I want help to know if there are any news on the rebate,أريد مساعدة لمعرفة إذا كان هناك أي أخبار عن الاسترداد,Y,Y,,Bushra Abdulrahman
+bx01481,track_refund,I don't know how I can check the rebate status,لا أعرف كيف يمكنني التحقق من حالة الاسترداد,Y,Y,,Bushra Abdulrahman
+bx01505,track_refund,"I need to know if there are any news on my rebate, help me",أحتاج أن أعرف إذا كان هناك أي أخبار عن الاسترداد الخاص بي، ساعدني,Y,Y,,Bushra Abdulrahman
+bx01457,track_refund,I want to see if there is anything new on the restitution,أريد معرفة إذا كان هناك أي جديد بخصوص الاسترداد,Y,Y,,Bushra Abdulrahman
+bx01409,track_refund,I'm waiting for a ocmpensation of 600 dollars,أنتظر استردادا بمبلغ 600 دولار,Y,Y,,Bushra Abdulrahman
+bx01396,track_refund,can you help me see my reimbursement status?,هل يمكنك مساعدتي في معرفة حالة استرداد المبلغ؟,Y,Y,,Bushra Abdulrahman
+bx01449,track_refund,how do I check if there are any updates on the restitution?,كيف أتحقق من وجود أي تحديثات بخصوص الاسترداد؟,Y,Y,,Bushra Abdulrahman
+bx01513,track_refund,i try to see if there are any updates on my refund,أحاول معرفة إذا كان هناك أي تحديثات بخصوص استرداد أموالي,Y,Y,,Bushra Abdulrahman
+bx01400,track_refund,how to check the fucking rebate current status?,كيف أتحقق من الحالة الحالية للاسترداد؟,Y,Y,,Bushra Abdulrahman
+bx01376,track_refund,I'm trying to see the rebate current status,أحاول معرفة الحالة الحالية للاسترداد,Y,Y,,Bushra Abdulrahman
+bx01514,track_refund,I need help tracking the restitution,أحتاج مساعدة في تتبع الاسترداد,Y,Y,,Bushra Abdulrahman
+bx01542,track_refund,help to see if there are any news on my rebate,ساعدني في معرفة إذا كان هناك أي أخبار عن الاسترداد الخاص بي,Y,Y,,Bushra Abdulrahman
+bx01429,track_refund,i do not know how i can see the reimbursement current status,لا أعرف كيف يمكنني معرفة الحالة الحالية لاسترداد المبلغ,Y,Y,,Bushra Abdulrahman
+bx01415,track_refund,"I expect a rebate of SAR 1900, was it processed",أنتظر استرداد مبلغ 1900 ريال، هل تمت معالجته؟,Y,Y,,Bushra Abdulrahman
+bx01495,track_refund,help to check the status of my compensation,ساعدني في التحقق من حالة الاسترداد الخاص بي,Y,Y,,Bushra Abdulrahman
+bx01484,track_refund,how can I see the current status of my refund?,كيف يمكنني معرفة الحالة الحالية لاسترداد أموالي؟,Y,Y,,Bushra Abdulrahman
+bx01494,track_refund,"I want to check my rebate current status, could you help me?",أريد التحقق من الحالة الحالية للاسترداد الخاص بي، هل يمكنك مساعدتي؟,Y,Y,,Bushra Abdulrahman
+bx01448,track_refund,could I know if there is anything new on my compensation?,هل يمكنني معرفة إذا كان هناك أي جديد بخصوص الاسترداد الخاص بي؟,Y,Y,,Bushra Abdulrahman
+bx01456,track_refund,I don't know what I have to do to see the restitution status,لا أعرف ما الذي يجب أن أفعله لمعرفة حالة الاسترداد,Y,Y,,Bushra Abdulrahman
+bx01527,track_refund,I need assistance to check my restitution status,أحتاج مساعدة للتحقق من حالة الاسترداد الخاص بي,Y,Y,,Bushra Abdulrahman
+bx01388,track_refund,I need assistance to check the current status of the rebate,أحتاج مساعدة للتحقق من الحالة الحالية للاسترداد,Y,Y,,Bushra Abdulrahman
+bx01536,track_refund,I need help checking if there are any updates on my refund,أحتاج مساعدة للتحقق من وجود أي تحديثات بخصوص استرداد أموالي,Y,Y,,Bushra Abdulrahman
+bx01374,track_refund,"I have got to check my reimbursement status, help me",يجب أن أتحقق من حالة استرداد المبلغ، ساعدني,Y,Y,,Bushra Abdulrahman
+bx01548,track_refund,"I need to see my rebate current status, will you help me?",أحتاج إلى معرفة الحالة الحالية للاسترداد الخاص بي، هل ستساعدني؟,Y,Y,,Bushra Abdulrahman
+bx01497,track_refund,could you help me see if there are any news on my rebate?,هل يمكنك مساعدتي في معرفة إذا كان هناك أي أخبار عن الاسترداد الخاص بي؟,Y,Y,,Bushra Abdulrahman
+bx01455,track_refund,know if there is anything wrong with the refund,معرفة إذا كانت هناك أي مشكلة في الاسترداد,Y,Y,,Bushra Abdulrahman
+bx01538,track_refund,how can I check the refund current status?,كيف يمكنني التحقق من الحالة الحالية لاسترداد أموالي؟,Y,Y,,Bushra Abdulrahman
+bx01517,track_refund,can I see if there is anything new on the reimbursement?,هل يمكنني معرفة إذا كان هناك أي جديد بخصوص استرداد المبلغ؟,Y,Y,,Bushra Abdulrahman
+bx01465,track_refund,I'm trying to check the status of my compensation,أحاول التحقق من حالة الاسترداد الخاص بي,Y,Y,,Bushra Abdulrahman
+bx01401,track_refund,"I have to check my reimbursement status, how could I do it?",يجب أن أتحقق من حالة استرداد المبلغ، كيف يمكنني ذلك؟,Y,Y,,Bushra Abdulrahman
+bx01392,track_refund,i expect a restitution of 400 dollars was it processed,أنتظر استرداد مبلغ 400 دولار، هل تمت معالجته؟,Y,Y,,Bushra Abdulrahman
+bx01530,track_refund,i dont know how to track my refund,لا أعرف كيف أتتبع استرداد أموالي,Y,Y,,Bushra Abdulrahman
+bx01433,track_refund,any news on my bloody reimbursement,هل هناك أي أخبار عن استرداد المبلغ الخاص بي؟,Y,Y,,Bushra Abdulrahman
+bx01472,track_refund,I do not know how to track the restitution,لا أعرف كيف أتتبع الاسترداد,Y,Y,,Bushra Abdulrahman
+bx01459,track_refund,assistance seeing if there is anything wrong with my refund,أريد مساعدة لمعرفة إذا كانت هناك أي مشكلة في استرداد أموالي,Y,Y,,Bushra Abdulrahman
+bx00890,track_refund,when am i ovtaining my money back,متى سأسترد أموالي؟,Y,Y,,Bushra Abdulrahman
+bx01380,track_refund,can uhelp me check the compensation current status,هل يمكنك مساعدتي في التحقق من الحالة الحالية للاسترداد؟,Y,Y,,Bushra Abdulrahman
+bx01518,track_refund,i have got to check the rebate current status,يجب أن أتحقق من الحالة الحالية للاسترداد,Y,Y,,Bushra Abdulrahman
+bx01438,track_refund,could you help me check the status of my restitution?,هل يمكنك مساعدتي في التحقق من حالة الاسترداد الخاص بي؟,Y,Y,,Bushra Abdulrahman

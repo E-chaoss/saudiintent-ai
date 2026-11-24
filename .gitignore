@@ -1,0 +1,32 @@
+# Secrets
+.env
+
+# Model weights and checkpoints (too big for Git: use the Hugging Face Hub or Google Drive)
+models/*
+!models/README.md
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Raw data (download it, see data/raw/README.md)
+data/raw/*
+!data/raw/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Colab / zip exports
+*.zip
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

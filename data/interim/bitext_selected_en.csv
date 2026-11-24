@@ -1,0 +1,1571 @@
+id,intent,text_en
+bx00000,cancel_order,I don't know how I could cancel purchase 770487
+bx00001,cancel_order,i bought some damn item help to cancep order 779514
+bx00002,cancel_order,cance order 174870
+bx00003,cancel_order,"I can't afford order 738720, could I cancel it?"
+bx00004,cancel_order,"I can't afford my last item, cancel purchase 765822"
+bx00005,cancel_order,could you help me cancelling order 279451 ?
+bx00006,cancel_order,"I bought some item, cancel order 660086"
+bx00007,cancel_order,I am trying to cancel purchase 864544
+bx00008,cancel_order,"I cannot pay for the last purchase I have made, cancel it"
+bx00009,cancel_order,cancel purchase 356702
+bx00010,cancel_order,i cannot pay for these product how do i cancel the order
+bx00011,cancel_order,"I cannot afford order 271339, I need help canceling it"
+bx00012,cancel_order,assistance canceling the last order
+bx00013,cancel_order,i need assistance with canceling order 584714
+bx00014,cancel_order,"I can't afford purchase 497887, could you cancel it?"
+bx00015,cancel_order,can uhelp me cancelling purchazse 383060
+bx00016,cancel_order,i cant pay for order 771088
+bx00017,cancel_order,I have got to cancel purchase 821590
+bx00018,cancel_order,I cannot pay for purchase 816751
+bx00019,cancel_order,I need to cancel purchase 835911
+bx00020,cancel_order,"I have to cancel purchase 379946, can I get some help?"
+bx00021,cancel_order,can you help me cancel order 802729?
+bx00022,cancel_order,i dont know what to do to cancel purchase 403445
+bx00023,cancel_order,I need helpto cancel order 183667
+bx00024,cancel_order,"I no longer want order 996865, how do I cancel it?"
+bx00025,cancel_order,"I ordered some items, need help cancelling the last purchase"
+bx00026,cancel_order,"I purchased some product, cancel order 344098"
+bx00027,cancel_order,"I can't pay for this item, can I cancel order 205907?"
+bx00028,cancel_order,"I can no longer afford purchase 498591, cancel it"
+bx00029,cancel_order,"I would like to cancel purchase 391476, I need help"
+bx00030,cancel_order,i bought some product help me canceling order 684004
+bx00031,cancel_order,"I bought some items, I need help to cancel purchase 575435"
+bx00032,cancel_order,can you help me camceling the purchase I made?
+bx00033,cancel_order,how can I cancel order 974628?
+bx00034,cancel_order,I have to cancel order 482554
+bx00035,cancel_order,i do not know how to cancel order 270555
+bx00036,cancel_order,cancel order
+bx00037,cancel_order,i dont want purchase 488162 could i cancel it
+bx00038,cancel_order,i do not know how i can canmcel order 472528
+bx00039,cancel_order,i want help cancelling purchase 319684
+bx00040,cancel_order,could ya help me cancel order 766563
+bx00041,cancel_order,"I ordered some item, cancel purchase 910620"
+bx00042,cancel_order,"I purchased some items, I want to cancel order 330283"
+bx00043,cancel_order,where can I cancel order 440035?
+bx00044,cancel_order,I want assistance to cancel purchase 249811
+bx00045,cancel_order,"I bought some bloody articles, cancel order 377746"
+bx00046,cancel_order,"I can't afford order 246413, how can I cancel it?"
+bx00047,cancel_order,need assistance to cancel orer 358607
+bx00048,cancel_order,help cancelling my bloody purchase
+bx00049,cancel_order,"I do not want my last bloody item, cancel order 881177"
+bx00050,cancel_order,i dont want order 688637 could i cancel it
+bx00051,cancel_order,i purchased some fucking item cancel order 665158
+bx00052,cancel_order,is it possible to cancel order 375504?
+bx00053,cancel_order,"I bought some product, I want to cancel order 883300"
+bx00054,cancel_order,"I can't afford purchase 712982, I need help canceling it"
+bx00055,cancel_order,assistance with cancelling pucrhase 549245
+bx00056,cancel_order,assistance with canceling oreder 711878
+bx00057,cancel_order,how can I cancel purchase 518801?
+bx00058,cancel_order,what do I have to do to cancel purchase 479580?
+bx00059,cancel_order,"I don't want this product, cancel purchase 329974"
+bx00060,cancel_order,"I bought some article, help canceling order 245051"
+bx00061,cancel_order,i have a question about cancelling oorder 581141
+bx00062,cancel_order,I do not knwo what I need to do to cancel order 774079
+bx00063,cancel_order,how to cancel order 514850
+bx00064,cancel_order,"I ordered some products, how to cancel purchase 623481?"
+bx00065,cancel_order,how to cancel the purchase i made
+bx00066,cancel_order,i cannot pay for my last item cancel order 983794
+bx00067,cancel_order,i want assistance canceling order 905635
+bx00068,cancel_order,I don't want purchase 913694
+bx00069,cancel_order,assistance to cancel purchased 340174
+bx00070,cancel_order,"I can't afford this item, I try to cancel order 961722"
+bx00071,cancel_order,"I have bought some item, I have to cancel order 133659"
+bx00072,cancel_order,would it be possible to cancel purchase 944151
+bx00073,cancel_order,can you help me cancel purchase 817870?
+bx00074,cancel_order,what do I have to do to cancel order 430776?
+bx00075,cancel_order,"I have got to cancel purchase 380746, help me"
+bx00076,cancel_order,"I no longer want purchase 169403, can you cancel it?"
+bx00077,cancel_order,I want help canceling order 321231
+bx00078,cancel_order,where could I cancel purchase 694731?
+bx00079,cancel_order,"I do not want this item, cancel order 852787"
+bx00080,cancel_order,need help with canceling purchase 429963
+bx00081,cancel_order,where to cancel purchase 322955
+bx00082,cancel_order,i dont want this order cancel purchase 787277
+bx00083,cancel_order,help me to cancel purchase 520651
+bx00084,cancel_order,"I have bought some items, help canceling purchase 338968"
+bx00085,cancel_order,"I have gotr to cancel order 158655, I need help"
+bx00086,cancel_order,i dont know how to cancel purchase 148050
+bx00087,cancel_order,I'm trying to cancel order 343962
+bx00088,cancel_order,help me canceling purchase 629903
+bx00089,cancel_order,i dont know what to do to cancel order 731262
+bx00090,cancel_order,"I don't want this item, help me cancel purchase 127824"
+bx00091,cancel_order,"I do not want this item, I try to cancel order 688508"
+bx00092,cancel_order,would you give me information about cancelling orders?
+bx00093,cancel_order,i want help to cancel purchase 308496
+bx00094,cancel_order,I try to cancel purchase 850800
+bx00095,cancel_order,"I bought some articles, help me to cancel order 781453"
+bx00096,cancel_order,"I no longer want order 835392, I would like to cancel it"
+bx00097,cancel_order,help me to cancel order 671412
+bx00098,cancel_order,"I have got to cancel purchase 539898, how do I do it?"
+bx00099,cancel_order,how do I cancel purchae 331148?
+bx00100,cancel_order,i need help cancelling puchase 571029
+bx00101,cancel_order,I don't know how I colud cancel order 717889
+bx00102,cancel_order,"I purchased some items, help me cancel order 391704"
+bx00103,cancel_order,"I purchased some damn product, help me cancel order 948749"
+bx00104,cancel_order,i do not want these article i try to cancel order 329258
+bx00105,cancel_order,need help with canceling order 198246
+bx00106,cancel_order,i have problems with canceling order 131244
+bx00107,cancel_order,"I can't pay for purchase 133326, how can I cancel it?"
+bx00108,cancel_order,question about canceling purchase 793384
+bx00109,cancel_order,I would like to cancel purchase 216739
+bx00110,cancel_order,how to cancel purchase 126225?
+bx00111,cancel_order,i need assistance canceling purchase 877572
+bx00112,cancel_order,"I bought something, help me cancel purchasae 388389"
+bx00113,cancel_order,ihave bought some damn product cancel order 356787
+bx00114,cancel_order,"I cannot afford this article, cancel order 334053"
+bx00115,cancel_order,whag do i need to do to cancel order 246316
+bx00116,cancel_order,canceling purechase 106814
+bx00117,cancel_order,i obught some item help me canceling order 872246
+bx00118,cancel_order,"I bought the same item twice, cancel order 809570"
+bx00119,cancel_order,i dont wat order 876646 cancel it
+bx00120,cancel_order,question about canceling a bloody purchase
+bx00121,cancel_order,help me to cancel my last goddamn purchase
+bx00122,cancel_order,is it possible to cancel purchase 671858 ?
+bx00123,cancel_order,"I purchased some item, help canceling one of the orders"
+bx00124,cancel_order,problem with cancelling order 191161
+bx00125,cancel_order,i dont want ordr 719176 could uhelp me cancel it
+bx00126,cancel_order,I can no longer pay for order 207473
+bx00127,cancel_order,I have a question about canceling purchase 895667
+bx00128,cancel_order,"I cannot pay for this product, cancel order 542417"
+bx00129,cancel_order,i don want order 267414 I'd like to cancel it
+bx00130,cancel_order,"I have ordered some article, cancel purchase 946335"
+bx00131,cancel_order,i purchased something how to cancel order 145561
+bx00132,cancel_order,I want to cancel order 865179
+bx00133,cancel_order,I have a problem with cancelling purchase 581741
+bx00134,cancel_order,i dont want order 662275
+bx00135,cancel_order,need help to cancel purchase 230889
+bx00136,cancel_order,question about cancelling order 496922
+bx00137,cancel_order,"I doln't want order 678856, can you cancel it?"
+bx00138,cancel_order,assistance canceling purchase 377370
+bx00139,cancel_order,could you help me canceling purchase 407419?
+bx00140,cancel_order,i bought somegoddamn item how do i cancel order 759176
+bx00141,cancel_order,I can no longer afford purchase 748564
+bx00142,cancel_order,i need help cancelling order 479201
+bx00143,cancel_order,i bought something i wanna cancel order 705397
+bx00144,cancel_order,assistnace cancelling order 301629
+bx00145,cancel_order,need assistance cancelling order 838797
+bx00146,cancel_order,want assistance to cancel order 944962
+bx00147,cancel_order,i cannot pay for puchase 172933 how could i cancel it
+bx00148,cancel_order,I want to cancle purchase 969693
+bx00149,cancel_order,"I do not want the item I purchased, can I cancel the order?"
+bx00150,cancel_order,"I purchased some articles, cancel order 182627"
+bx00151,cancel_order,"I can't afford order 460663, help me cancelling it"
+bx00152,cancel_order,"I bought some item, cancel purchase 832052"
+bx00153,cancel_order,I no longer want order 543143
+bx00154,cancel_order,"I cannot afford this order, cancel purchase 733052"
+bx00155,cancel_order,how could icancel purchase 456778
+bx00156,cancel_order,canceling order 391369
+bx00157,cancel_order,can uhelp me cancelliung order 263032
+bx00158,cancel_order,i dont want this artilce cancel order 900581
+bx00159,cancel_order,can you help me cancelling the bloody purchase I made?
+bx00160,cancel_order,"I cannot afford my last item, how can I cancel the order?"
+bx00161,cancel_order,help cnceling order 325772
+bx00162,cancel_order,i no longer want purchase 207175
+bx00163,cancel_order,want help to cancel order 197251
+bx00164,cancel_order,"I can no longer afford order 498382, cancel it"
+bx00165,cancel_order,i do not know how i can cancel purchase 201414
+bx00166,cancel_order,I cannot afford order 476417
+bx00167,cancel_order,problem with canceling purchase 452944
+bx00168,cancel_order,order cancelation
+bx00169,cancel_order,I can't afford purchase 988662
+bx00170,change_order,I need to swap an item of order 132938
+bx00171,change_order,problem with swapping something of order 170674
+bx00172,change_order,want help to change several items of purchase 801474
+bx00173,change_order,switch something of order 392004
+bx00174,change_order,could ya help me changing an item of order 174299
+bx00175,change_order,I cannot add a fucking product to order 639131
+bx00176,change_order,I have a question about correcting order 446479
+bx00177,change_order,add several articles to order 608993
+bx00178,change_order,can uhelp me to remove an item from order 349565
+bx00179,change_order,help to correct purchase 324643
+bx00180,change_order,"I want to pudate purchase 922733, can you help me?"
+bx00181,change_order,help me adding several articles to purchase 238739
+bx00182,change_order,help adding several products to purchase 858490
+bx00183,change_order,"I have to modify purchase 698782, I need assistance"
+bx00184,change_order,I want help changing an article of purchase 704201
+bx00185,change_order,I need to change some articles of order 595631
+bx00186,change_order,i cant add something to order 354801
+bx00187,change_order,"I hav got to change order 595948, help me"
+bx00188,change_order,can you help me changing a product of a purchase?
+bx00189,change_order,I am trying to update purchase 340062
+bx00190,change_order,wanna add an article to order 370795561790will uhelp me
+bx00191,change_order,I'm trying to edit order 665427
+bx00192,change_order,"I want to add a product to my order, could I get some help?"
+bx00193,change_order,i catn add something to purchase 491559
+bx00194,change_order,I missed an item in purchase 761759
+bx00195,change_order,help with changing purchase 426858
+bx00196,change_order,want help deleting something from order 946721
+bx00197,change_order,"I want to switch an item of order 518373, how can I do it?"
+bx00198,change_order,"I have got to edit order 804314, I need assistance"
+bx00199,change_order,i have got to swap an item of order 781446
+bx00200,change_order,help me swapping an item of order 559381
+bx00201,change_order,how do I correct order 642717?
+bx00202,change_order,change order 573417
+bx00203,change_order,delete some items from order 226882
+bx00204,change_order,help with deleting an item from order 359947
+bx00205,change_order,I can't swap some products of order 161733
+bx00206,change_order,can you help me to remove a product from order 335612?
+bx00207,change_order,"I would like to edit purchase 454508, how could I do it?"
+bx00208,change_order,how canI change order 122056?
+bx00209,change_order,"I would like to modify order 716886, how can I do it?"
+bx00210,change_order,I can't delete several products from purchase 680828
+bx00211,change_order,help to change an article of purchase 341292
+bx00212,change_order,I cannot add a product to purchase 717024
+bx00213,change_order,i need help to delete some products from order 330914
+bx00214,change_order,assistance adding some items to purchase 107540
+bx00215,change_order,how to correct roder 174441
+bx00216,change_order,wannha add a goddamn item to order 842225
+bx00217,change_order,how do I switch some goddamn products of order 167136?
+bx00218,change_order,need to delete several items from order 526833
+bx00219,change_order,i have got to change purchase 976638
+bx00220,change_order,wanna remoev a bloody article from order 198907
+bx00221,change_order,I want information about correcting order 292401
+bx00222,change_order,"I would like to correct order 392075, will you help me?"
+bx00223,change_order,can uhelp me to add a bloody item topurchase 585100
+bx00224,change_order,i want help to add an item to purchase 361941
+bx00225,change_order,i have to switch some bloody products of order 179046
+bx00226,change_order,I am trying to swap an item of order 564656
+bx00227,change_order,I have got to change an article of purchase 947272
+bx00228,change_order,problem with switching a bloody product of order 997546
+bx00229,change_order,help me add an item to purchase 677057
+bx00230,change_order,I have to add some articles to order 202664
+bx00231,change_order,help me update purchase 153045
+bx00232,change_order,how could I switch some products of order 783823?
+bx00233,change_order,can I add a damn item to purchase 666847?
+bx00234,change_order,i need help switching several items of order 115474
+bx00235,change_order,I need help adding an article to purchase 197793
+bx00236,change_order,i want help changing an item of order 890170
+bx00237,change_order,can you help me correcting purchase 989921?
+bx00238,change_order,how to add a product to purchase 347861?
+bx00239,change_order,i have to correct purchase 274389 how can i do it
+bx00240,change_order,I need help to add several articles to order 526156
+bx00241,change_order,want assistance to remove some items from order 847581
+bx00242,change_order,I need to switch a product of order 542374
+bx00243,change_order,I can't swap somethhing of order 246991
+bx00244,change_order,"I have to edit order 570405, how do I do it?"
+bx00245,change_order,i try to edit purchase 662336
+bx00246,change_order,i need assistance to add some products to order 201639
+bx00247,change_order,can I update order 790993?
+bx00248,change_order,"I have to correct purchase 551989, I need assistance"
+bx00249,change_order,need help to swap a fucking article of purchase 471507
+bx00250,change_order,problems wiuth changing order 544154
+bx00251,change_order,i want help to delete a product from order 531071
+bx00252,change_order,add item to purchase 589710
+bx00253,change_order,want assistance to switch several items of purchase 864491
+bx00254,change_order,problems with deleting some productsfrom order 156802
+bx00255,change_order,can uhelp me to change a product of purchase 806073
+bx00256,change_order,how do i delet some items from order 299659
+bx00257,change_order,I want to switch an article of purchase 785197
+bx00258,change_order,how do I add some items to order 203198?
+bx00259,change_order,i try to change some items of order 163556
+bx00260,change_order,can I delete several articles from purchase 522179?
+bx00261,change_order,want help to deletd a damn article from order 863587
+bx00262,change_order,"I want to remove an item from order 455784, I need hepl"
+bx00263,change_order,I have got to delete a damn product from purchase 939482
+bx00264,change_order,assistance to edit order 214576
+bx00265,change_order,I want help swapping an item of order 360735
+bx00266,change_order,help me modifying order 300896
+bx00267,change_order,"I have to change some articles of order 299448, help me"
+bx00268,change_order,"I want to edit order 777568, help me"
+bx00269,change_order,assistance with switching something of order 310922
+bx00270,change_order,"I have got to modify purchase 612340, how do I do it?"
+bx00271,change_order,need assistance to change purchase 865388
+bx00272,change_order,i need assistance to add something to order 814825
+bx00273,change_order,need to add an item to purchase 663054 could ya help m
+bx00274,change_order,help with adding a goddamn item to ordr 887352
+bx00275,change_order,help me changing a fucking product of purchase 379786
+bx00276,change_order,want help to delete some items from order 905934
+bx00277,change_order,i cant switch several aritcles of purchase 772097
+bx00278,change_order,I want to correct purchase 456699
+bx00279,change_order,i need help to add several product to order 216970
+bx00280,change_order,I try to delete an product from purchase 407757
+bx00281,change_order,change purxhase 555884
+bx00282,change_order,adding article to order 265840
+bx00283,change_order,wanna modify purchase 575763
+bx00284,change_order,wanna remove some items from order 103402
+bx00285,change_order,"I have to correct order 857168, can I get some help?"
+bx00286,change_order,how colud I delete something from order 854639?
+bx00287,change_order,help updating purchase 376183
+bx00288,change_order,can ya help me to switch an item oforder 624902
+bx00289,change_order,I want information about correcting purchase 898975
+bx00290,change_order,wanna delete some items from purchase 287330
+bx00291,change_order,want help adding an item to order 632342
+bx00292,change_order,swap several items of order 211579
+bx00293,change_order,need assistance to switch a product of order 855731
+bx00294,change_order,can uhelp me swap some articles of purchase 813328
+bx00295,change_order,assistance to delete an item from purchase 112038
+bx00296,change_order,I try to remove some articles from order 680099
+bx00297,change_order,i cannot remove an article from purchase 823378
+bx00298,change_order,how can i add some bloody products to order 634277
+bx00299,change_order,I want help removing something from purchase 617488
+bx00300,change_order,what do I have to do to change an item of purchase 195325?
+bx00301,change_order,i have to change something of oirder 892495 i need help
+bx00302,change_order,update purchase00004587345
+bx00303,change_order,i have to change an item of order 149405 will uhelp me
+bx00304,change_order,i need help changing a product of purchase 214975
+bx00305,change_order,help to switch several products of order 260265
+bx00306,change_order,wanna swap some items of order 757924
+bx00307,change_order,want assistance to delete an item from orer 755674
+bx00308,change_order,switch a product of order 267753
+bx00309,change_order,i cannotedit purchase 813536
+bx00310,change_order,change a damn item of purchase 542666
+bx00311,change_order,is it possible to update order 725380?
+bx00312,change_order,I need assistance correcting purchase 166613
+bx00313,change_order,want assistance deleting some items from order 503457
+bx00314,change_order,I want help to switch something of order 500156
+bx00315,change_order,I cannot update purchase 724834
+bx00316,change_order,remove a product from purchase 590785
+bx00317,change_order,can I modify purchase 654816?
+bx00318,change_order,i cant change some items of order 363626
+bx00319,change_order,how can I switch an item of order 930555?
+bx00320,change_order,help updating order 412942
+bx00321,change_order,information about editing purchase 220116
+bx00322,change_order,i have made a mistake i need help changing purchase 769987
+bx00323,change_order,what do I need to do to edit order 182582?
+bx00324,change_order,wanna add some articles to order 189814
+bx00325,change_order,help me remove a product from purchase 867460
+bx00326,change_order,how do ii modify order 609597
+bx00327,change_order,"I want to update order 955662, how do I do it?"
+bx00328,change_order,need help to modify purchase 172574
+bx00329,change_order,give em information about updating order 897549
+bx00330,change_order,i need help to change an item of purchase 658582
+bx00331,change_order,I need assistance to modify purchase 903035
+bx00332,change_order,I need assistance with adding a product to purchase 231869
+bx00333,change_order,modifying order 694916
+bx00334,change_order,help me change something of order 234628
+bx00335,change_order,how do I change some products of order 598369?
+bx00336,change_order,could i modify oredr 676510
+bx00337,change_order,assistance changing order 273148
+bx00338,change_order,assistance to swap several items of order 377932
+bx00339,change_order,I want information about modifying order 653306
+bx00340,change_order,can you help me adding an itm to order 736059?
+bx00341,change_order,I need help to modify order 543692
+bx00342,change_order,is it possible to edit purchase 322086?
+bx00343,change_order,need to change something of order 665492
+bx00344,change_order,i nerd help to add some items to purchase 982554
+bx00345,change_order,can you helo me switch something of order 791798?
+bx00346,change_order,help switching an article of order 352572
+bx00347,change_order,"I missed a product in order 891952, can I add it?"
+bx00348,change_order,i try to switch several items of order 351083
+bx00349,change_order,help me remove something from order 160738
+bx00350,change_order,I want to change several products of order 738551
+bx00351,change_order,i have made a mistake i wanna edit order 308573
+bx00352,change_order,I mised a product in purchase 260263
+bx00353,change_order,I want assistance to swap some items of order 492077
+bx00354,change_order,help correcting order 899550
+bx00355,change_order,can you help me remove something from purchase 269396?
+bx00356,change_order,i have got to add something to oprder 665579
+bx00357,change_order,how to switch some items of purchase 916449
+bx00358,change_order,i have got to modify purchase 656116 help me
+bx00359,change_order,help to swap an article of order 100599
+bx00360,change_order,problem with deleting something from purchase 632323
+bx00361,change_order,wanna switch some articles of order 439902 help me
+bx00362,change_order,I need to update purchase 120422
+bx00363,change_order,can I delete a damn article from order 217301?
+bx00364,change_order,can you help me to delete something from order 480612?
+bx00365,change_order,can I edit purchase 972064?
+bx00366,change_order,how can I change some articles of order 945964?
+bx00367,change_order,i cant add some items to order370795561790
+bx00368,change_order,acn you help me changing something of purchase 422451?
+bx00369,change_order,edit order 728038
+bx00370,complaint,want assistance to lodge a claimn against ur organization
+bx00371,complaint,i need assistance to file a complaint
+bx00372,complaint,i need help to file a consumer complaint
+bx00373,complaint,"I am unsatisfied with your work, how do I lodge a claim?"
+bx00374,complaint,I want help to lodge a claim against your company
+bx00375,complaint,wanna file a consumer complaint aganst ur organization
+bx00376,complaint,help me to file a claim
+bx00377,complaint,filing claim against your business
+bx00378,complaint,how can I lodge a reclamation against your business?
+bx00379,complaint,want help making an reclamation against your organization
+bx00380,complaint,"I would like to make a reclamation, how do I do it?"
+bx00381,complaint,I want help filing an customer claim
+bx00382,complaint,where do I file a damn consumer claim against your company?
+bx00383,complaint,making customer complaint
+bx00384,complaint,how can i make a customer complaint against ur organization
+bx00385,complaint,what do i have to do to make a consumer compoaint
+bx00386,complaint,"I want to file a customer reclamation, can I get some help?"
+bx00387,complaint,help me to lodgea complaint against ur business
+bx00388,complaint,how do I make a claim against your company?
+bx00389,complaint,want help to lodge a customer claimagainst your company
+bx00390,complaint,making customer reclamation against ur company
+bx00391,complaint,need help to file a reclamaion against ur business
+bx00392,complaint,wanna lodge a consumer reclamation against ur company
+bx00393,complaint,help me lodge a consumer claim
+bx00394,complaint,I have got to lodge a reclamation against your business
+bx00395,complaint,"I have to file a reclamation, I need assistance"
+bx00396,complaint,i need help making a consumer reclamation
+bx00397,complaint,assistance filing a customer complaint against ur company
+bx00398,complaint,complaint against ur company
+bx00399,complaint,i need help to file a complaint
+bx00400,complaint,assistance to file a customer complaint
+bx00401,complaint,I'm not happy wirh ur services file a complaint
+bx00402,complaint,I don't know how I could file a claim
+bx00403,complaint,I need to lodge a consumer claim
+bx00404,complaint,how to make a bloody customer claim against your company?
+bx00405,complaint,I try to lodge a consumer claim against your organization
+bx00406,complaint,i have got to lodge a reclamaion i need help
+bx00407,complaint,need to lodge a fucking customer complaint
+bx00408,complaint,filing consumer claim against ur organizzation
+bx00409,complaint,could i file an customer claim
+bx00410,complaint,assistance lodging a customer claim
+bx00411,complaint,where can i lodge a customer reclaation against ur business
+bx00412,complaint,I need help making a claim against your business
+bx00413,complaint,"I want to file a damn reclamation, how can I do it?"
+bx00414,complaint,can uhelp me file a complaint against ur organization
+bx00415,complaint,need to make a claim against ur organization
+bx00416,complaint,i want assistance filing a complaint against ur business
+bx00417,complaint,I'm trying to make a consumer clain
+bx00418,complaint,the experience with ur brand was bad file a claim
+bx00419,complaint,i do not know how to file a claim against ur business
+bx00420,complaint,I try to lodge a customer complaint
+bx00421,complaint,I want to make a consumer claim against your organization
+bx00422,complaint,making customer claim against your company
+bx00423,complaint,can you help me file a consumer claim against your business?
+bx00424,complaint,can uhelp me making a reclamation against ur business
+bx00425,complaint,"I am unhappy with your work, I want to file a consumer claim"
+bx00426,complaint,could you help me file a reclamation ?
+bx00427,complaint,how can i file a complaint against ur organization
+bx00428,complaint,assistance making a custolmer claim
+bx00429,complaint,i dont know what to do to fgile a consumer claim
+bx00430,complaint,what do I have to do to lodge a reclamation?
+bx00431,complaint,I want help filing a consumer complaint
+bx00432,complaint,I want help to make a reclamation
+bx00433,complaint,consumer reclamation
+bx00434,complaint,I need help lodging a consumer claim
+bx00435,complaint,"I would like to make a customer reclamation, help me"
+bx00436,complaint,would it be possible to lodge a reclamation?
+bx00437,complaint,i need hepl to lodge a consumer reclamation
+bx00438,complaint,want help filing a consumer cliam against your company
+bx00439,complaint,"I want to file a damn consumer claim, how can I do it?"
+bx00440,complaint,can you help me to make a consumner complaint?
+bx00441,complaint,i need help to lodge a customer claim agaisnt ur business
+bx00442,complaint,assistance filing a customer reclamation
+bx00443,complaint,lodging customer complaint against your company
+bx00444,complaint,I do not know what I need to do to make a reclamation
+bx00445,complaint,can you help me make a customer claim against your company?
+bx00446,complaint,need to make a consumer reclamation against ur organization
+bx00447,complaint,I do not know how to lodge a complaint
+bx00448,complaint,customer complaint against your business
+bx00449,complaint,I need help lodging an reclamation against your company
+bx00450,complaint,where can i lodge a bloody consumer claim against ur company
+bx00451,complaint,I don't know how I can make a customer reclamation
+bx00452,complaint,help me lodge a consumer claim against ur organization
+bx00453,complaint,I need assistance filing a reclamation
+bx00454,complaint,want assistance to lodge a reclamation against ur business
+bx00455,complaint,how to make a complaint against your organization?
+bx00456,complaint,can ya help me lodge a claim against ur organization
+bx00457,complaint,how can I lodge a customer reclamation against your company?
+bx00458,complaint,I want help to file a reclamation against your business
+bx00459,complaint,"my experience with you was too bad, help making a complaint"
+bx00460,complaint,what do I have to do to file a customer complaint?
+bx00461,complaint,how do I make a reclamation against your organization?
+bx00462,complaint,need help making a consumer complaint against ur company
+bx00463,complaint,help me file a customer complaint
+bx00464,complaint,I do not know how I can make a bloody reclamation
+bx00465,complaint,I have to make a consumer reclamation against your company
+bx00466,complaint,help me filing a customer complaint against your business
+bx00467,complaint,where to lodge a customre claim against ur organization
+bx00468,complaint,how to lodge a claim against your company?
+bx00469,complaint,"I am very unsatisfied with your work, make a fucking claim"
+bx00470,complaint,can ya help me making a claim against ur business
+bx00471,complaint,I have got to make a customer reclamation
+bx00472,complaint,where can I lodge a fucking reclamation?
+bx00473,complaint,I'm dissatisfied with ur work help me making a complaint
+bx00474,complaint,cani file a customer claim
+bx00475,complaint,could I make a goddamn reclamation?
+bx00476,complaint,want help to make a consumer complaint against ur company
+bx00477,complaint,help to make a customer complaint against your business
+bx00478,complaint,assistance to file a claim
+bx00479,complaint,how could I file a complaont?
+bx00480,complaint,I'm trying to lodge a consumer claim
+bx00481,complaint,"I am unhappy with your service, help to make a claim"
+bx00482,complaint,can uhelp me filing a consumer claim against ur organization
+bx00483,complaint,can you help me make a reclamation against your company?
+bx00484,complaint,how do i lodge a consumer complaint
+bx00485,complaint,help me to file a consumer reclamation against your company
+bx00486,complaint,"I would like to make a bloody complaint, could you help me?"
+bx00487,complaint,wanna lodge a complaint
+bx00488,complaint,need assistance to file a consumer cclaim
+bx00489,complaint,"the experience with your service was bad, file a reclamation"
+bx00490,complaint,need to lodge a reclamation
+bx00491,complaint,I want assistance filing a customer claim
+bx00492,complaint,I'm extremely unhapp with ur services help to make a claim
+bx00493,complaint,what do I need to do to file a consumer claim?
+bx00494,complaint,where do i make a complaint
+bx00495,complaint,I have to make a claim
+bx00496,complaint,"my experience with your company was awful, file a complaint"
+bx00497,complaint,can uhelp me lodge a customer complaint agazinst ur company
+bx00498,complaint,wanna make a damn claim willuhelp me
+bx00499,complaint,I try to make a complaint
+bx00500,complaint,help me filing a reclamation against your business
+bx00501,complaint,I need to file a complaint against your business
+bx00502,complaint,I call to lodge a consumer reclamation against your company
+bx00503,complaint,can i lodge a claim against ur business
+bx00504,complaint,is it possible to make an complaint against ur company
+bx00505,complaint,need to file a bloody consumer reclamation how can i do it
+bx00506,complaint,I'm unhzppy with ur work make a reclamation
+bx00507,complaint,I want help filing a reclamation
+bx00508,complaint,can ya help me lodging a consumer claim against ur business
+bx00509,complaint,I am trying to file a reclamation against your company
+bx00510,complaint,I'm very unhappy with ur service how to file a reclamation
+bx00511,complaint,would it be possible to file a damn customer reclamation?
+bx00512,complaint,i dont know what i have to do to lodge as consumer claim
+bx00513,complaint,help me lodge a consumer complaint against your busness
+bx00514,complaint,help me making a complaint against your company
+bx00515,complaint,lodging consuer complaint
+bx00516,complaint,I am calling to lodge a customer claim
+bx00517,complaint,want assistance to file a complaint against ur company
+bx00518,complaint,how to make a claim against your business?
+bx00519,complaint,I need to file a customer claim against your organizaion
+bx00520,complaint,where do I make a reclamation?
+bx00521,complaint,"I ain't happy with your work, file a consumer claim"
+bx00522,complaint,how can I file a reclamation?
+bx00523,complaint,could you help me to file a damn consumer complaint?
+bx00524,complaint,how can i file a consumre claim against ur organization
+bx00525,complaint,can I file a complaint against your businhess?
+bx00526,complaint,"I ain't happy with your service, I want help filing a claim"
+bx00527,complaint,help me to lodge a consumer complaint
+bx00528,complaint,where to file a customer reclamation against ur company
+bx00529,complaint,my experience with ur brand was awful make a claim
+bx00530,complaint,assistance lodging a customer reclamation against ur copany
+bx00531,complaint,I'm extremely unsatisfied with ur wor i wanna lodge a claim
+bx00532,complaint,help to lodge a consumer complaint against your orgqnization
+bx00533,complaint,"I have got to lodge a complaint, can I get some help?"
+bx00534,complaint,"my experience with your brand was bad, make a consumer claim"
+bx00535,complaint,lodge reclamation
+bx00536,complaint,help lodging a customer complaint
+bx00537,complaint,I need assistance making a claim against your organization
+bx00538,complaint,i need assistance making a claim against ur company
+bx00539,complaint,help me lodge a consumer claim against ur company
+bx00540,complaint,I would like to lodge a consumer complaint
+bx00541,complaint,can uhelp me lodge a claim against ur business
+bx00542,complaint,i have to lodge a consumer claim against ur ocmpany
+bx00543,complaint,where to make a customer claim?
+bx00544,complaint,can uhelp me file a customer reclamation
+bx00545,complaint,I want help to lodge a consumer claim
+bx00546,complaint,I'm trying ot lodge a consumer complaint against ur company
+bx00547,complaint,were do i lodge a consumer complaint against ur company
+bx00548,complaint,need help to lodge a complaint against your organization
+bx00549,complaint,need assistance lodging a reclamation against your company
+bx00550,complaint,need to make an customer claim against ur business
+bx00551,complaint,I don't know what to do to file a claim against your company
+bx00552,complaint,the experience with ya was awful i have to lodge a claim
+bx00553,complaint,make customer claim against your organization
+bx00554,complaint,making customer claim
+bx00555,complaint,I want assistance lodging a reclamation
+bx00556,complaint,where do I lodge a complaint against your business?
+bx00557,complaint,where to lodge a customer complaint
+bx00558,complaint,is it possible to file a customer complaint?
+bx00559,complaint,i do not know how to lodge a consumer complaint
+bx00560,complaint,help me making a reclamation
+bx00561,complaint,where can i lodge a claim against ur company
+bx00562,complaint,"my experience with you was bad, how do I make a complaint?"
+bx00563,complaint,is it possible to lodge a customer claim
+bx00564,complaint,need help filing a reclamation
+bx00565,complaint,help to file a complaint against ur company
+bx00566,complaint,I am calling to make an customer claim against your company
+bx00567,complaint,I try to lodge a customer reclamation
+bx00568,complaint,where do I lodge a consumer reclamation?
+bx00569,complaint,want help to lodge a customer complaint
+bx00570,contact_human_agent,I can't chat with a goddamn operator
+bx00571,contact_human_agent,would it be possible to talk to an operator?
+bx00572,contact_human_agent,i have to contact a human agent
+bx00573,contact_human_agent,I do not know what I have to do to speak with someone
+bx00574,contact_human_agent,i cannot chat with an assistant
+bx00575,contact_human_agent,what do i have to do to contact an agwnt
+bx00576,contact_human_agent,can you help me chatting with a person?
+bx00577,contact_human_agent,i cannot speak with an agent
+bx00578,contact_human_agent,I want help talking with a person
+bx00579,contact_human_agent,need assistance to speak to a live agent
+bx00580,contact_human_agent,can you direct to me a human agent?
+bx00581,contact_human_agent,can you help me speaking with a human agent?
+bx00582,contact_human_agent,I'm trying to speak to a live agent
+bx00583,contact_human_agent,help to talk with a fucking live agent
+bx00584,contact_human_agent,is it possible to talk with somebody?
+bx00585,contact_human_agent,"I cannot understand you, I have to contact a person"
+bx00586,contact_human_agent,i want help chatting with a human gaent
+bx00587,contact_human_agent,is it possible to contact a human agent?
+bx00588,contact_human_agent,i canttalk to a human agent
+bx00589,contact_human_agent,contact a fucking live agent
+bx00590,contact_human_agent,"you aren't helpful, assistance chatting with an operator"
+bx00591,contact_human_agent,want assistance to talk with a live agent
+bx00592,contact_human_agent,want assistance talking to an operator
+bx00593,contact_human_agent,i need assistance talking to a person
+bx00594,contact_human_agent,I need help to speak to a bloody human agent
+bx00595,contact_human_agent,can uhelp me speak tyo somebody
+bx00596,contact_human_agent,how do i cyat with a person
+bx00597,contact_human_agent,I want assistance contacting someone
+bx00598,contact_human_agent,"I have got to talk to someone, can you help me?"
+bx00599,contact_human_agent,"you arenot being helpful at all, I want to speak to a person"
+bx00600,contact_human_agent,i do not know what to do to contact an assistant
+bx00601,contact_human_agent,"I don't understand you, can you help me talk with an agent?"
+bx00602,contact_human_agent,assistance to talk to an agent
+bx00603,contact_human_agent,I have got to speak to a fucking person
+bx00604,contact_human_agent,could you help me chatting with a live agent?
+bx00605,contact_human_agent,I don't know how I can chat with a live agent
+bx00606,contact_human_agent,help me to chat with an agent
+bx00607,contact_human_agent,can you help me speaking with someone?
+bx00608,contact_human_agent,I don't know what I need to do to speak to someone
+bx00609,contact_human_agent,needc to talk to an assistant
+bx00610,contact_human_agent,"you are not helpful at all, could I contact a human agent?"
+bx00611,contact_human_agent,transferring to agent
+bx00612,contact_human_agent,what do I need to do to contact an operator?
+bx00613,contact_human_agent,uare not helpful at all help me talk to a goddamnagent
+bx00614,contact_human_agent,assistance to speak with a live agent
+bx00615,contact_human_agent,how to talk to a fucking person?
+bx00616,contact_human_agent,i need assistance to chat with somebody
+bx00617,contact_human_agent,assistance to contact an agent
+bx00618,contact_human_agent,I try to contact a live agent
+bx00619,contact_human_agent,how to talk with an operator?
+bx00620,contact_human_agent,I have got to chat with someone
+bx00621,contact_human_agent,can you help me to speak with somebody?
+bx00622,contact_human_agent,can you help me to contact a person?
+bx00623,contact_human_agent,I want help to contact an assistant
+bx00624,contact_human_agent,"you aren't helpful at all, how could I contact someone?"
+bx00625,contact_human_agent,i want help tallking with a human agent
+bx00626,contact_human_agent,"you are not being helpful, can I speak to an operator?"
+bx00627,contact_human_agent,need help to contact a human agent
+bx00628,contact_human_agent,I don't know how I can speak to an agent
+bx00629,contact_human_agent,can ya help me talk with a human agent
+bx00630,contact_human_agent,I do not know what I need to do to talk with somebody
+bx00631,contact_human_agent,could ya help me to speak wqith somebody
+bx00632,contact_human_agent,i do not understand ucan uhelp me speaking to a live agent
+bx00633,contact_human_agent,help to speak with aj assistant
+bx00634,contact_human_agent,need help to speak to a uhman agent
+bx00635,contact_human_agent,I want help to talk to a live agent
+bx00636,contact_human_agent,"I do not understand you, help me chatting with someone"
+bx00637,contact_human_agent,can ya help me speak to a live agent
+bx00638,contact_human_agent,hopw to contact an agent?
+bx00639,contact_human_agent,direct to me an assisrant
+bx00640,contact_human_agent,"you are not helpful, I need help to chat with an agent"
+bx00641,contact_human_agent,want help speaking with somebody
+bx00642,contact_human_agent,is it possible to speak with an agent
+bx00643,contact_human_agent,I'm trying to speak with a human agent
+bx00644,contact_human_agent,what do I have to do to cntact an assistant?
+bx00645,contact_human_agent,transfer to live agent
+bx00646,contact_human_agent,I don't know how to talk with someone
+bx00647,contact_human_agent,can I talk with a bloody agent?
+bx00648,contact_human_agent,ohw to contact a person?
+bx00649,contact_human_agent,transferring to operator
+bx00650,contact_human_agent,i need help contacting somebody
+bx00651,contact_human_agent,can uhelp me talk with somebody
+bx00652,contact_human_agent,speak to an assistnat
+bx00653,contact_human_agent,can yaa help me talking with a live agent
+bx00654,contact_human_agent,i do not know how to speak with a live agent
+bx00655,contact_human_agent,I need help contacting a human agent
+bx00656,contact_human_agent,I do not know what to do to speak with an live agent
+bx00657,contact_human_agent,"I cannot understand you, I want to speak to a person"
+bx00658,contact_human_agent,i ned help to talk to an operator
+bx00659,contact_human_agent,I'm trying to speak with an assistant
+bx00660,contact_human_agent,how do I talk to a human agent?
+bx00661,contact_human_agent,I want help speaking to a live agent
+bx00662,contact_human_agent,can you help me to chat with an operator?
+bx00663,contact_human_agent,I don't know how I could chat with a goddamn human agent
+bx00664,contact_human_agent,i have to speak with a bloody human agent
+bx00665,contact_human_agent,help me speaking to an assistant
+bx00666,contact_human_agent,assistance chatting with a live agent
+bx00667,contact_human_agent,can I talk with an assistant?
+bx00668,contact_human_agent,"I do not understand you, can you help me to contact someone?"
+bx00669,contact_human_agent,"you are not being helpful, speak to an assistant"
+bx00670,contact_human_agent,i do not know what i have to do to chat with somebody
+bx00671,contact_human_agent,assistance to speak with a human agent
+bx00672,contact_human_agent,I try to speak to an assistant
+bx00673,contact_human_agent,"I cannot understand anything you say, contact an agent"
+bx00674,contact_human_agent,how do I talk to an operator?
+bx00675,contact_human_agent,contacting live agent
+bx00676,contact_human_agent,I need assistance contacting an goddamn assistant
+bx00677,contact_human_agent,assistance to talk to somebody
+bx00678,contact_human_agent,how to talk with an agent?
+bx00679,contact_human_agent,i want assistance to contact somebody
+bx00680,contact_human_agent,want help to speak to someone
+bx00681,contact_human_agent,how to contact soembody?
+bx00682,contact_human_agent,I have to contact an assistant
+bx00683,contact_human_agent,"you aren't helpful, how can I chat wiuth someone?"
+bx00684,contact_human_agent,help to contact a person
+bx00685,contact_human_agent,"you aren't helpful at all, help me speaking to a person"
+bx00686,contact_human_agent,I need help to talk to an assistant
+bx00687,contact_human_agent,I don't know how I can contact an sasistant
+bx00688,contact_human_agent,"I want to speak to an operator, can you help me?"
+bx00689,contact_human_agent,can ya help me contact an operator
+bx00690,contact_human_agent,what do i have to do to chat with an agent
+bx00691,contact_human_agent,need help to chat with a prson
+bx00692,contact_human_agent,how to contact a human agent
+bx00693,contact_human_agent,I don't know how to chat with an operator
+bx00694,contact_human_agent,can ya direct to me an agent
+bx00695,contact_human_agent,I don't know what to do to chat with an assistant
+bx00696,contact_human_agent,"I cannot understand a word you say, can I contact someone?"
+bx00697,contact_human_agent,I want help to talk to somebody
+bx00698,contact_human_agent,i cannot understand ui want assistance to chat with an agent
+bx00699,contact_human_agent,contact person
+bx00700,contact_human_agent,can uhelp me to speak with a person
+bx00701,contact_human_agent,speak with agent
+bx00702,contact_human_agent,need assistance to speak with somebody
+bx00703,contact_human_agent,what do I have to do to talk to somebody?
+bx00704,contact_human_agent,I cannot speak to a perso
+bx00705,contact_human_agent,"I don't understand you, help me to chat with an agent"
+bx00706,contact_human_agent,can I talk with slmebody?
+bx00707,contact_human_agent,i have got to contact an agent
+bx00708,contact_human_agent,need help talking to somebody
+bx00709,contact_human_agent,"I do not understand you, help me speaking with an agent"
+bx00710,contact_human_agent,I need to speak with a person
+bx00711,contact_human_agent,can I speak with a person?
+bx00712,contact_human_agent,"you are not helpful at all, can you direct to me a person?"
+bx00713,contact_human_agent,I can't speak with a live agent
+bx00714,contact_human_agent,can I contact a human agent?
+bx00715,contact_human_agent,ya are not helpful could i speak with a fucking human agent
+bx00716,contact_human_agent,I do not know how to speak to somebody
+bx00717,contact_human_agent,speak with human agent
+bx00718,contact_human_agent,how can i contact a operator
+bx00719,contact_human_agent,I am trying to speak to somebody
+bx00720,contact_human_agent,i cant contact an agent
+bx00721,contact_human_agent,i try to talk with a person
+bx00722,contact_human_agent,I need help to contact a person
+bx00723,contact_human_agent,I need help speaking with a live agent
+bx00724,contact_human_agent,wanna contact an assistant
+bx00725,contact_human_agent,what do I have to do to contact someone?
+bx00726,contact_human_agent,I try to speak with an operator
+bx00727,contact_human_agent,I don't know what to do to seak to a person
+bx00728,contact_human_agent,can i speak with a humanagent
+bx00729,contact_human_agent,i have to chat with a huamn agent
+bx00730,contact_human_agent,help to speak to a live agent
+bx00731,contact_human_agent,I need to contact someone
+bx00732,contact_human_agent,is it possible to talk to a damn assistant?
+bx00733,contact_human_agent,I need help to chat with a live avent
+bx00734,contact_human_agent,can I contact an assistant?
+bx00735,contact_human_agent,how can I talk with somebody?
+bx00736,contact_human_agent,I need assistance speaking with an assistant
+bx00737,contact_human_agent,I need assistance chatting with a person
+bx00738,contact_human_agent,I don't know how I can cotnact somebody
+bx00739,contact_human_agent,I want somebody
+bx00740,contact_human_agent,I need assistance to contact a human agent
+bx00741,contact_human_agent,can I speak with an agent?
+bx00742,contact_human_agent,want assistance speaking with a person
+bx00743,contact_human_agent,I try to contact a fucking operator
+bx00744,contact_human_agent,contact agent
+bx00745,contact_human_agent,speaking with assistant
+bx00746,contact_human_agent,how acn I chat with somebody?
+bx00747,contact_human_agent,"I can't understand you, assistance speaking to an assistant"
+bx00748,contact_human_agent,I need help talking to a live agent
+bx00749,contact_human_agent,I want assistance talking with an person
+bx00750,contact_human_agent,I do not kinow how to contact a person
+bx00751,contact_human_agent,how to talk to an assistant?
+bx00752,contact_human_agent,i cannot pseak to an operator
+bx00753,contact_human_agent,I cannot talk to somebody
+bx00754,contact_human_agent,i have to speak to an human agent
+bx00755,contact_human_agent,i dont know how to speak to an agent
+bx00756,contact_human_agent,can you help me to talk with an agent?
+bx00757,contact_human_agent,i want assistance to speak to an agentt
+bx00758,contact_human_agent,"I don't understand you, I need help talking to a person"
+bx00759,contact_human_agent,i want assistance to talk to a person
+bx00760,contact_human_agent,wanna chat with a goddamn assistant i ened help
+bx00761,contact_human_agent,uare not helpful help me talk wity a bloody assistant
+bx00762,contact_human_agent,help to speak with a human agent
+bx00763,contact_human_agent,can I talk with a live agent?
+bx00764,contact_human_agent,I do not know what I need to do to speak to a live agent
+bx00765,contact_human_agent,I don't know how I can talk to a live ahent
+bx00766,contact_human_agent,i do not know how to speak with someone
+bx00767,contact_human_agent,speak to assistant
+bx00768,contact_human_agent,I cannot speak to a goddamn live agent
+bx00769,contact_human_agent,can uhelp me speak with an operator
+bx00770,get_refund,what do I need to do to request my money baqck?
+bx00771,get_refund,i paid SAR 1600 for an item can ya help me obtain a rebate
+bx00772,get_refund,need assistance to request a reimbursement of my money
+bx00773,get_refund,when will i get a restitutiom of money
+bx00774,get_refund,I donot know what to do to demand a refund
+bx00775,get_refund,i want assistance to ask for a rebate of my money
+bx00776,get_refund,I do not know what to do to get a compensation
+bx00777,get_refund,how do i demand a compensation of money
+bx00778,get_refund,I need assistance to request refunds of my money
+bx00779,get_refund,I do not know what I need to do to ask for a compensation
+bx00780,get_refund,where to get a compensation?
+bx00781,get_refund,how could I obtain rebates of money?
+bx00782,get_refund,i dont know how i can receive a reimbursement
+bx00783,get_refund,need assistance receiving rebates of my money
+bx00784,get_refund,i want help demanding reimbursements of my money
+bx00785,get_refund,reimburse 525 dollar
+bx00786,get_refund,how long till i obtain my money back
+bx00787,get_refund,when will i obtain a reimbursement of money
+bx00788,get_refund,i need assistance requesting reimbursements of my money
+bx00789,get_refund,I have to request reimbursements of my money
+bx00790,get_refund,"I paid SAR 650 for an order, can you help me receive a rebate?"
+bx00791,get_refund,i dont know what to do to obtain my money back
+bx00792,get_refund,I want assistance to request reimbursements of money
+bx00793,get_refund,"I paid SAR 1825 for a product, where can I get a fucking rebate?"
+bx00794,get_refund,I need help to receive a compensation of money
+bx00795,get_refund,I would like to request reimbursements of money
+bx00796,get_refund,could you help me asking for a refund of my money?
+bx00797,get_refund,need assistance to obtain a refund of my money
+bx00798,get_refund,i need help to get reimbursements
+bx00799,get_refund,receiving rebate
+bx00800,get_refund,can you help me receiving rebates of money?
+bx00801,get_refund,whzt do i need to do to ask for reimbursements of money
+bx00802,get_refund,I want help requesting my money back
+bx00803,get_refund,need assistance t ask for refunds of money
+bx00804,get_refund,can ya help me to demand an refund
+bx00805,get_refund,help me ot get a restitution of my money
+bx00806,get_refund,i do not know what i need to do to get refunds of money
+bx00807,get_refund,i paidx SAR 875 for an article want help to obtain a refund
+bx00808,get_refund,"I paid SAR 1500 for an item, how could I get a bloody refund?"
+bx00809,get_refund,what do I have to do to obtain rebates?
+bx00810,get_refund,I do not know how I can obtain refunds of money
+bx00811,get_refund,"I paid SAR 950 for these products, how to receive a refund?"
+bx00812,get_refund,can you help me requesting a reimbursement?
+bx00813,get_refund,I have got to ask for reimbursements
+bx00814,get_refund,how can i demand refunds
+bx00815,get_refund,i have paid SAR 1400 for an item help receiving a reimbursement
+bx00816,get_refund,where could I get a compensation of my money?
+bx00817,get_refund,where do I receive a refund of my money?
+bx00818,get_refund,I need assistance to obtain a goddamn rebate of money
+bx00819,get_refund,I try to demand a refund
+bx00820,get_refund,help me to request a rebate of my money
+bx00821,get_refund,how long till I obtain a refund of money?
+bx00822,get_refund,when am I receiving my compensation?
+bx00823,get_refund,i have to demand a compensation
+bx00824,get_refund,need to demand revates of my money
+bx00825,get_refund,would it be possible to get a refund?
+bx00826,get_refund,I need help to request refunds
+bx00827,get_refund,help me demanding a rebate
+bx00828,get_refund,"I paid SAR 1050 for a purchase, I try to get a reimbursement"
+bx00829,get_refund,is it possible to request rteimbursements
+bx00830,get_refund,can ya help me ask for restitutions of my money
+bx00831,get_refund,how can i obtain a rebate of money
+bx00832,get_refund,I don't know how I can receive reimbursements of money
+bx00833,get_refund,could you help me receiving a rebate of money?
+bx00834,get_refund,I don't know what to do to get compensations of my money
+bx00835,get_refund,assistance to receive a compensation
+bx00836,get_refund,i do not know how i could obtaain compensations
+bx00837,get_refund,I need help to ask for a compensation of my money
+bx00838,get_refund,rebating SAR 225
+bx00839,get_refund,where do i receive reimbursements of my money
+bx00840,get_refund,I try to ask for a refund of my money
+bx00841,get_refund,help me requesting a bloody compensation
+bx00842,get_refund,could ya help me get a rebate of money
+bx00843,get_refund,want assistance to get rebates of my money
+bx00844,get_refund,wanna ask for rebates
+bx00845,get_refund,I need help demanding a rebate of money
+bx00846,get_refund,i want assistance to ask for refunds
+bx00847,get_refund,i paid SAR 975 for this purchase want help receiving a refund
+bx00848,get_refund,i need help to receive fucking compensations
+bx00849,get_refund,"I paid SAR 725 for this order, help me getting a compensation"
+bx00850,get_refund,"I paid SAR 225 for this item, help obtaining a reimbursement"
+bx00851,get_refund,I need to get a rebate
+bx00852,get_refund,i try to receive compensations of money
+bx00853,get_refund,I want assistance to demand rebates of money
+bx00854,get_refund,"I paid SAR 1900 for a purchase, how to receive a compensation?"
+bx00855,get_refund,can ya help me demand a rebate of money
+bx00856,get_refund,I need help getting a rebate of my money
+bx00857,get_refund,how do i obtain a restitution of money
+bx00858,get_refund,can you help me to ask for damn restitutions of money?
+bx00859,get_refund,could you help me demanding rebates of mony?
+bx00860,get_refund,i do not know what i have to do to request refunds of money
+bx00861,get_refund,want help demanding a rebate of my money
+bx00862,get_refund,i have paid SAR 1775 for these products i want my money back
+bx00863,get_refund,"I paid SAR 225 for this purchase, I want my rebate"
+bx00864,get_refund,where can I ask for restitutions of my money?
+bx00865,get_refund,I want assistance to request my money back
+bx00866,get_refund,need assistance receiving a bloody rebate of money
+bx00867,get_refund,I need assistance to receive a rebate of money
+bx00868,get_refund,i do not know how i can obtain compensations of my money
+bx00869,get_refund,wanna obtain a reimbursement of money
+bx00870,get_refund,i have paid SAR 1575 for an item help to obtain a rebbate
+bx00871,get_refund,"I paid SAR 1275 for this product, I need to get a rebate"
+bx00872,get_refund,want help receiving compensations
+bx00873,get_refund,help me request a compensation of money
+bx00874,get_refund,I don't know how to request a refund of money
+bx00875,get_refund,how can I ask for a restitution of my money?
+bx00876,get_refund,help to receive rebates of money
+bx00877,get_refund,i paid 225 dollars for an article how can i obtain a rebate
+bx00878,get_refund,i have got to ask for reabtes
+bx00879,get_refund,need help to ask for restitutions of my money
+bx00880,get_refund,demanding rebate of money
+bx00881,get_refund,i need assistance to get rebates
+bx00882,get_refund,"I have paid SAR 575 for a purchase, where to obtain a rebate?"
+bx00883,get_refund,help receiving a refund of money
+bx00884,get_refund,help me obtain a compensation of money
+bx00885,get_refund,I have got to request my damn money back
+bx00886,get_refund,I would like to get a compensation of my money
+bx00887,get_refund,I do not know how to demand a reimbursement
+bx00888,get_refund,want help to get my money back
+bx00889,get_refund,how do I get compensations?
+bx00890,get_refund,when am i ovtaining my money back
+bx00891,get_refund,I don't know how to get refunds
+bx00892,get_refund,can uhelp me ot request a damn compensation of money
+bx00893,get_refund,help me obtaining a reimbursement of money
+bx00894,get_refund,"I paid SAR 1250 for this item, I try to receive a rebate"
+bx00895,get_refund,what do i need to do to receive refunds
+bx00896,get_refund,i need assistance to get reimbursements of money
+bx00897,get_refund,is it possible to receive reimbursements?
+bx00898,get_refund,want help obtaining reimbursements ofmy money
+bx00899,get_refund,how to receive restitutions of money?
+bx00900,get_refund,i dont know what i have to do to obtain a compensation
+bx00901,get_refund,where can I get bloody rebates of money?
+bx00902,get_refund,i dont know what to do to reqquest my money back
+bx00903,get_refund,how do i demand refunds of my money
+bx00904,get_refund,I want help to demand a compensation
+bx00905,get_refund,can you help me obtaining refunds of my money?
+bx00906,get_refund,I need help to obtain a reimbursement of my money
+bx00907,get_refund,I'd like to obtain an reimbursement of money
+bx00908,get_refund,i have paid SAR 1600 for this purchase help receiving a rebate
+bx00909,get_refund,where do i obtain a reimbursement
+bx00910,get_refund,can you help me receive goddamn compensations of money?
+bx00911,get_refund,were do i obtain my money back
+bx00912,get_refund,i have paid SAR 725 for na article i need to get a rebate
+bx00913,get_refund,I do not know how I could receive a reimbursement of money
+bx00914,get_refund,I do not know how I could request compensations of money
+bx00915,get_refund,can you help me to ask for compensations?
+bx00916,get_refund,i dont know how to demand a rebate of money
+bx00917,get_refund,"I paid SAR 1325 for this order, could you help me get a rebate?"
+bx00918,get_refund,i try to get a rebate of money
+bx00919,get_refund,where to obtain rebates of my money?
+bx00920,get_refund,I need help to ask for a rebate of my money
+bx00921,get_refund,I have got to obtain a reimbursement
+bx00922,get_refund,where do i ask for a refund
+bx00923,get_refund,is it possible to request reimbursements of money?
+bx00924,get_refund,how to ask for my money back
+bx00925,get_refund,I need assistance asking for compensations of money
+bx00926,get_refund,could you help me demanding restitutions of my money?
+bx00927,get_refund,can you help me to receive a refund?
+bx00928,get_refund,I ahve got to get rebates
+bx00929,get_refund,i dont know how to request a refund
+bx00930,get_refund,can uhelp me requesting rebates
+bx00931,get_refund,i need help requesting reimbursemenmts
+bx00932,get_refund,I want herlp to obtain reimbursements of money
+bx00933,get_refund,I need to ask fot refunds of money
+bx00934,get_refund,I want help to get refunds
+bx00935,get_refund,is it possible to get a reimbursement?
+bx00936,get_refund,I'm trying to request rebates of my money
+bx00937,get_refund,what do i need to do to get a reimbursement of money
+bx00938,get_refund,I have got to receive compensations
+bx00939,get_refund,is it possible to obtain reimbursements of my money
+bx00940,get_refund,I don't know how I can get a refund of money
+bx00941,get_refund,I'm trying to demand fucking refunds of money
+bx00942,get_refund,can you help me obtaining a compensation?
+bx00943,get_refund,I do not know how to obtain a restitution of my money
+bx00944,get_refund,help to demand a goddamn compensation
+bx00945,get_refund,help to ask for refunds of money
+bx00946,get_refund,is it possible to request a refund of my money?
+bx00947,get_refund,I do not know how I could ask for goddamn refunds
+bx00948,get_refund,where to receive goddamn reimbursements of mooney
+bx00949,get_refund,i want assistance requesting reimbursements
+bx00950,get_refund,I do not know how I can obtain a rebate of money
+bx00951,get_refund,wanna reeive restitutions of my money
+bx00952,get_refund,"I have paid SAR 50 for this article, how to obtain a rebate?"
+bx00953,get_refund,i try to request a restitution of money
+bx00954,get_refund,could you help me obtain rebates of money?
+bx00955,get_refund,I don't know how I can obtain a refund
+bx00956,get_refund,I don't know what I need to do to request rebates
+bx00957,get_refund,can ya help me requesting a rebate of my money
+bx00958,get_refund,where to receive a restitution of money?
+bx00959,get_refund,where can I request refunds of my money?
+bx00960,get_refund,need help obtaining restitutions of my money
+bx00961,get_refund,I need help to demand a goddamn reimbursement
+bx00962,get_refund,is it possible to demand a damn compensation
+bx00963,get_refund,help me to get a rebate
+bx00964,get_refund,i dont know how i can ask for compensations of money
+bx00965,get_refund,i dont know what i have to doto get refunds of my money
+bx00966,get_refund,I do not know what I need to do to obtain a reimbursement
+bx00967,get_refund,I want assistace to request a compensation of my money
+bx00968,get_refund,when am i gonna obtain a reimbursement of money
+bx00969,get_refund,how long until i get my money back
+bx00970,payment_issue,want help to notify of a fucking error with payments
+bx00971,payment_issue,need assistance solving an issue with online paymenst
+bx00972,payment_issue,where do I report a payment issue?
+bx00973,payment_issue,I nerd to report a trouble with online payment
+bx00974,payment_issue,I need help notifying of a trouble with online payments
+bx00975,payment_issue,where can I notify of problems with payent?
+bx00976,payment_issue,help me to report issues with payment
+bx00977,payment_issue,"I cannot pay, help notifying of a problem with payment"
+bx00978,payment_issue,can you help me informing of errors with payment?
+bx00979,payment_issue,notifying of payment problem
+bx00980,payment_issue,I want assistance informing of an error with payments
+bx00981,payment_issue,need help reporting errors with online payments
+bx00982,payment_issue,help me informing of a payment problem
+bx00983,payment_issue,inform of error with online payments
+bx00984,payment_issue,how to inform of payment probloems?
+bx00985,payment_issue,how do I notify of payment problems?
+bx00986,payment_issue,how can i inform of a payment problem
+bx00987,payment_issue,I need help reporting a trouble with online payment
+bx00988,payment_issue,I would like to report fucking errors with payment
+bx00989,payment_issue,i try to report an payment error
+bx00990,payment_issue,i want assistance reporting issueswith online payment
+bx00991,payment_issue,where can I inform of problems with payment?
+bx00992,payment_issue,I want help notifying of troubles with online paymnet
+bx00993,payment_issue,I need help to notify of a trouble with payment
+bx00994,payment_issue,where do I inform of errors with online payments?
+bx00995,payment_issue,"I have to report an issue with online payments, help me"
+bx00996,payment_issue,wqnna notify of an error with payments
+bx00997,payment_issue,i cant make a payment where can i notify of an error
+bx00998,payment_issue,"I cannot make payments, could I report a problem?"
+bx00999,payment_issue,what do i have to do to report a trouble with payments
+bx01000,payment_issue,assistance to inform of problems with online payments
+bx01001,payment_issue,i cant makr a transfer help me report a payment error
+bx01002,payment_issue,notify of troubles with payment
+bx01003,payment_issue,informing of troubles with payments
+bx01004,payment_issue,can you help me report a payment issue?
+bx01005,payment_issue,can you help me to inform of an error with online payment?
+bx01006,payment_issue,can you help me to solve issues with online payment?
+bx01007,payment_issue,i want assistance to notify of payment errors
+bx01008,payment_issue,assistance informing of an error with onlinepayment
+bx01009,payment_issue,i dont know how to report issues with online payments
+bx01010,payment_issue,want help to notify of troubles with payment
+bx01011,payment_issue,I want help notifying of a payment problem
+bx01012,payment_issue,i have to report troubles with online payments
+bx01013,payment_issue,what do I need to do to notify of a payment error?
+bx01014,payment_issue,"I cannot make a payment, I need help notifying of errors"
+bx01015,payment_issue,want help to report a problem with payments
+bx01016,payment_issue,I am trying to report a payment error
+bx01017,payment_issue,i want help to inform of errors with payments
+bx01018,payment_issue,"I cannot pay, I want to notify of a trouble with payments"
+bx01019,payment_issue,help me to inform of an issue with online payment
+bx01020,payment_issue,assistance with payment
+bx01021,payment_issue,i cant pay i need help reporting problems with payments
+bx01022,payment_issue,my card was declined i wanna inform of troubles with payment
+bx01023,payment_issue,need helpsolving problems with online payment
+bx01024,payment_issue,i dont know how to inform of a payment error
+bx01025,payment_issue,notify of troubles with online payments
+bx01026,payment_issue,report problems with online payments
+bx01027,payment_issue,i neee help solving problems with payments
+bx01028,payment_issue,payment issues
+bx01029,payment_issue,need help solving an error wity online payments
+bx01030,payment_issue,need to report an issue with paymentr
+bx01031,payment_issue,where can i report errors with onlinepayment
+bx01032,payment_issue,how can I inform of a payment issue?
+bx01033,payment_issue,report payment problems
+bx01034,payment_issue,assistance to notify of problems with payment
+bx01035,payment_issue,could ya help me inform of troubles with payments
+bx01036,payment_issue,I am trying to inform of an error with paymenys
+bx01037,payment_issue,help me reporting an issue wigh online payment
+bx01038,payment_issue,I want assistance notifying of issues with payment
+bx01039,payment_issue,where to report an error with payments?
+bx01040,payment_issue,where do i inform of goddamn problems with online paymnts
+bx01041,payment_issue,"I cannot pay, I have to inform of a problem with payments"
+bx01042,payment_issue,I want assistance informing of a payment issue
+bx01043,payment_issue,i need assistance reporting payment problems
+bx01044,payment_issue,help me notify of errors with online payment
+bx01045,payment_issue,"I have got to report a payment problem, will you help me?"
+bx01046,payment_issue,solve problems with apyment
+bx01047,payment_issue,how can I report payment errors?
+bx01048,payment_issue,"I cannot make payments, could you help me report errors?"
+bx01049,payment_issue,troubles with payments
+bx01050,payment_issue,I need hepl to report an error with online payment
+bx01051,payment_issue,"I can't pay, I need to notify of a problem with payments"
+bx01052,payment_issue,"I can't pay, notify of a trouble with online payment"
+bx01053,payment_issue,need help solving a payment error
+bx01054,payment_issue,help reporting troubles with payments
+bx01055,payment_issue,"I want to inform of a problem with online payments, help me"
+bx01056,payment_issue,I need help notifying of payment problems
+bx01057,payment_issue,could ya help me solving an error with payments
+bx01058,payment_issue,help notifying of an error with payment
+bx01059,payment_issue,want help reporting bloody troubles with payments
+bx01060,payment_issue,how do I report issues with online payment?
+bx01061,payment_issue,my card was declined report payment issues
+bx01062,payment_issue,where could i inform of problems with online payments
+bx01063,payment_issue,can you help me report a problem with online payment?
+bx01064,payment_issue,"I want to report problems with payments, I need assistance"
+bx01065,payment_issue,i have to notify of errors with online payment
+bx01066,payment_issue,wanna report issues with online pahment
+bx01067,payment_issue,where do i notify of a trouble with payments
+bx01068,payment_issue,want assistance informing of a trouble with payment
+bx01069,payment_issue,I don't know how I could notify of payment issues
+bx01070,payment_issue,"I want to notify of errors with payment, how to do it?"
+bx01071,payment_issue,help informing of a fucking payment problem
+bx01072,payment_issue,what do I need to do to notify of a problem with payments?
+bx01073,payment_issue,want help norifying of a payment issue
+bx01074,payment_issue,I have to reporta trouble with payment
+bx01075,payment_issue,want help to solve a payment error
+bx01076,payment_issue,want assistance to solve a payment problem
+bx01077,payment_issue,the payment failed i need help to report errors with payment
+bx01078,payment_issue,i cant pay i have to notify of problems with online payment
+bx01079,payment_issue,i get an error when i try to make a transfer report it
+bx01080,payment_issue,"I can't make a transfer, can I notify of payment errors?"
+bx01081,payment_issue,help notifying of issues with payments
+bx01082,payment_issue,can ay help me to inform of issues with payment
+bx01083,payment_issue,need help to notify of an issue with payments
+bx01084,payment_issue,"the payment failed, where do I notify of errors?"
+bx01085,payment_issue,i need help to solve problems with online payment
+bx01086,payment_issue,i dont know how i can report damn issues with payments
+bx01087,payment_issue,help solving a problem with online payment
+bx01088,payment_issue,can you help me notifying of errors with online payment?
+bx01089,payment_issue,reporting issues with online payments
+bx01090,payment_issue,is it possible to inform of an error with online payments?
+bx01091,payment_issue,I need help to report a payment problem
+bx01092,payment_issue,can ya help me to solve a payment problem
+bx01093,payment_issue,need to reoprt problems with online payment
+bx01094,payment_issue,help notifying of a fucking error with online payments
+bx01095,payment_issue,my card was declined help to inform oof a payment issue
+bx01096,payment_issue,I need to report payment issues
+bx01097,payment_issue,I need to notify of troubles with online payment
+bx01098,payment_issue,help me to inform of troubles with online payments
+bx01099,payment_issue,i do not know how to notify of a trouble with online payment
+bx01100,payment_issue,i want assistance to notify of troubles with payment
+bx01101,payment_issue,i need help to report a problem with online payments
+bx01102,payment_issue,wanna notify of goddamn errors with online payment
+bx01103,payment_issue,I want assistance to inform of issues with payment
+bx01104,payment_issue,"my card did not work, assistance reporting payment problems"
+bx01105,payment_issue,wanna report a trouble with payment i need assistance
+bx01106,payment_issue,i need assistance to inform of problems with payment
+bx01107,payment_issue,i cant make a payment i wanna repotr a problem
+bx01108,payment_issue,where do i inform of payment problems
+bx01109,payment_issue,assistance to solve troubles with payments
+bx01110,payment_issue,I need assistance reporting an issue with online payment
+bx01111,payment_issue,help me notify of an issue with payment
+bx01112,payment_issue,help regarding payment
+bx01113,payment_issue,I need assistance notifying of a trouble with online payment
+bx01114,payment_issue,need help informing of an error with payments
+bx01115,payment_issue,what do I need to do to report payment problems?
+bx01116,payment_issue,i need help sollving a trouble with payments
+bx01117,payment_issue,wanna report troubles with onlpine payment
+bx01118,payment_issue,I am trying to notify of an issue with payment
+bx01119,payment_issue,where do I notify of a payment problem?
+bx01120,payment_issue,I try to notify of an error with online payments
+bx01121,payment_issue,I ned assistance solving an error with payments
+bx01122,payment_issue,want assistance solving problems with payment
+bx01123,payment_issue,need assistance solving a problem with online payment
+bx01124,payment_issue,"I can't pay, assistance notifying of an issue with payment"
+bx01125,payment_issue,wanna inform of errors with online payment can uhelp me
+bx01126,payment_issue,could you help me notify of payment problems?
+bx01127,payment_issue,help solving a payment problem
+bx01128,payment_issue,notify of fucking payment issues
+bx01129,payment_issue,wanna inform of issues with payment
+bx01130,payment_issue,what do I have to do to inform of payment errors?
+bx01131,payment_issue,support regarding online pamyent
+bx01132,payment_issue,"my card was declined, can I report problems with payments?"
+bx01133,payment_issue,can ya help me inform of a trouble with payment
+bx01134,payment_issue,"I can't make a transfer, I need to inform of payment issues"
+bx01135,payment_issue,how can I inform of issues with online payment?
+bx01136,payment_issue,"I need to notify of issues with online payments, help me"
+bx01137,payment_issue,i cannot make a payment help me inform of fucking issues
+bx01138,payment_issue,I need help to notify of an error with payments
+bx01139,payment_issue,assistance informing of errors with payments
+bx01140,payment_issue,help me to notify of an reror with payments
+bx01141,payment_issue,i want help informing of issues with online payment
+bx01142,payment_issue,i try to inform of issues with payments
+bx01143,payment_issue,"I can't pay, how do I inform of payment errors?"
+bx01144,payment_issue,help with payment
+bx01145,payment_issue,i do not know how i can inform of issues with online payment
+bx01146,payment_issue,could ya help me to report a payment problem
+bx01147,payment_issue,help solving a goddamn error with online payments
+bx01148,payment_issue,"my card was declined, inform of an error with payments"
+bx01149,payment_issue,I want assistance reporting a prbolem with payment
+bx01150,payment_issue,is it possible to report issues with online payment?
+bx01151,payment_issue,could you help me to notify of an issue with payments?
+bx01152,payment_issue,I need help to report issues with payment
+bx01153,payment_issue,"I can't pay, is it possible to report troubles with payment?"
+bx01154,payment_issue,what do I have to do to report problems with online payment?
+bx01155,payment_issue,I would like to inform of troubles with online payments
+bx01156,payment_issue,can ya help mw to solve errors with payment
+bx01157,payment_issue,"my credit card was declined, I have to report payment errors"
+bx01158,payment_issue,how to report errors with payment
+bx01159,payment_issue,want help to solve errors with payment
+bx01160,payment_issue,need to inform of issues with payment
+bx01161,payment_issue,were do i report damn troubles with payment
+bx01162,payment_issue,can you help me notify of an error with payments?
+bx01163,payment_issue,could you help me to report an error with online payment?
+bx01164,payment_issue,I'm trying to inform of problems with online payments
+bx01165,payment_issue,I want help to report an error with payments
+bx01166,payment_issue,help me notifying of a problem with online payment
+bx01167,payment_issue,what do i have to do to inform of errors with payment
+bx01168,payment_issue,can you help me to notify of issues with online payment?
+bx01169,payment_issue,i cant pay inform of a problem with payment
+bx01170,track_order,"I want to locate purchase 137778, help me"
+bx01171,track_order,i have to see the ETA of order 487151 can ya help me
+bx01172,track_order,I have got to track purchase 975136
+bx01173,track_order,could you help me see purchase 672092 current status?
+bx01174,track_order,how could i see the eta of the order 517821
+bx01175,track_order,were could i locate purchase 824586
+bx01176,track_order,where do i see the status of order 178898
+bx01177,track_order,help me tracking order 217308
+bx01178,track_order,could uhelp me check the damn eta of order 110139
+bx01179,track_order,what do I need to do to track order 256294?
+bx01180,track_order,I want help locating order 710805
+bx01181,track_order,how to locate order 320281?
+bx01182,track_order,I want help to see the ETA of the purchase 255287
+bx01183,track_order,I can't check the current status of purchase 550664
+bx01184,track_order,track purchase 233636
+bx01185,track_order,"I want to see order 143860 status, how do I do it ?"
+bx01186,track_order,is it possible to see the eta of order 423232
+bx01187,track_order,I am trying to locate order 482364
+bx01188,track_order,I can't check the ETA of the orfer 934794
+bx01189,track_order,i need help seeing purchase 141832 status
+bx01190,track_order,I don't know what to do to seeorder 475190 status
+bx01191,track_order,assistance to check the eta of order 688153
+bx01192,track_order,can you help me see the ETA of the order 679364?
+bx01193,track_order,I awnt assistance to locate order 548462
+bx01194,track_order,what do I need to do to see order 103717 status?
+bx01195,track_order,I try to see purchase 678478 status
+bx01196,track_order,I need help tracking purchase 376807
+bx01197,track_order,help checkinjg the eta of order 629959
+bx01198,track_order,showing me eta of purchase 612262
+bx01199,track_order,assiustance tracking purchase 363319
+bx01200,track_order,I have to check purchase 987204 current status
+bx01201,track_order,can uhelp me seethe ETA of order 153266
+bx01202,track_order,I cannot see purchase 196781 current status
+bx01203,track_order,purchase 765095 status
+bx01204,track_order,how do i see the eta of order 544151
+bx01205,track_order,i want assistance seeing order 969634 status
+bx01206,track_order,"I need to see purchase 390120 status, how to do it?"
+bx01207,track_order,"I have to see purchase 146228 status, how can I do it?"
+bx01208,track_order,how can i tfack purchase 449759
+bx01209,track_order,checking status of order
+bx01210,track_order,"I need to track purchase 908577, can I get some help ?"
+bx01211,track_order,where is ordered 237174
+bx01212,track_order,I am trying to see order 768061 status
+bx01213,track_order,where to see the current status of order 374680?
+bx01214,track_order,i have to see the status of order 269430 help me
+bx01215,track_order,help checking the ETA of purchase 877236
+bx01216,track_order,"I have to check purchase 563298 status, I need help"
+bx01217,track_order,assistance to see purchase 839945 status
+bx01218,track_order,can ya help me to see the ETA of purchase 815198
+bx01219,track_order,wanna see pjrchase 994343 damn current status
+bx01220,track_order,wanna check order 799330 status
+bx01221,track_order,could uhelp me checkingb the eta of the purchase 266931
+bx01222,track_order,I don't know how I could see purchase 925622 status
+bx01223,track_order,i have got to see the current status of order 835343
+bx01224,track_order,how cam i track order 213346
+bx01225,track_order,i cannot see the current staus of purchase 501124
+bx01226,track_order,can uhelp me to locate order 140605
+bx01227,track_order,could ya help me locae purchase 593554
+bx01228,track_order,wanna see the eta of order 333238 how can i do it
+bx01229,track_order,want asistance checking the eta of the order 309267
+bx01230,track_order,need assistance checking order 956253 status
+bx01231,track_order,can I track order 582662?
+bx01232,track_order,order 00123842current status
+bx01233,track_order,i need help checking the ET of the purchase 466643
+bx01234,track_order,can ushow me the status of purchase 420015
+bx01235,track_order,can uhelp me locating order 960394
+bx01236,track_order,assistance to see the ETA of the order 933980
+bx01237,track_order,need to check the eta of order 338651
+bx01238,track_order,can you help me seeing the ETA of purchase 333752?
+bx01239,track_order,"I would like to check order 124813 current status, help me"
+bx01240,track_order,"I have to see order 792094 current status, help me"
+bx01241,track_order,i do not know how i can see order 302511 current satus
+bx01242,track_order,what do i have to do to locate purchase 379766
+bx01243,track_order,check purchase 360222 current status
+bx01244,track_order,what do i have to od to check order 950132 status
+bx01245,track_order,I need assistance trackng purchase 870763
+bx01246,track_order,help me to check the current status of order 207786
+bx01247,track_order,can you help me see purchase 470858 status?
+bx01248,track_order,i want help seeing purchase 918011 current status
+bx01249,track_order,where could I see purchase 687080 status?
+bx01250,track_order,I do not know how I could see order 526117 status
+bx01251,track_order,"I have to check purchase 750810 status, I need assistance"
+bx01252,track_order,can you show me the ETA of order 885884?
+bx01253,track_order,want help seeing purchase 262060 status
+bx01254,track_order,I want help seeing the status of order 348237
+bx01255,track_order,i want assistance to track order 270395
+bx01256,track_order,I want to see the status of order 361650
+bx01257,track_order,can I check the ETA of order 938742?
+bx01258,track_order,I want to see order 285652 bloody current status
+bx01259,track_order,I want to check the ETA of purchase 532322
+bx01260,track_order,need to check the etga of order 125990 help me
+bx01261,track_order,I want help olcating purchase 288073
+bx01262,track_order,showing me purchase 872343 status
+bx01263,track_order,how to see the status of order 448321
+bx01264,track_order,how could I check the current status of order 920391?
+bx01265,track_order,i dont know how i can see the eta of the order 531712
+bx01266,track_order,order 941204 status
+bx01267,track_order,I don't know how I can locate purchase 802448
+bx01268,track_order,wanna chedk order 950155 status help me
+bx01269,track_order,"I have to see the ETA of order 765046, how to do it?"
+bx01270,track_order,need to see the damn eta of the purchase 176066 help me
+bx01271,track_order,seeing status of purchase 313487
+bx01272,track_order,see purchase 141672 status
+bx01273,track_order,what is purchase 749468 current status?
+bx01274,track_order,showing me purchase 185965 current status
+bx01275,track_order,where can I see the fucking status of order 539589?
+bx01276,track_order,i have to see the eta of order 789305
+bx01277,track_order,"I want to locate order 712024, can I get some help?"
+bx01278,track_order,wanna check the status of order 692683 could uelp me
+bx01279,track_order,how do i see the damn status of order 648177
+bx01280,track_order,i cannot see tge eta of the purchase 431737
+bx01281,track_order,what do I need to do to see the ETA of purchase 373432?
+bx01282,track_order,where to see order 314181 current status?
+bx01283,track_order,is it possible to check order 802258 current status?
+bx01284,track_order,I need assistance locating order 850981
+bx01285,track_order,i have to check the ETA of order732201349959 i need help
+bx01286,track_order,what is purchase 429445 status
+bx01287,track_order,I need help locatin purchase 350280
+bx01288,track_order,help locating purchase 378517
+bx01289,track_order,what is order 515011 crrent status
+bx01290,track_order,"I need to see order 237235 bloody status, can you help me?"
+bx01291,track_order,where do I check the status of purchase 804318?
+bx01292,track_order,wanna locate order 776856 how can i do it
+bx01293,track_order,how can I see order 723398 current status?
+bx01294,track_order,can you show me the ETA of purchase 414569?
+bx01295,track_order,I need help to see the current status of order 707040
+bx01296,track_order,"I want to see the ETA of order 697347, I need help"
+bx01297,track_order,want help seeing the eta of purchase 820892
+bx01298,track_order,what do I have to do to locate order 152578?
+bx01299,track_order,i try to chrck the current status of order 712554
+bx01300,track_order,checking purchase 599948 status
+bx01301,track_order,nee to locate purchase 627276 help me
+bx01302,track_order,help me checking purchase 994141 current status
+bx01303,track_order,see purchase 656926 goddamn status
+bx01304,track_order,how do I see the goddamn ETA of order 265080?
+bx01305,track_order,assistance to see the ETA of purchase 159642
+bx01306,track_order,"I want to see the ETA of my order, could you help me?"
+bx01307,track_order,I want assistance to check the ETA of purchase 632496
+bx01308,track_order,I try to seethe status of purchase 184002
+bx01309,track_order,I want help to see order 992697 status
+bx01310,track_order,wann locate order 294851
+bx01311,track_order,i need help seeing the goddamn eta of purchae 171849
+bx01312,track_order,I'm tying to see the ETA of purchase 723939
+bx01313,track_order,status of order 171262
+bx01314,track_order,I need help to see the ETA of purchase 808011
+bx01315,track_order,how can I see purchase 346629 current status?
+bx01316,track_order,I need assistance seeing purchase 523389 status
+bx01317,track_order,"I want to track purchase 225710, I need help"
+bx01318,track_order,is it possible to track purchase 358175?
+bx01319,track_order,I'm trying to check purcahse 579434 current status
+bx01320,track_order,i want help to track purchase00123842
+bx01321,track_order,hlw do i check the ETA of purchase 888387
+bx01322,track_order,where do I check the current status of order 785743?
+bx01323,track_order,how do i see purchase 654634 status
+bx01324,track_order,can ya help me check order 108203 current status
+bx01325,track_order,wana check the ETA of order 800305 will ya help me
+bx01326,track_order,i have to check the ETA or order 956795 help me
+bx01327,track_order,checking current status of order 681542
+bx01328,track_order,I can't see the ETA of purchase 413921
+bx01329,track_order,I can't check the ETA of the purchase 795613
+bx01330,track_order,i cannot see the status of order 240814
+bx01331,track_order,how do I track purchase 377312?
+bx01332,track_order,need heop seeing the ETA of the purchase 221035
+bx01333,track_order,wanna track purchase 212235 will ya help me
+bx01334,track_order,need help checking the eta of the order 878480
+bx01335,track_order,I'd like to track purchase 680097 i need assistance
+bx01336,track_order,"I have got to locate purchase 262998, I need help"
+bx01337,track_order,how could I see order 385577 status?
+bx01338,track_order,I do not know how to see the ETA of purchase 395442
+bx01339,track_order,i have to locate purchase 734210 i need assistance
+bx01340,track_order,where could i check order 320861 fucking curent status
+bx01341,track_order,want assistance seeing the fucking ETA of order 852470
+bx01342,track_order,assistance to track purchase 431535
+bx01343,track_order,where could I check purchase 946305 current status?
+bx01344,track_order,I try to check purcbase 741390 status
+bx01345,track_order,wanna track purchase 208618
+bx01346,track_order,show me the fucking current status of order 459536
+bx01347,track_order,can you help me seeing the status of order 109767?
+bx01348,track_order,check my last parcel eta
+bx01349,track_order,needx help to check the ETA of purchase 751332
+bx01350,track_order,help me see the ETA of purchase 690341
+bx01351,track_order,I have to check the status of purchase 204837
+bx01352,track_order,"I have got to check order 176819 status, can you help me?"
+bx01353,track_order,what do i have to do to see the status of purchase 663750
+bx01354,track_order,can you help me to check order 323508 status?
+bx01355,track_order,see order 630458 status
+bx01356,track_order,needto locate order 378082 how can i do it
+bx01357,track_order,i have to see the ETA of purchase 238890 cn uhelp me
+bx01358,track_order,I want to see the fucking ETA of the order 580547
+bx01359,track_order,how could I check purchase 172132 status?
+bx01360,track_order,locate order 465962
+bx01361,track_order,I am trying to see the ET of the order 837715
+bx01362,track_order,I do not know how to check order 669605 status
+bx01363,track_order,need assistance to see the status of purchase 974244
+bx01364,track_order,I need help to locate order 559469
+bx01365,track_order,assistance seeing the current status of purchase 417212
+bx01366,track_order,wanna see order 398830 damn current status help me
+bx01367,track_order,i want assistance to see the eta of order 487477
+bx01368,track_order,help me to check order 356150 goddamn current status
+bx01369,track_order,can you help me checking the ETA of the order 265409 ?
+bx01370,track_refund,help me tracking my compensation
+bx01371,track_refund,I try to see my restitution status
+bx01372,track_refund,i dont know how i can check my refund current status
+bx01373,track_refund,"I have to see my restitution status, how to do it?"
+bx01374,track_refund,"I have got to check my reimbursement status, help me"
+bx01375,track_refund,I am waiting for an restitution of 875 dollars
+bx01376,track_refund,I'm trying to see the rebate current status
+bx01377,track_refund,"I need to track my compensation, could I get some help?"
+bx01378,track_refund,i expect a rebate of SAR 150
+bx01379,track_refund,check my reimbursement status
+bx01380,track_refund,can uhelp me check the compensation current status
+bx01381,track_refund,i expect a reimbursement of 375 dollars
+bx01382,track_refund,how to see the restitution current status?
+bx01383,track_refund,refund status
+bx01384,track_refund,I want assistance seeing the damn reimbursement status
+bx01385,track_refund,I need assistance seeing my reimbursement current status
+bx01386,track_refund,i need assistance seeing my refund current status
+bx01387,track_refund,help checking the status of the refund
+bx01388,track_refund,I need assistance to check the current status of the rebate
+bx01389,track_refund,I want assistance to see the fucking status of the rebate
+bx01390,track_refund,where can I see if there is anything new on the restitution?
+bx01391,track_refund,"I have to see the bloody status of the refund, how to do it?"
+bx01392,track_refund,i expect a restitution of 400 dollars was it processed
+bx01393,track_refund,can uhelp me check my refund current status
+bx01394,track_refund,I expect a fucking compensation of SAR 1950
+bx01395,track_refund,need to know if there are any updates on the ocmpensation
+bx01396,track_refund,can you help me see my reimbursement status?
+bx01397,track_refund,help checking if there are any news on my compensation
+bx01398,track_refund,how can I check the status of the restitution?
+bx01399,track_refund,"I have to see the status of my rebate, how to do it?"
+bx01400,track_refund,how to check the fucking rebate current status?
+bx01401,track_refund,"I have to check my reimbursement status, how could I do it?"
+bx01402,track_refund,I want to know if there are any news on my refund
+bx01403,track_refund,help me knowing if there are any updates on the refund
+bx01404,track_refund,what do I need to do to track my reimbursement?
+bx01405,track_refund,I try to see the rebate status
+bx01406,track_refund,track refund
+bx01407,track_refund,I do not know what I need to do to track the restitution
+bx01408,track_refund,help to see if there is anything wrong with the refund
+bx01409,track_refund,I'm waiting for a ocmpensation of 600 dollars
+bx01410,track_refund,I need help to check the current status of my refund
+bx01411,track_refund,I have to know if there is anything wrong with the rebate
+bx01412,track_refund,I do not know how to check the status of the compensation
+bx01413,track_refund,"I want to see my reimbursement current status, help me"
+bx01414,track_refund,I try to know if there are any updates on my restitution
+bx01415,track_refund,"I expect a rebate of SAR 1900, was it processed"
+bx01416,track_refund,i expect a restitution of SAR 875 was it processed already
+bx01417,track_refund,I'm waiting for a damn refund of SAR 1425
+bx01418,track_refund,i need assistance to see the refund status
+bx01419,track_refund,"I want to see my compensation status, I need help"
+bx01420,track_refund,I need help to know if there is anything new on my rebate
+bx01421,track_refund,I would like to check the compensation status
+bx01422,track_refund,I need help to check if there are any news on the rebate
+bx01423,track_refund,how to see the rebate current status?
+bx01424,track_refund,help me to see the refund status
+bx01425,track_refund,what do i need to do to see the status of the rebate
+bx01426,track_refund,I do not know how I can check the status of my rebate
+bx01427,track_refund,could I check the goddamn status of the refund?
+bx01428,track_refund,I want help to know if there are any news on the rebate
+bx01429,track_refund,i do not know how i can see the reimbursement current status
+bx01430,track_refund,help seeing if there is anything wrong with the rebate
+bx01431,track_refund,is it possible to check the status of the rebate?
+bx01432,track_refund,i expetc a damn restitution of SAR 1425 was it processed
+bx01433,track_refund,any news on my bloody reimbursement
+bx01434,track_refund,"I have to see the status of my refund, how could I do it?"
+bx01435,track_refund,i have got to track my refund
+bx01436,track_refund,where to see if there are any updates on my restitution
+bx01437,track_refund,want help to know if there is anything wrong with the refund
+bx01438,track_refund,could you help me check the status of my restitution?
+bx01439,track_refund,"I expect a refund of SAR 1975, was it processeed"
+bx01440,track_refund,any news on the refund
+bx01441,track_refund,I want assistance checking my refund status
+bx01442,track_refund,could you help me see my compensation current status?
+bx01443,track_refund,want help seeing the current status of my reimbursement
+bx01444,track_refund,where do I see my rebate status?
+bx01445,track_refund,I am trying to check the status of the restitution
+bx01446,track_refund,want help to track the reimbursement
+bx01447,track_refund,I expect a restitution of 1150 dollars
+bx01448,track_refund,could I know if there is anything new on my compensation?
+bx01449,track_refund,how do I check if there are any updates on the restitution?
+bx01450,track_refund,where can I check the current status of my rebate?
+bx01451,track_refund,assistance checking the restitution current status
+bx01452,track_refund,"I expect a bloody rebate of SAR 1050, was it processed already"
+bx01453,track_refund,can you help me to see the restitution status?
+bx01454,track_refund,how to see if there are any updates on the refund?
+bx01455,track_refund,know if there is anything wrong with the refund
+bx01456,track_refund,I don't know what I have to do to see the restitution status
+bx01457,track_refund,I want to see if there is anything new on the restitution
+bx01458,track_refund,I do not know what to do to track my reimbursement
+bx01459,track_refund,assistance seeing if there is anything wrong with my refund
+bx01460,track_refund,I have got to track the compensation
+bx01461,track_refund,show status of refund
+bx01462,track_refund,want assistance checking my refund current status
+bx01463,track_refund,help to check the damn current status of the restitution
+bx01464,track_refund,i dont know how i can see the restitution status
+bx01465,track_refund,I'm trying to check the status of my compensation
+bx01466,track_refund,help me seeing if there are any updates on the compensation
+bx01467,track_refund,assistance checking my reimbursement current status
+bx01468,track_refund,I need assistance seeing the restitution status
+bx01469,track_refund,I don't know how to check the compensation status
+bx01470,track_refund,"I expect a fucking ocmpensation of SAR 125, was it processed"
+bx01471,track_refund,I want help to check if there is anything new on my rebate
+bx01472,track_refund,I do not know how to track the restitution
+bx01473,track_refund,check status of refund
+bx01474,track_refund,i exepct a compensation of SAR 925
+bx01475,track_refund,i cant see if there is anything wrong with my reimbursement
+bx01476,track_refund,i cannot see if there are any news on my rebate
+bx01477,track_refund,could ya help me checking the current status of my refund
+bx01478,track_refund,"I have got to see my refund status, can you help me?"
+bx01479,track_refund,I do not know how to check the status of the reimbursement
+bx01480,track_refund,I need to track my fucking compensation
+bx01481,track_refund,I don't know how I can check the rebate status
+bx01482,track_refund,I'm waiting for an rebate of 250 dollars
+bx01483,track_refund,I am trying to check my rebate status
+bx01484,track_refund,how can I see the current status of my refund?
+bx01485,track_refund,assistance to see my compensation status
+bx01486,track_refund,I expect a reufnd of SAR 925
+bx01487,track_refund,can ya help me seeing the refnd status
+bx01488,track_refund,"I have to check my restitution current status, how to do it?"
+bx01489,track_refund,help me to check the current status of the compensation
+bx01490,track_refund,checking status of rebate
+bx01491,track_refund,is it possible to check if there are any news on my rebate?
+bx01492,track_refund,I do not know how I can track my rebate
+bx01493,track_refund,can you show me the rebate current status?
+bx01494,track_refund,"I want to check my rebate current status, could you help me?"
+bx01495,track_refund,help to check the status of my compensation
+bx01496,track_refund,wanna see the current status of my restitution
+bx01497,track_refund,could you help me see if there are any news on my rebate?
+bx01498,track_refund,how to see the current status of the rebate
+bx01499,track_refund,I need assistance checking the status of my rebate
+bx01500,track_refund,I want to see my compensation current status
+bx01501,track_refund,i want help checking if there are any news on my restitution
+bx01502,track_refund,help checking my restitution status
+bx01503,track_refund,i expect a refund of 1100 dollars has it been processed
+bx01504,track_refund,I try to check the restitution status
+bx01505,track_refund,"I need to know if there are any news on my rebate, help me"
+bx01506,track_refund,how can i see my compensation current status
+bx01507,track_refund,"I have got to see the current status of my refund, help me"
+bx01508,track_refund,i need help to see my compensation status
+bx01509,track_refund,help me see the current status of my rebate
+bx01510,track_refund,how to see the reimbursement current status
+bx01511,track_refund,I would like to see the status of my compensation
+bx01512,track_refund,"I would like to track the reimbursement, how could I do it?"
+bx01513,track_refund,i try to see if there are any updates on my refund
+bx01514,track_refund,I need help tracking the restitution
+bx01515,track_refund,I don't know how I can see my compensation status
+bx01516,track_refund,i dont know how i could track the rebate
+bx01517,track_refund,can I see if there is anything new on the reimbursement?
+bx01518,track_refund,i have got to check the rebate current status
+bx01519,track_refund,help me to see if there is anything new on the reimbursement
+bx01520,track_refund,assistance to see if there are any news on the refund
+bx01521,track_refund,assistance to see if there are any news on the compensation
+bx01522,track_refund,help me check the status of the rebate
+bx01523,track_refund,"I have to check the status of my rebate, I need help"
+bx01524,track_refund,want help to check if there are any news on my refund
+bx01525,track_refund,"I have got to see the status of my rebate, I need assistance"
+bx01526,track_refund,i dont know how to check the current status of my rebate
+bx01527,track_refund,I need assistance to check my restitution status
+bx01528,track_refund,can I check the current status of my reimbursement?
+bx01529,track_refund,"I expect a compensation of SAR 1325, was it processed already"
+bx01530,track_refund,i dont know how to track my refund
+bx01531,track_refund,i want help to see the status of my compensation
+bx01532,track_refund,I expect an reimbursement of SAR 1750
+bx01533,track_refund,I'm waiting for a restitution of SAR 1100 was it processed
+bx01534,track_refund,there is anything new on the reimbursement
+bx01535,track_refund,I cannot see if there are any news on my restitution
+bx01536,track_refund,I need help checking if there are any updates on my refund
+bx01537,track_refund,where can I check if there are any news on the rebate?
+bx01538,track_refund,how can I check the refund current status?
+bx01539,track_refund,I want help to track the compensation
+bx01540,track_refund,how to see if there is anything wrong with the restitution?
+bx01541,track_refund,I would like to check if there are any news on the refund
+bx01542,track_refund,help to see if there are any news on my rebate
+bx01543,track_refund,I expect a goddamn restitution of SAR 1675
+bx01544,track_refund,i cannot track my restitution
+bx01545,track_refund,I need help to see the current status of the refund
+bx01546,track_refund,"I would like to track my rebate, can you help me?"
+bx01547,track_refund,what is my rebate status?
+bx01548,track_refund,"I need to see my rebate current status, will you help me?"
+bx01549,track_refund,assistance to see the restitution status
+bx01550,track_refund,i need help to check the rebate current status
+bx01551,track_refund,where can I see the status of the restitution?
+bx01552,track_refund,"I expect a goddamn compensation of SAR 1150, was it processed"
+bx01553,track_refund,could uhelp me to know if there are any news on my rebate
+bx01554,track_refund,"I have got to track the restitution, how can I do it?"
+bx01555,track_refund,"I have to check the status of my compensation, I need help"
+bx01556,track_refund,I do not know what I need to do to see my rebate status
+bx01557,track_refund,need assistance checking my compensation current status
+bx01558,track_refund,can ya help me to see my compensation current status
+bx01559,track_refund,need help to see my rebate current status
+bx01560,track_refund,"I would like to see my compensation status, how do I do it?"
+bx01561,track_refund,I want assistance to see the status of the compensation
+bx01562,track_refund,know if there is anything new on my restitution
+bx01563,track_refund,want assistance seeing my compensation current status
+bx01564,track_refund,see the status of the reimbursement
+bx01565,track_refund,I am trying to see the current status of the compensation
+bx01566,track_refund,show current status of restitution
+bx01567,track_refund,i want help seeing my reimbursement status
+bx01568,track_refund,"I want to see my refund current status, help me"
+bx01569,track_refund,"I expect a bloody refund of SAR 1675, has it been processed?"

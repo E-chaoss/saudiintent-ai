@@ -1,0 +1,4 @@
+# Task 4: MARBERTv2 fine-tuning (needs a GPU to train; Google Colab already has PyTorch)
+-r requirements.txt
+torch>=2.1
+transformers>=4.40

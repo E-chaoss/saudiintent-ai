@@ -1,0 +1,24 @@
+id,action,reason
+bx00016,edit,source has no explicit cancel request
+bx00126,edit,source has no explicit cancel request
+bx00141,edit,source has no explicit cancel request
+bx00166,edit,source has no explicit cancel request
+bx00773,relabel,asks when an existing refund arrives (decision rule)
+bx00786,relabel,asks when an existing refund arrives (decision rule)
+bx00787,relabel,asks when an existing refund arrives (decision rule)
+bx00821,relabel,asks when an existing refund arrives (decision rule)
+bx00822,relabel,asks when an existing refund arrives (decision rule)
+bx00890,relabel,asks when an existing refund arrives (decision rule)
+bx00968,relabel,asks when an existing refund arrives (decision rule)
+bx00739,edit,literal and unclear translation
+bx00620,edit,unnatural verb form
+bx00553,edit,imperative addressed to the company
+bx00816,edit,unnatural تعويض عن أموالي
+bx00834,edit,unnatural تعويض عن أموالي
+bx00837,edit,unnatural تعويض عن أموالي
+bx00868,edit,unnatural تعويض عن أموالي
+bx00886,edit,unnatural تعويض عن أموالي
+bx00967,edit,unnatural تعويض عن أموالي
+bx00969,relabel,asks when an existing refund arrives (found in second pass)
+bx00018,edit,source has no explicit cancel request
+bx00169,edit,source has no explicit cancel request
