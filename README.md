@@ -3,7 +3,7 @@
 Arabic customer-support intent classification (8 intents), tested on MSA, Saudi dialect,
 spelling mistakes and Arabic-English code-switching.
 
-Team G21: Samsung Innovation Campus × Misk, 2026.
+Team Tech Minds: Samsung Innovation Campus × Misk, 2026.
 
 ## Requirements
 

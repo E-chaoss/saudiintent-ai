@@ -1,4 +1,4 @@
-# Contributing (team G21)
+# Contributing (Tech Minds team)
 
 ## Setup
 

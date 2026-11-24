@@ -5,7 +5,7 @@ Rules for AI coding agents **and** team members. Read this before planning, chan
 **The project:** classify Arabic customer-support messages into 8 intents, and measure how well three
 models (TF-IDF + Logistic Regression, a zero-shot LLM, fine-tuned MARBERTv2) handle Saudi messages in
 4 styles: MSA, Saudi dialect, spelling mistakes, Arabic-English code-switching.
-Team G21, Samsung Innovation Campus × Misk, 2026.
+Team Tech Minds, Samsung Innovation Campus × Misk, 2026.
 
 ## 1. Commands (from the repo root)
 
