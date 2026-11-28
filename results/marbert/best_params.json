@@ -1,0 +1,43 @@
+{
+  "best": {
+    "learning_rate": 2e-05,
+    "epochs": 3,
+    "val_macro_f1": 0.9921798631476051,
+    "val_accuracy": 0.991701244813278
+  },
+  "selected_by": "macro_f1 on the validation set",
+  "config": {
+    "model_name": "UBC-NLP/MARBERTv2",
+    "learning_rates": [
+      2e-05,
+      3e-05,
+      5e-05
+    ],
+    "epochs": [
+      3,
+      4
+    ],
+    "batch_size": 16,
+    "max_length": 128,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "max_grad_norm": 1.0,
+    "seed": 42,
+    "class_weights": false,
+    "selection_metric": "macro_f1",
+    "paths": {
+      "train": "data/processed/train.csv",
+      "validation": "data/processed/validation.csv",
+      "model_dir": "models/marbert/best",
+      "results_dir": "results/marbert"
+    }
+  },
+  "environment": {
+    "python": "3.13.16",
+    "torch": "2.14.1+cu130",
+    "transformers": "5.22.1",
+    "gpu": "Tesla T4"
+  },
+  "finished_utc": "2026-11-28T11:55:19+00:00",
+  "minutes": 2.8
+}

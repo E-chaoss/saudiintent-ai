@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Owner** | Hussam Jamal Khan |
-| **Status** | Code ready, not yet trained (needs a GPU run on Colab) |
+| **Status** | Trained on Google Colab (Tesla T4, about 3 minutes); Saudi test predictions delivered to Task 5 |
 | **Inputs** | `data/processed/train.csv`, `data/processed/validation.csv` (Task 1) |
 | **Outputs** | Fine-tuned model, validation results, best settings, predictions on the Saudi test set for Task 5 |
 
@@ -46,17 +46,51 @@ python src/marbert/predict.py --input data/saudi_test/saudi_test_FINAL.csv \
 
 ## Results
 
-Filled in after the first training run (`results/marbert/`):
+From the search in `results/marbert/` (validation set, 241 messages):
 
 | | Value |
 |---|---|
-| Best learning rate | — |
-| Best epochs | — |
-| Validation macro-F1 | — |
-| Validation accuracy | — |
+| Best learning rate | 2e-5 |
+| Best epochs | 3 |
+| Validation macro-F1 | 0.9922 |
+| Validation accuracy | 0.9917 (2 errors) |
+
+- All 6 settings reached the same validation macro-F1 (0.9922), so the tie rule kept the first and lightest
+  setting. Higher learning rates and more epochs only lowered the training loss (0.30 down to 0.02).
+  The validation set comes from the same translated MSA data as training, so it cannot separate the settings;
+  the Saudi test set (Task 5) is where the models differ.
+- Both validation errors are `track_refund` messages predicted as `get_refund`, the pair that
+  `docs/intents.md` lists as easily confused.
+- Predictions on the Saudi test set: `results/marbert/predictions_saudi_test.csv` (480 rows,
+  [shared format](../../docs/predictions_format.md)). Scoring them is Task 5's job.
+- The model itself (about 650 MB) is not in Git. It is saved on Google Drive.
 
 ## Open decisions
 
 - **Class weights** for `cancel_order` (fewer training rows): `class_weights: false` until the team decides.
   See [ADR 0003](../../docs/decisions/0003-marbert-training-setup.md).
 - **Predictions file format** shared with Task 5: proposed in [predictions_format.md](../../docs/predictions_format.md).
+
+## Suggestion: confidence-based fallback to a human agent
+
+> **Status: proposed** by the Task 4 owner, for the team to discuss. Nothing here is implemented.
+
+**Observation.** On a first try with Saudi-dialect messages, the fine-tuned model chose the right intent
+but with low confidence (for example 0.35 to 0.45), while it is confident on the MSA validation set. The model
+was trained on translated MSA, so dialect messages are harder for it. The Saudi test set (Task 5) will show
+how often this happens.
+
+**Suggestion.** Use the model's `confidence` (already returned by `predict.py` and written in the
+predictions file) to decide what the system does:
+
+| Confidence | What the system does |
+|---|---|
+| High (at or above a threshold) | Route the message to the predicted intent |
+| Low (below the threshold) | Do not guess: hand the message to a human agent (`contact_human_agent`) |
+
+**How the threshold could be chosen.** Not on the Saudi test set. Options to discuss: a fixed value
+agreed by the team, or a value chosen on validation data, then reported on the test set as
+"share of messages handed to a human" next to accuracy on the messages the model kept.
+
+**Why it helps.** A wrong intent sends the customer down the wrong path; a hand-off to a person is
+slower but safe. In the demo it also shows that the system knows when it is unsure.

@@ -1,0 +1,14 @@
+                     precision    recall  f1-score   support
+
+        track_order     1.0000    1.0000    1.0000        29
+       cancel_order     1.0000    1.0000    1.0000        20
+       change_order     1.0000    1.0000    1.0000        33
+         get_refund     0.9375    1.0000    0.9677        30
+       track_refund     1.0000    0.9412    0.9697        34
+      payment_issue     1.0000    1.0000    1.0000        30
+          complaint     1.0000    1.0000    1.0000        30
+contact_human_agent     1.0000    1.0000    1.0000        35
+
+           accuracy                         0.9917       241
+          macro avg     0.9922    0.9926    0.9922       241
+       weighted avg     0.9922    0.9917    0.9917       241
